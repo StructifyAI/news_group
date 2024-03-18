@@ -89,8 +89,8 @@ class NewsSummarizeAndCompare:
             await self.process_item(i, summaries)
         await self.print_components_and_titles()
 
-def retrive_news_articles(key):
-    query = NewsQuery(key)
+def retrive_news_articles():
+    query = NewsQuery(keyword="Apple", context="iPad", from_date="2024-03-16")
     newsApiClientWrapper = NewsApiWrapper(NEWS_API_KEY)
     response = newsApiClientWrapper.execute_query(query)
 
@@ -98,7 +98,7 @@ def retrive_news_articles(key):
         outfile.write(json.dumps(response, indent=4))
 
 if __name__ == "__main__":
-    retrive_news_articles("OpenAI") 
+    retrive_news_articles() 
     data = {}
     with open('news_results.json', 'r') as file:
         data = json.load(file)
