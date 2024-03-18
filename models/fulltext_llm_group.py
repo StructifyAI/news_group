@@ -61,7 +61,12 @@ class NewsSummarizeAndCompare:
         self.api_client = AsyncOpenAiClientWrapper(api_key)
         self.union_find = UnionFind(len(data))
         self.data = data
-        self.text = [article['title'] + article['description'] for article in data] #Modify later
+        self.text = []
+        for article in data:
+            if article['description']:
+                self.text.append(article['title'] + article['description'])
+            else:
+                self.text.append(article['title'])
 
     async def process_item(self, item_index, summaries):
         tasks = [self.compare_articles(item_index, j, summaries) for j in range(item_index + 1, len(summaries))]
@@ -90,7 +95,7 @@ class NewsSummarizeAndCompare:
         await self.print_components_and_titles()
 
 def retrive_news_articles():
-    query = NewsQuery(keyword="Apple", context="iPad", from_date="2024-03-16")
+    query = NewsQuery(keyword="Apple", context="shares and stock", from_date="2024-03-16")
     newsApiClientWrapper = NewsApiWrapper(NEWS_API_KEY)
     response = newsApiClientWrapper.execute_query(query)
 

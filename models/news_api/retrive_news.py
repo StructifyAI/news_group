@@ -1,5 +1,4 @@
 import requests
-import json
 
 class NewsQuery:
     def __init__(self, keyword, context="", from_date="", to_date="", language='en'):
@@ -19,15 +18,5 @@ class NewsApiWrapper:
         response = requests.get(query_url)
         return response.json()
 
-'''NEWS_API_KEY = None
-with open('../../keys/newsapi.txt', 'r') as file:
-    NEWS_API_KEY = file.read().strip()
-
-query = NewsQuery("OpenAI")
-newsApiClientWrapper = NewsApiWrapper(NEWS_API_KEY)
-response = newsApiClientWrapper.execute_query(query)
-
-with open("news_results.json", "w") as outfile:
-    outfile.write(json.dumps(response, indent=4))'''
 
 
