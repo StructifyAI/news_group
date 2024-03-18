@@ -1,7 +1,6 @@
 import json
 import asyncio
 from openai import AsyncOpenAI
-import networkx as nx
 import time
 
 class AsyncOpenAIClient:
@@ -77,7 +76,7 @@ class NewsComparison:
             print(f"{[self.headings[index] for index in indices]}\n")
 
 API_KEY = None
-with open('../keys/openai.txt', 'r') as file:
+with open('keys/openai.txt', 'r') as file:
     API_KEY = file.read().strip()
 
 headings = []

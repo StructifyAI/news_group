@@ -19,7 +19,7 @@ class NewsApiWrapper:
         response = requests.get(query_url)
         return response.json()
 
-NEWS_API_KEY = None
+'''NEWS_API_KEY = None
 with open('../../keys/newsapi.txt', 'r') as file:
     NEWS_API_KEY = file.read().strip()
 
@@ -28,6 +28,6 @@ newsApiClientWrapper = NewsApiWrapper(NEWS_API_KEY)
 response = newsApiClientWrapper.execute_query(query)
 
 with open("news_results.json", "w") as outfile:
-    outfile.write(json.dumps(response, indent=4))
+    outfile.write(json.dumps(response, indent=4))'''
 
 

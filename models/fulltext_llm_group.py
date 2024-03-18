@@ -3,6 +3,14 @@ import asyncio
 from openai import AsyncOpenAI
 from news_api.retrive_news import NewsQuery, NewsApiWrapper
 
+NEWS_API_KEY = None
+with open('keys/newsapi.txt', 'r') as file:
+    NEWS_API_KEY = file.read().strip()
+
+API_KEY = None
+with open('keys/openai.txt', 'r') as file:
+    API_KEY = file.read().strip()
+
 class AsyncOpenAiClientWrapper:
     def __init__(self, api_key):
         self.client = AsyncOpenAI(api_key=api_key)
@@ -83,21 +91,17 @@ class NewsSummarizeAndCompare:
 
 def retrive_news_articles(key):
     query = NewsQuery(key)
-    newsApiClientWrapper = NewsApiWrapper()
+    newsApiClientWrapper = NewsApiWrapper(NEWS_API_KEY)
     response = newsApiClientWrapper.execute_query(query)
 
     with open("news_results.json", "w") as outfile:
         outfile.write(json.dumps(response, indent=4))
 
 if __name__ == "__main__":
-    API_KEY = None
-    with open('../keys/openai.txt', 'r') as file:
-        API_KEY = file.read().strip()
-
     retrive_news_articles("OpenAI") 
     data = {}
     with open('news_results.json', 'r') as file:
         data = json.load(file)
 
-    program = NewsSummarizeAndCompare(API_KEY, data["articles"][0:20])
+    program = NewsSummarizeAndCompare(API_KEY, data["articles"][0:10])
     #asyncio.run(program.run())
