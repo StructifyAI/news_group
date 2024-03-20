@@ -95,7 +95,7 @@ class NewsSummarizeAndCompare:
         await self.print_components_and_titles()
 
 def retrive_news_articles():
-    query = NewsQuery(keyword="Apple", context="shares and stock", from_date="2024-03-16")
+    query = NewsQuery(keyword="Gaza", context="Israel hamas war", from_date="2024-03-16")
     newsApiClientWrapper = NewsApiWrapper(NEWS_API_KEY)
     response = newsApiClientWrapper.execute_query(query)
 

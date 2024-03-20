@@ -1,708 +1,1306 @@
 {
     "status": "ok",
-    "totalResults": 54,
+    "totalResults": 753,
     "articles": [
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "bbc-news",
+                "name": "BBC News"
             },
-            "author": "Brenda Stolyar",
-            "title": "Best AirPods (2024): Which Apple Headphones Should You Buy?",
-            "description": "Should you go AirPods Pro or AirPods Max? Apple sells several headphones\u2014even Beats\u2014so we break it all down to help you find the best buds for your ears.",
-            "url": "https://www.wired.com/gallery/best-airpods/",
-            "urlToImage": "https://media.wired.com/photos/65ea057df050a40d5b415477/191:100/w_2580,c_limit/AirPods-Guide-Gear.jpg",
-            "publishedAt": "2024-03-17T11:00:00Z",
-            "content": "If you're hunting for your first pair of AirPods, you may have a few questions, such as proper cleaning methods and how to tinker with certain settings. We've got some answers to a handful of common \u2026 [+5277 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Gaza faces famine during Ramadan, the holy month of fasting",
+            "description": "More than a million people in Gaza are already starving, says the global body responsible for declaring famine.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68577026",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13727/production/_132955697_d25a2269.jpg",
+            "publishedAt": "2024-03-18T17:13:50Z",
+            "content": "When dawn broke last Monday morning, signalling the beginning of Ramadan, it brought a cruel irony for the people of Gaza.\r\nThe holy month when Muslims fast during daylight had arrived amid a looming\u2026 [+8491 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Wafaa Shurafa, Samy Magdy, and Tia Goldenberg / AP",
+            "title": "Israel Launches Another Raid on Al-Shifa, Gaza\u2019s Largest Hospital",
+            "description": "The raid took place early Monday as tens of thousands of people have been sheltering there, according to Palestinian officials.",
+            "url": "https://time.com/6957903/israel-raid-gaza-shifa-hospital/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/AP24078140288990.jpg?quality=85",
+            "publishedAt": "2024-03-18T11:09:02Z",
+            "content": "RAFAH, Gaza Strip Israeli forces launched another raid on the Gaza Strip's largest hospital early Monday, saying Hamas militants had regrouped there and had fired on them from inside the compound, wh\u2026 [+6121 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
+                "name": "The New Yorker"
             },
-            "author": "MacRumors Staff",
-            "title": "Top Stories: iPhone Apps via Web in EU, iOS 17.4.1 Coming Soon, and More",
-            "description": "Apple news and rumors settled down a bit this week following the launch of the M3 MacBook Air, but there was still plenty to talk about including Apple's ongoing changes to satisfy the EU's Digital Markets Act and signs of an upcoming iOS update likely to add\u2026",
-            "url": "https://www.macrumors.com/2024/03/16/top-stories-iphone-apps-via-web/",
-            "urlToImage": "https://images.macrumors.com/t/WekzIRzXIpabTA77o5sv3fh_Wx4=/1600x/article-new/2024/03/top-stories-16mar2024.jpg",
-            "publishedAt": "2024-03-16T13:00:00Z",
-            "content": "Apple news and rumors settled down a bit this week following the launch of the M3 MacBook Air, but there was still plenty to talk about including Apple's ongoing changes to satisfy the EU's Digital M\u2026 [+3662 chars]"
+            "author": "Hannah Goldfield",
+            "title": "Kafta as a Tool for Palestinian Diplomacy",
+            "description": "Reem Kassis, the author of cookbooks including \u201cThe Arabesque Table,\u201d hosts a dinner party for Palestinian college students and considers whether food can be a tool of diplomacy amid the Israel-Hamas war in Gaza. Hannah Goldfield writes.",
+            "url": "https://www.newyorker.com/magazine/2024/03/25/kafta-as-a-tool-for-palestinian-diplomacy",
+            "urlToImage": "https://media.newyorker.com/photos/65f35ab39e0ed0e930017b50/16:9/w_1280,c_limit/r43963illuweb-site.png",
+            "publishedAt": "2024-03-18T10:00:00Z",
+            "content": "Do people drink juice? the writer Reem Kassis asked no one in particular one recent afternoon, as she bustled around her spacious kitchen in a suburb of Philadelphia. Theyre not kids, she said, reaso\u2026 [+4342 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Was this the week Israel and Hezbollah drew closer to war?",
+            "description": "Israel may be fighting in Gaza, but fear remains a war with Hezbollah could turn the conflict into something even deadlier.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68575413",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/172B7/production/_132930949_briefings_promo_lowen-nc.png",
+            "publishedAt": "2024-03-16T08:03:40Z",
+            "content": "Since the start of the Israel-Gaza war, following the Hamas attack of 7 October, the overriding fear has been that the conflict could spill over into something even deadlier.\r\nThe day after the Hamas\u2026 [+7094 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Netanyahu vows to defy allies on Rafah invasion",
+            "description": "The Israeli prime minister says no international pressure will stop Israel from achieving all its war aims.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68591487",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6C4A/production/_132922772_mediaitem132922660.jpg",
+            "publishedAt": "2024-03-17T13:48:32Z",
+            "content": "Israel's Prime Minister Benjamin Netanyahu has reaffirmed his determination to launch an offensive in Rafah, defying international criticism.\r\nThe city is crammed with some 1.5 million Palestinians f\u2026 [+2829 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mary Kekatos",
+            "title": "Famine 'imminent' in northern Gaza, many facing severe food insecurity: Report",
+            "description": "A report from the IPC initiative released Monday found that famine may be \"imminent\" in northern Gaza, where it has been difficult to deliver food and other aid.",
+            "url": "https://abcnews.go.com/International/famine-imminent-northern-gaza-catastrophic-levels-hunger-ipc-report/story?id=108239497",
+            "urlToImage": "https://i.abcnewsfe.com/a/cd7d78bd-c83e-40c8-986b-d32d54d76f13/Gaza-hunger-crisis-1-rt-jm-240318_1710766924119_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-03-18T21:06:10Z",
+            "content": "Famine is \"imminent\" in northern Gaza, as the entire population of the strip experiences high levels of food insecurity amid the ongoing Israel-Hamas war, according to a report released Monday.\r\nThe \u2026 [+5976 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "US reports death of senior Hamas military leader",
+            "description": "Details are also released of President Biden's high-stakes call to Israeli leader Benjamin Netanyahu.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68578735",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/645C/production/_132929652_qassamafp.jpg",
+            "publishedAt": "2024-03-18T23:39:19Z",
+            "content": "Hamas leader Marwan Issa died in an Israeli air strike, White House official Jake Sullivan has said. \r\nAs deputy military commander, Mr Issa would be Hamas's most senior leader to die since the war b\u2026 [+4484 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Digital Trends"
+                "name": "NPR"
             },
-            "author": "Aaron Mamiit",
-            "title": "Get 32% off the cellular model of the iPad Pro 12.9 this weekend",
-            "description": "This model of the 2021 Apple iPad Pro with a 12.9-inch screen and cellular capabilities is down to just $810 from Amazon's Woot, for massive savings of $389.",
-            "url": "https://www.digitaltrends.com/mobile/apple-12-9-inch-ipad-pro-m1-deal-woot-march-2024/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/07/ipad-pro-2021.jpg?resize=1200%2C630&p=1",
-            "publishedAt": "2024-03-17T10:30:23Z",
-            "content": "Digital Trends / Digital Trends\r\nIf you\u2019ve been thinking about getting the iPad Pro with cellular connectivity but you\u2019ve been hoping to buy the tablet from iPad deals for a discount, this may be wha\u2026 [+2223 chars]"
+            "author": "Suzanne Nuyen",
+            "title": "Famine in Gaza is 'imminent;' how Louisana's abortion ban changed maternal care",
+            "description": "People in Gaza are suffering from \"catastrophic levels of hunger,\" according to a group of global experts. Doctors say Louisiana's abortion ban has led to big deviations in maternal care.",
+            "url": "https://www.npr.org/2024/03/19/1239398523/up-first-newsletter-famine-gaza-icp-louisiana-abortion-maternal-care",
+            "urlToImage": "https://media.npr.org/assets/img/2024/03/19/ap24052664435571_wide-946c6f7bc7478609a62c3607d133ce40ca25e050-s1400-c100.jpg",
+            "publishedAt": "2024-03-19T12:02:41Z",
+            "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st\u2026 [+5577 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "9to5Mac"
+                "id": "time",
+                "name": "Time"
             },
-            "author": "Benjamin Mayo",
-            "title": "Mass production of two new AirPods models to start in May, targeting fall release",
-            "description": "Via Mark Gurman in the latest edition of his Power On newsletter, Apple suppliers are gearing up to begin mass production of the new AirPods, starting in May. will be replaced by a new lineup of two models.\n\n\n\nThe new AirPods models represent a new two tier l\u2026",
-            "url": "https://9to5mac.com/2024/03/17/mass-production-two-new-airpods-may/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/apple-airpods-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-03-17T14:00:03Z",
-            "content": "Via Mark Gurman in the latest edition of his Power On newsletter, Apple suppliers are gearing up to begin mass production of the new AirPods, starting in May. AirPods 3 will be replaced by a new line\u2026 [+1479 chars]"
+            "author": "Jill Colvin / AP",
+            "title": "Trump Says Jews Who Vote for Democrats \u2018Hate Israel\u2019 and Their Religion",
+            "description": "The former U.S. President also said Jewish Democrats also hate \u201ctheir religion,\" igniting a firestorm of criticism.",
+            "url": "https://time.com/6958299/trump-israel-democrats/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/GettyImages-1762144741.jpg?quality=85",
+            "publishedAt": "2024-03-19T10:39:33Z",
+            "content": "NEW YORK Former President Donald Trump on Monday charged that Jews who vote for Democrats hate Israel\" and hate their religion, igniting a firestorm of criticism from the White House and Jewish leade\u2026 [+4472 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "AppleInsider"
+                "id": "bbc-news",
+                "name": "BBC News"
             },
-            "author": "news@appleinsider.com (Stephen Silver)",
-            "title": "Crime blotter: Influencer who filmed Philadelphia Apple Store looting headed to trial",
-            "description": "In the latest Apple Crime Blotter, an indicted Google engineer used Apple products to avoid suspicion, a school official is indicted for stealing iPads, and Find My helps arrest an AirPods thief.Apple Store on Walnut Street in Philadelphia The latest in an oc\u2026",
-            "url": "https://appleinsider.com/articles/24/03/17/crime-blotter-influencer-who-filmed-philadelphia-apple-store-looting-headed-to-trial",
-            "urlToImage": "https://photos5.appleinsider.com/gallery/58978-120340-applestorewalnut-xl.jpg",
-            "publishedAt": "2024-03-17T12:31:01Z",
-            "content": "Apple Store on Walnut Street in Philadelphia \r\nIn the latest Apple Crime Blotter, an indicted Google engineer used Apple products to avoid suspicion, a school official is indicted for stealing iPads,\u2026 [+4120 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Born on 7 October: Gaza mum's fight to feed her baby",
+            "description": "Amal Alabadla has been in a daily battle to keep Mohamed and his two-year-old brother alive.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68542331",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4695/production/_132896081_baby2-sidebars.jpg",
+            "publishedAt": "2024-03-16T00:05:29Z",
+            "content": "On the morning of 7 October, Amal Alabadla was heavily pregnant and snuggled up in bed with 18-month-old Noah when they were woken by a wall of sound.\r\nHamas had launched its attack on Israel, firing\u2026 [+7783 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "AppleInsider"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "news@appleinsider.com (Charles Martin)",
-            "title": "Apple Vision Pro App Store now viewable from web browsers",
-            "description": "Apple launched a web-based version of the Apple Vision Pro App Store on Friday, giving non-owners a way to see what apps are available and newly added to the Vision Pro's nascent but growing library.For those who are \"window shopping\" for an Apple Vision Pro,\u2026",
-            "url": "https://appleinsider.com/articles/24/03/16/apple-vision-pro-app-store-now-viewable-from-web-browsers",
-            "urlToImage": "https://photos5.appleinsider.com/gallery/58984-120353-cropped-Screenshot-2024-03-16-at-93237-AM-xl.jpg",
-            "publishedAt": "2024-03-16T17:35:28Z",
-            "content": "Apple launched a web-based version of the Apple Vision Pro App Store on Friday, giving non-owners a way to see what apps are available and newly added to the Vision Pro's nascent but growing library.\u2026 [+1081 chars]"
+            "author": "Al Jazeera Staff",
+            "title": "Biden warns Netanyahu against \u2018mistake\u2019 of invading Rafah: White House",
+            "description": "The US president reportedly told Israeli prime minister that a 'coherent strategy' is needed to defeat Hamas in Gaza.",
+            "url": "https://www.aljazeera.com/news/2024/3/18/biden-warns-netanyahu-against-mistake-of-invading-rafah-white-house",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2023-10-18T151804Z_1330339924_RC21V3AW2LR6_RTRMADP_3_ISRAEL-PALESTINIANS-BIDEN-1710791647.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-03-18T23:11:19Z",
+            "content": "Washington, DC The United States has issued its strongest public warning yet to Israel against invading the crowded city of Rafah in the Gaza Strip, saying that such a ground operation would deepen t\u2026 [+4507 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "9to5Mac"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Chance Miller",
-            "title": "Walmart begins selling the Mac for the first time: M1 MacBook Air for $699 [Updated]",
-            "description": "Update: Best Buy has now one-upped Walmart and is now selling the M1 MacBook Air at $649. \n\n\n\n\n\n\n\nWalmart is teaming up with Apple to sell the Mac for the first time. In a press release today, the company said that it is now selling the base model M1 MacBook \u2026",
-            "url": "https://9to5mac.com/2024/03/16/walmart-m1-macbook-air-launch/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/MacBook_Air_13-in_M1_Hero_95b812.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-03-16T23:47:16Z",
-            "content": "Update: Best Buy has now one-upped Walmart and is now selling the M1 MacBook Air at $649. \r\nWalmart is teaming up with Apple to sell the Mac for the first time. In a press release today, the company \u2026 [+2178 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AppleInsider"
-            },
-            "author": "news@appleinsider.com (Christine McKee)",
-            "title": "New streaming deals knock up to 75% off Max, Paramount Plus, Hulu, Peacock & Apple TV Plus",
-            "description": "Today's best streaming deals deliver discounts of up to 75% off plans from Max, Paramount Plus, Hulu and Apple TV Plus.Save up to 75% with these streaming service deals.Whether you're looking to binge watch a new series entirely or can't wait to catch the lat\u2026",
-            "url": "https://appleinsider.com/articles/24/03/16/new-streaming-deals-knock-up-to-75-off-max-paramount-plus-hulu-peacock-apple-tv-plus",
-            "urlToImage": "https://photos5.appleinsider.com/gallery/58983-120352-streaming-deals-max-hulu-peacock-paramount-plus-apple-tv-xl.jpg",
-            "publishedAt": "2024-03-16T18:30:34Z",
-            "content": "Save up to 75% with these streaming service deals.\r\nToday's best streaming deals deliver discounts of up to 75% off plans from Max, Paramount Plus, Hulu and Apple TV Plus.\r\nWhether you're looking to \u2026 [+3330 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slickdeals.net"
-            },
-            "author": "clauk",
-            "title": "Sam's Club Members: 64GB Apple TV 4K Wi\u2011Fi Streaming Media Player (3rd Gen, 2022) $99 + Free S/H w/ Plus",
-            "description": "Sam's Club has for their *Members*: *64GB Apple TV 4K Wi\u2011Fi Streaming Media Player* (3rd Gen, 2022, MN873LL/A) on sale for *$99*. *Shipping is free* for Plus members, otherwise shipping varies by...",
-            "url": "https://slickdeals.net/f/17362767-apple-tv-4k-3rd-gen-64gb-99",
-            "urlToImage": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/15150834.attach",
-            "publishedAt": "2024-03-16T19:44:23Z",
-            "content": "Depends. If you're generally happy with your smartTV interface, then it's probably not worth it.However, if you find whatever you're currently using annoying because of slow/laggy controls, excessive\u2026 [+570 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iLounge"
-            },
-            "author": "Samantha Wiley",
-            "title": "Enjoy 21% Off the Apple 20W USB-C Power Adapter",
-            "description": "Get a proven Apple-made USB-C charger at a discounted price. Today, the Apple 20W USB-C Power Adapter is down to just $14.99 from its original price of $20 on Amazon. The 20W USB-C charger features iPhone fast charging capability, which means you can get more\u2026",
-            "url": "https://www.ilounge.com/news/enjoy-21-off-the-apple-20w-usb-c-power-adapter",
-            "urlToImage": "https://www.ilounge.com/wp-content/uploads/2024/03/Apple-20W-USB-C-Power-Adapter.png",
-            "publishedAt": "2024-03-16T19:11:10Z",
-            "content": "Get a proven Apple-made USB-C charger at a discounted price. Today, the Apple 20W USB-C Power Adapter is down to just $14.99 from its original price of $20 on Amazon.\r\nThe 20W USB-C charger features \u2026 [+604 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "redmondpie.com"
-            },
-            "author": "Oliver Haslam",
-            "title": "Apple\u2019s Latest iPad Air With The Super-Fast M1 Chip Is $150 Off Today",
-            "description": "Apple's iPad Air is a great tablet for people who want a fast device but don't necessarily need everything that the iPad Pro has to offer. Right now, you can pick one up with a massive $150 discount with multiple colors available, but we don't know how long t\u2026",
-            "url": "https://www.redmondpie.com/apples-latest-ipad-air-with-the-super-fast-m1-chip-is-150-off-today/",
-            "urlToImage": "https://cdn.redmondpie.com/wp-content/uploads/2023/11/m1-ipad-air-1.jpeg",
-            "publishedAt": "2024-03-16T13:32:14Z",
-            "content": "Apple\u2019s iPad Air is a great tablet for people who want a fast device but don\u2019t necessarily need everything that the iPad Pro has to offer. Right now, you can pick one up with a massive $150 discount \u2026 [+1504 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SamMobile"
-            },
-            "author": "Abid Iqbal Shaik",
-            "title": "Samsung will be sole display driver supplier for OLED Apple iPad Pros",
-            "description": "Apple is developing six new iPad models. Among them are 11-inch and 12.9-inch iPad Pros. The tech giant is said to offer both tablets with OLED displays, and Samsung Display is one of the two companies supplying OLED panels for those models, with the other co\u2026",
-            "url": "https://www.sammobile.com/news/samsung-sole-supplier-display-driver-oled-apple-ipad-pro/",
-            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/03/Samsung-Display-Driver-IC-DDI-720x405.jpg",
-            "publishedAt": "2024-03-16T13:17:56Z",
-            "content": "Apple is developing six new iPad models. Among them are 11-inch and 12.9-inch iPad Pros. The tech giant is said to offer both tablets with OLED displays, and Samsung Display is one of the two compani\u2026 [+1089 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Ewan Spence, Senior Contributor, \n Ewan Spence, Senior Contributor\n https://www.forbes.com/sites/ewanspence/",
-            "title": "Apple Confirms New MacBook Air Offer",
-            "description": "If you thought Apple was finished disrupting the laptop market with the launch of the M3 MacBook Air, think again.",
-            "url": "https://www.forbes.com/sites/ewanspence/2024/03/16/apple-macbook-air-price-discount-m1-walmart-new-macbook-air/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65f604bab13c95338b2be55b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-03-16T20:45:50Z",
-            "content": "If you thought Apple was finished disrupting the laptop market with the launch of the M3 MacBook Air, think again.\r\nDetail of a 2020 Apple MacBook Air (Photo by Phil Barker/Future Publishing via Gett\u2026 [+2041 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iLounge"
-            },
-            "author": "Samantha Wiley",
-            "title": "Vision Pro apps support web browsing",
-            "description": "Vision Pro users can now browse for apps they can download on a web browser. The visionOS App Store platform is now viewable through web browsers such as Safari, Chrome, and Edge. This can be done by going to the Apple Vision web page, then clicking or tappin\u2026",
-            "url": "https://www.ilounge.com/news/vision-pro-apps-support-web-browsing",
-            "urlToImage": "https://www.ilounge.com/wp-content/uploads/2024/03/Vision-Pro-Apps.png",
-            "publishedAt": "2024-03-16T19:04:59Z",
-            "content": "Vision Pro users can now browse for apps they can download on a web browser.\r\nThe visionOS App Store platform is now viewable through web browsers such as Safari, Chrome, and Edge. This can be done b\u2026 [+702 chars]"
+            "author": "Al Jazeera",
+            "title": "Israeli forces storm Gaza\u2019s al-Shifa Hospital",
+            "description": "Gaza officials report mounting casualties; Israeli military claims Hamas using medical complex to plan attacks.",
+            "url": "https://www.aljazeera.com/news/2024/3/18/israeli-army-opens-fire-inside-gazas-al-shifa-hospital-officials-say",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2023-11-25T182513Z_1494539871_RC2DK4A0WXW3_RTRMADP_3_ISRAEL-PALESTINIANS-1710730174.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-03-18T07:51:14Z",
+            "content": "Israels military forces have stormed al-Shifa Hospital in Gaza City with tanks and heavy gunfire, resulting in deaths and injuries, Palestinian officials have said.\r\nThe Israeli military said in a st\u2026 [+3364 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Forbes"
             },
-            "author": "David Phelan, Senior Contributor, \n David Phelan, Senior Contributor\n https://www.forbes.com/sites/davidphelan/",
-            "title": "iPhone 16 Pro Awesome Design Update Won\u2019t Happen, Report Claims",
-            "description": "The next iPhone was tipped to see a remarkable design change, but it now looks increasingly unlikely. And if it ever does come, it won't be for years...",
-            "url": "https://www.forbes.com/sites/davidphelan/2024/03/16/iphone-16-pro-awesome-design-update-wont-happen-report-claims/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65f56c2d7a12ebb47aaa7455/0x0.jpg?format=jpg&crop=2357,1326,x0,y216,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-03-16T10:05:14Z",
-            "content": "Just over a year ago, there were plenty of reports that Apple would be introducing a holy-grail feature on the iPhone 16 Pro: under-screen Face ID technology which would remove the need for a Dynamic\u2026 [+2466 chars]"
+            "author": "Forbes International, Contributor, \n Forbes International, Contributor\n https://www.forbes.com/sites/forbesinternational/",
+            "title": "Israel-Hamas War: Week Twenty Four.",
+            "description": "Weekly dispatches from Israel provided by Forbes Israel.",
+            "url": "https://www.forbes.com/sites/forbesinternational/2024/03/18/israel-hamas-war-week-twenty-four/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65ee293b2bbdb12942701acf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-03-18T22:28:48Z",
+            "content": "SOUTHERN ISRAEL, ISRAEL - MARCH 10: An Israeli Armoured personnel carrier moves near the border ... [+] with the Gaza Strip as seen from a position on the Israeli side of the border on March 10, 2024\u2026 [+11991 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Israeli limits on Gaza aid may be \u2018war crime\u2019, UN warns",
+            "description": "Restricting aid could be seen as using starvation as a 'weapon of war', the UN's human rights chief says.",
+            "url": "https://www.aljazeera.com/news/2024/3/19/israels-restrictions-to-gaza-aid-may-be-war-crime-un-rights-office-says",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-18T170805Z_503200294_RC2BO6A7X3X0_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-AID-1710849746.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-03-19T12:49:47Z",
+            "content": "Israels restrictions on humanitarian aid for the Gaza Strip may amount to a war crime, the United Nations human rights chief says.\r\nThe appraisal on Tuesday followed the release of a UN-backed report\u2026 [+2916 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Netanyahu repeats Rafah assault threat, says civilians won\u2019t be \u2018locked in\u2019",
+            "description": "Israeli PM says troops will go ahead with ground offensive in southern Gaza, spurring fears of mass civilian casualties.",
+            "url": "https://www.aljazeera.com/news/2024/3/17/netanyahu-repeats-rafah-assault-threat-says-civilians-wont-be-locked-in",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AFP__20240316__34LN6YU__v1__HighRes__PalestinianIsraelConflictRamadan-1710678592.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-03-17T17:21:48Z",
+            "content": "Israeli Prime Minister Benjamin Netanyahu says Israel will not leave civilians trapped in Rafah when its forces begin a long-feared assault on the southern Gaza city where more than a million Palesti\u2026 [+4349 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Israel asks ICJ not to order new measures over looming famine in Gaza",
+            "description": "Israel asks the UN court to reject South Africa's request for more emergency orders in the Gaza genocide case.",
+            "url": "https://www.aljazeera.com/news/2024/3/18/israel-asks-icj-not-to-order-new-measures-over-looming-famine-in-gaza",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/12096828-1710763782.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-03-18T18:23:20Z",
+            "content": "Israel has asked the International Court of Justice (ICJ) not to issue emergency orders for it to step up humanitarian aid to Gaza to address a looming famine, dismissing South Africas request to do \u2026 [+2878 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Over 13,000 children killed in Gaza, others severely malnourished: UNICEF",
+            "description": "The UN agency says surviving children do not 'even have the energy to cry' as famine looms in the besieged enclave.",
+            "url": "https://www.aljazeera.com/news/2024/3/17/over-13000-children-killed-in-gaza-others-severely-malnourished-unicef",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AFP__20240311__34L88W9__v1__Preview__PalestinianIsraelConflictReligionIslamRamadan-1710228923.jpg?resize=1200%2C630",
+            "publishedAt": "2024-03-17T20:22:26Z",
+            "content": "Israel has killed more than 13,000 children in Gaza since October 7 while others are suffering from severe malnutrition and do not even have the energy to cry, says the United Nations Childrens Fund \u2026 [+2266 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Israel approves plan to attack Gaza\u2019s Rafah but keeps truce talks alive",
+            "description": "Nod for long-threatened invasion of Rafah, home to 1.4 million displaced people, comes as Israel to send team to Qatar.",
+            "url": "https://www.aljazeera.com/news/2024/3/16/israel-approves-plan-to-attack-gazas-rafah-but-keeps-truce-talks-alive",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-15T142938Z_253441403_RC2AM6AS76RJ_RTRMADP_3_ISRAEL-PALESTINIANS-1710583145.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-03-16T11:22:45Z",
+            "content": "Israels Prime Minister Benjamin Netanyahu has approved plans for an attack on Rafah, where 1.4 million displaced Palestinians have sought shelter, while planning to send a team to further truce talks\u2026 [+3546 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MobileSyrup"
+                "name": "Euronews"
             },
-            "author": "Dean Daley",
-            "title": "Google, Apple and Samsung: Please make a foldable tablet",
-            "description": "If you\u2019re a frequent MobileSyup reader, you probably best know me for my reviews of flagship smartphones like the Pixel 8 Pro or Galaxy S24 Ultra, or maybe from my favourite things of the year round-up, where I focus on my love of anime. But above all, there\u2019\u2026",
-            "url": "https://mobilesyrup.com/2024/03/17/foldable-tablet-google-apple-samsung-community-question/",
-            "urlToImage": "https://cdn.mobilesyrup.com/wp-content/uploads/2022/07/surface-duo-2-hands-on-header-scaled.jpg",
-            "publishedAt": "2024-03-17T15:01:30Z",
-            "content": "If you\u2019re a frequent MobileSyup reader, you probably best know me for my reviews of flagship smartphones like the Pixel 8 Pro or Galaxy S24 Ultra, or maybe from my favourite things of the year round-\u2026 [+2114 chars]"
+            "author": null,
+            "title": "Israel Hamas war: Shifa Hospital raid, Gaza aid struggles, Scholz says situation 'desperate'",
+            "description": "All the latest developments from the Israel Hamas war.",
+            "url": "https://www.euronews.com/2024/03/18/israel-hamas-war-shifa-hospital-raid-gaza-aid-struggles-scholz-says-situation-desperate",
+            "urlToImage": "https://static.euronews.com/articles/stories/08/31/37/50/1200x675_cmsv2_590a4ef2-e5db-521e-a5e6-35d69be5e510-8313750.jpg",
+            "publishedAt": "2024-03-18T09:40:27Z",
+            "content": "All the latest developments from the Israel Hamas war.\r\n Israel's military raids Shifa hospital in Gaza\r\nIsraeli forces have launched another raid on the Shifa Hospital in Gaza City.\u00a0\r\nIt claimed Ham\u2026 [+2582 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Simon Speakman Cordall",
+            "title": "The West is giving Israel weapons while discussing delivering aid to Gaza",
+            "description": "Does the West risk charges of complicity by supplying weapons to Israel in light of its plausible genocide in Gaza?",
+            "url": "https://www.aljazeera.com/news/2024/3/18/the-west-is-giving-israel-weapons-while-discussing-delivering-aid-to-gaza",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/11841134-1700139204.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-03-18T08:27:32Z",
+            "content": "As lawmakers across much of the West debate the extent to which Israel may be hampering the passage of lifesaving aid into Gaza, the weapons exports that underpin much of Israels war on the besieged \u2026 [+8549 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Creative Bloq"
+                "name": "Forbes"
             },
-            "author": "erlingur.einarsson@futurenet.com (Erlingur Einarsson)",
-            "title": "This is how I'd Frankenstein together my dream laptop",
-            "description": "If only these brilliant innovations could be joined together...",
-            "url": "https://www.creativebloq.com/news/my-favourite-laptop-2024",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KVcwCc5BLfEBgp3GN2hPbA-1200-80.jpg",
-            "publishedAt": "2024-03-16T15:00:30Z",
-            "content": "In a conversation with the Creative Bloq team last week, I was asked by my editor what my favourite laptop right now is. And I said, \"I'll tell you in my next opinion piece!\"\u00a0\r\nAnd then I thought abo\u2026 [+5423 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Noah Hunter",
-            "title": "Daily Deals: MacBook Air M1, PlayStation 5 Slim, Mario Kart 8 Deluxe",
-            "description": null,
-            "url": "https://www.ign.com/articles/daily-deals-macbook-air-m1-playstation-5-slim-mario-kart-8-deluxe",
-            "urlToImage": "https://assets-prd.ignimgs.com/2024/03/16/daily-deals-march-16-1710612806247.png?width=1280",
-            "publishedAt": "2024-03-16T18:15:58Z",
-            "content": "The weekend is officially here, and we've gathered up some excellent deals for you! Whether you're searching for a new laptop or a discounted game, we've got you covered with the best deals for Satur\u2026 [+2792 chars]"
+            "author": "Brian Bushard, Forbes Staff, \n Brian Bushard, Forbes Staff\n https://www.forbes.com/sites/brianbushard/",
+            "title": "Hamas\u2019s No. 2 Leader Dead, White House Says, As Biden Presses Netanyahu For \u2018End Game\u2019",
+            "description": "President Joe Biden  pleaded with Israeli Prime Minister Benjamin Netanyahu for a \u201ccoherent and sustainable strategy\u201d to end the war in Gaza and criticized plans to invade Rafah.",
+            "url": "https://www.forbes.com/sites/brianbushard/2024/03/18/hamass-no-2-leader-dead-white-house-says-as-biden-presses-netanyahu-for-end-game/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/654a674712c8407b9ecc9419/0x0.jpg?format=jpg&crop=1790,1007,x0,y125,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-03-18T18:59:22Z",
+            "content": "White House National Security Advisor Jake Sullivan confirmed Monday that Hamas no. 2 military leader Marwan Issa died in an Israeli air strike, addressing reporters after a high-stakes call between \u2026 [+1142 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Geeky Gadgets"
+                "name": "The Indian Express"
             },
-            "author": "Roland Hutchinson",
-            "title": "How to Take a Screenshot on Your iPad",
-            "description": "Screenshots serve as an essential instrument for documenting and retaining visual data on your iPad, offering a wide range of applications from the practical to the creative. Whether your objective is to provide clear, visual examples in a technological tutor\u2026",
-            "url": "https://www.geeky-gadgets.com/how-to-take-a-screenshot-on-your-ipad/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/Screenshot-ipad.jpg",
-            "publishedAt": "2024-03-17T08:01:24Z",
-            "content": "Screenshots serve as an essential instrument for documenting and retaining visual data on your iPad, offering a wide range of applications from the practical to the creative. Whether your objective i\u2026 [+3964 chars]"
+            "author": "Reuters",
+            "title": "Israel prepares return to ceasefire talks; UN says Gaza hunger crisis worsens",
+            "description": "The Hamas offer, reviewed by Reuters, foresees dozens of Israeli hostages freed in return for hundreds of Palestinians in Israeli jails during a weeks-long ceasefire that would let more aid into Gaza.",
+            "url": "https://indianexpress.com/article/world/israel-return-ceasefire-talks-un-gaza-hunger-crisis-worsens-9218580/",
+            "urlToImage": "https://images.indianexpress.com/2024/03/2024-03-15T131033Z_1744582088_RC2CM6AON1QC_RTRMADP_2_ISRAEL-PALESTINIANS.jpeg",
+            "publishedAt": "2024-03-17T01:52:18Z",
+            "content": "The main UN aid agency operating in Gaza said on Saturday that acute malnutrition was accelerating in the north of the Palestinian enclave as Israel prepared to send a delegation to Qatar for new cea\u2026 [+4332 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Ozbargain.com.au"
+                "name": "Forbes"
             },
-            "author": "shxhshzhz",
-            "title": "Apple iPad 10.2\" 9th Gen 64GB Wi-Fi Space Grey $439.99 Delivered @ Costco (Membership Required)",
-            "description": "$447-449 at most retailers, and cheaper at Costco. Try to PB at OW to make it $417.99.",
-            "url": "https://www.ozbargain.com.au/node/836471",
-            "urlToImage": "https://files.ozbargain.com.au/n/71/836471x.jpg?h=f0f120c6",
-            "publishedAt": "2024-03-16T12:08:09Z",
-            "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright \u00a9 2006-2\u2026 [+32 chars]"
+            "author": "James Farrell, Forbes Staff, \n James Farrell, Forbes Staff\n https://www.forbes.com/sites/jamesfarrell/",
+            "title": "Israel-Hamas Cease-Fire Talks Will Resume As Netanyahu Approves Rafah Invasion",
+            "description": "Cease-fire talks are set to resume, but Israel has publicly suggested it finds Hamas\u2019 latest proposal \u201cridiculous.\u201d",
+            "url": "https://www.forbes.com/sites/jamesfarrell/2024/03/16/israel-hamas-cease-fire-talks-will-resume-as-netanyahu-approves-rafah-invasion/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65f5c8a833daf0c476f4924c/0x0.jpg?format=jpg&crop=1125,633,x0,y57,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-03-16T16:29:31Z",
+            "content": "Israel and Hamas are set to resume cease-fire negotiations in Qatar, reportedly as soon as Sunday, after efforts to establish a cease-fire before the Muslim holy month of Ramadan fell short last week\u2026 [+3618 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Oxfam accuses Israel of \u2018deliberately\u2019 blocking aid to famine-stalked Gaza",
+            "description": "Aid trucks are waiting an average of 20 days to access the enclave, the NGO says, as warnings of impending famine rise.",
+            "url": "https://www.aljazeera.com/news/2024/3/18/israel-deliberately-blocking-medical-aid-from-gaza-oxfam-report-warns",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AFP__20240317__34LP6QZ__v2__HighRes__TopshotPalestinianIsraelConflict-1710719128.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-03-18T12:22:08Z",
+            "content": "Israel is using bureaucracy to deliberately hinder aid supplies headed into Gaza, Oxfam has claimed.\r\nThe NGOs assertion was made in a report titled: Inflicting Unprecedented Suffering and Destructio\u2026 [+4743 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Adnan Mahmutovi\u0107",
+            "title": "Schr\u00f6dinger\u2019s genocide",
+            "description": "In Gaza, as in Bosnia, a genocide is denied only to be glorified.",
+            "url": "https://www.aljazeera.com/opinions/2024/3/17/schrodingers-genocide",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AFP__20240307__34KZ3UV__v6__HighRes__TopshotPalestinianIsraelGazaConflict-1709940872_4fdb83-1710694435.jpg?resize=1200%2C630&quality=80",
+            "publishedAt": "2024-03-17T16:52:49Z",
+            "content": "Bosnians have experience with genocide. Not just the signs of it coming. Not just the fact of it happening. But also this strange phenomenon we call Schr\u00f6dingers genocide: the simultaneous glorificat\u2026 [+8393 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "Netanyahu snaps back against growing U.S. criticism as pressure for ceasefire in Gaza mounts",
+            "description": "As international pressure for a ceasefire in Gaza rises, Israeli Prime Minister Benjamin Netanyahu has railed against top ally the United States for its \"wholly inappropriate\" critique of his leadership.",
+            "url": "https://www.cbc.ca/news/world/netanyahu-united-states-ceasefire-gaza-pressure-1.7146638",
+            "urlToImage": "https://i.cbc.ca/1.6998448.1697538223!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/biden-israel.jpg",
+            "publishedAt": "2024-03-17T20:05:17Z",
+            "content": "As international pressure for a ceasefire in Gaza rises, Israeli Prime Minister Benjamin Netanyahu has railed against top ally the United States for the recent critique of his leadership, describing \u2026 [+5381 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "Famine in Gaza 'imminent,' UN-backed report says",
+            "description": "Famine is expected between now and May in the north of the Gaza Strip, a UN-backed report said on Monday, after more than five months of war that have shattered the Palestinian territory, killed thousands and cut off supplies.",
+            "url": "https://www.cbc.ca/news/world/ipc-gaza-famine-report-1.7146974",
+            "urlToImage": "https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/default-headline-image-news.jpg",
+            "publishedAt": "2024-03-18T12:47:24Z",
+            "content": "Famine is expected between now and May in the north of the Gaza Strip, a UN-backed report said on Monday, after more than five months of war that have shattered the Palestinian territory, killed thou\u2026 [+4499 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Idownloadblog.com"
+                "name": "Forbes"
             },
-            "author": "Cody Lee",
-            "title": "Picurious, Deckset, Muse Pro, and other apps to check out this weekend",
-            "description": "It's the weekend again ya'll, and you know what that means: time for another Apps of the Week roundup! I can confidently say that this is one of my favorites of 2024 thus far, with a powerful learning app, a Markdown slideshow-maker, and an AI-infused sketch \u2026",
-            "url": "https://www.idownloadblog.com/2024/03/16/apps-of-the-week-part-80/",
-            "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2018/12/Apps-of-the-week.jpg",
-            "publishedAt": "2024-03-16T13:00:03Z",
-            "content": "It\u2019s the weekend again ya\u2019ll, and you know what that means: time for another Apps of the Week roundup! I can confidently say that this is one of my favorites of 2024 thus far, with a powerful learnin\u2026 [+2836 chars]"
+            "author": "Daniel Markind, Contributor, \n Daniel Markind, Contributor\n https://www.forbes.com/sites/danielmarkind/",
+            "title": "Can Natural Gas Help Prevent An Israel-Lebanon War?",
+            "description": "Disputes over natural gas rights generally lead to political or military conflict. In the Middle East, it is possible natural gas might help prevent open warfare.",
+            "url": "https://www.forbes.com/sites/danielmarkind/2024/03/18/can-natural-gas-help-prevent-an-israel-lebanon-war/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65f4aaea15272965df24e069/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-03-18T13:02:40Z",
+            "content": "NORTHERN BORDER, ISRAEL - JANUARY 11: An Israeli artillery unit fires across the border towards ... [+] Lebanon on January 11, 2024 in Northern Israel, Israel. The war between Israel and Hamas that i\u2026 [+6536 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "Al Jazeera journalist beaten, arrested by Israeli forces from Gaza hospital",
+            "description": "Media watchdogs decry Ismail al-Ghoul's arrest, demand his immediate release after he is taken from al-Shifa Hospital.",
+            "url": "https://www.aljazeera.com/news/2024/3/18/al-jazeera-journalist-beaten-arrested-by-israeli-forces-from-gaza-hospital",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/GI8pa5NXEAAK6j0-1710767888.jpeg?resize=1200%2C630",
+            "publishedAt": "2024-03-18T15:09:52Z",
+            "content": "Israeli forces have arrested and severely beaten Al Jazeera Arabic correspondent Ismail al-Ghoul in Gaza Citys al-Shifa Hospital.\r\nAl-Ghoul was there early on Monday with his crew and other reporters\u2026 [+4184 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "iMore"
+                "name": "CNA"
             },
-            "author": "Lloyd Coombes",
-            "title": "It just got a lot easier to decide if Vision Pro is for you",
-            "description": "Apple's Vision Pro apps can now be seen on the web, letting you better decide if the new headset is for you.",
-            "url": "https://www.imore.com/vision-pro/it-just-got-a-lot-easier-to-decide-if-vision-pro-is-for-you",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/K6S8uegLx89pPqT27LL9VS-1200-80.png",
-            "publishedAt": "2024-03-16T09:40:48Z",
-            "content": "The Vision Pro's price may put you off buying one, but you may also be struggling to work out how it fits into your daily life or workflow.\r\nAn Apple device is, in many ways, only as good as its avai\u2026 [+1477 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Noah Hunter",
-            "title": "Amazon Prime Day 2024: When to Expect Sales this Year",
-            "description": "Already thinking about summer savings?",
-            "url": "https://www.ign.com/articles/prime-day-2024",
-            "urlToImage": "https://assets-prd.ignimgs.com/2023/07/03/top-10-vital-tips-and-hacks-for-prime-day-ign-2023-1688392574595.png?width=1280",
-            "publishedAt": "2024-03-16T17:02:00Z",
-            "content": "Prime Day is one the best days of the year to score huge discounts and make the most of your Amazon Prime membership. The annual summer sale discounts thousands of items, with lightning deals each ho\u2026 [+6352 chars]"
+            "author": null,
+            "title": "Vivian Balakrishnan meets Jordan counterpart amid Singapore's humanitarian aid mission for Gaza",
+            "description": "Foreign Affairs Minister Vivian Balakrishnan expressed appreciation for Jordan's facilitation of Singapore's humanitarian assistance to Gaza.",
+            "url": "https://www.channelnewsasia.com/singapore/gaza-humanitarian-aid-singapore-jordan-vivian-balakrishnan-israel-hamas-war-4200791",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--v5QP6S5n--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/03/17/copy_of_dsc03405_3.jpg?itok=RXnWcG6n",
+            "publishedAt": "2024-03-16T23:41:01Z",
+            "content": "The war began on Oct 7 when Hamas sent fighters into Israel, killing 1,200 people, mostly civilians, and seizing 253 hostages, according to Israeli tallies.\r\nIsrael's ground and air campaign has kill\u2026 [+1074 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Geeky Gadgets"
+                "name": "The New Republic"
             },
-            "author": "Julian Horsey",
-            "title": "How to sign a PDF on Mac for free with your signature",
-            "description": "In today\u2019s digital age, signing documents electronically has become increasingly common. Many people find themselves in situations where they need to sign a PDF document but don\u2019t have access to expensive software or subscription-based services. Fortunately, \u2026",
-            "url": "https://www.geeky-gadgets.com/sign-pdf-on-mac-for-free/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/signing-PDF-documents-on-Mac-using-macOS-Quick-Look-app.jpg",
-            "publishedAt": "2024-03-16T09:40:03Z",
-            "content": "In today\u2019s digital age, signing documents electronically has become increasingly common. Many people find themselves in situations where they need to sign a PDF document but don\u2019t have access to expe\u2026 [+4113 chars]"
+            "author": "Walter Shapiro",
+            "title": "Why Gaza Won\u2019t Cost Biden the Presidency",
+            "description": "Slowly, but inexorably, Israel is losing the leaders of the Democratic Party over its brutal war in Gaza.\u00a0\r\nKamala Harris, getting ahead of her boss much like Vice President Joe Biden did with gay rights in 2011, called for a temporary cease-fire early this m\u2026",
+            "url": "https://newrepublic.com/article/179872/gaza-wont-cost-biden-presidency",
+            "urlToImage": "https://images.newrepublic.com/897ec16a1d009c3edca0764815e566e1deefa4a4.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2024-03-17T10:00:00Z",
+            "content": "What is rare amid this pileup of polls is a survey that zeroes in on voters who say they would abandon their party because of their passions over a particular issue. That is why a Wall Street Journal\u2026 [+1937 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gizchina.com"
+                "name": "Nakedcapitalism.com"
             },
-            "author": "Efe Udin",
-            "title": "Omdia predicts that Apple will launch a foldable iPhone in 2026 & an OLED iPad Air in 2028",
-            "description": "Omdia, a renowned market research agency and consulting firm, has forecasted a groundbreaking development for Apple. This sets the stage for a significant shift in ...\nThe post Omdia predicts that Apple will launch a foldable iPhone in 2026 & an OLED iPad Air\u2026",
-            "url": "https://www.gizchina.com/2024/03/16/apple-foldable-iphone-oled-ipad-air/",
-            "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/03/iphone-foldable.jpg",
-            "publishedAt": "2024-03-16T20:15:13Z",
-            "content": "Omdia, a renowned market research agency and consulting firm, has forecasted a groundbreaking development for Apple. This sets the stage for a significant shift in the landscape of mobile devices. Om\u2026 [+5007 chars]"
+            "author": "Yves Smith",
+            "title": "Links 3/19/2024",
+            "description": "Our foxtrotting daily links: Yummy python, Girl Scout economics, US Covid high baseline, asbestos ban, China multiplying drones? Gaza starvation, Russia election cope, strikes on Damascus, F-35 fiasco, Israel lobby v. TikTok, Hertz failed EV push",
+            "url": "https://www.nakedcapitalism.com/2024/03/links-3-19-2024.html",
+            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-19-at-1.57.24-PM.png",
+            "publishedAt": "2024-03-19T10:55:47Z",
+            "content": "You Should Seriously Think About Eating More Python, Scientists Say ScienceAlert (Chuck L). Well, eel is delish\u2026.\r\nGirl Scout economics: Thin mints, thick margins alts.co (Micael T)\r\nIceland volcano \u2026 [+7315 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "Canada can't change foreign policy based on NDP motion on Palestinian statehood, foreign affairs minister says",
+            "description": "Foreign Affairs Minister M\u00e9lanie Joly said Monday the federal government won't base its foreign policy on a New Democrat\u00a0motion that would officially recognize Palestinian statehood.",
+            "url": "https://www.cbc.ca/news/politics/melany-joly-ndp-motion-palestinian-state-recognition-1.7147521",
+            "urlToImage": "https://i.cbc.ca/1.7147525.1710786545!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/obit-mulroney-reaction-20240301.jpg",
+            "publishedAt": "2024-03-18T19:00:19Z",
+            "content": "Foreign Affairs Minister M\u00e9lanie Joly said Monday the federal government won't base its foreign policy on a New Democrat\u00a0motion that would officially recognize Palestinian statehood.\r\nThe minister's \u2026 [+1834 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Mac Observer"
+                "name": "Euronews"
             },
-            "author": "Arif Bacchus",
-            "title": "Apple Vision Pro App Store is Now Browsable From Any Device",
-            "description": "If you don't already own an Apple Vision Pro but want to see what apps are available for the headset before buying, Apple just made your life easier. On Friday, March 16, the company quietly launched a web-based version of the App Store for visionOS.\n\n\n\nGetti\u2026",
-            "url": "https://www.macobserver.com/news/apple-vision-pro-app-store-now-on-web/",
-            "urlToImage": "https://www.macobserver.com/wp-content/uploads/2024/02/Apple-Vision-Pro-home-screen.jpg",
-            "publishedAt": "2024-03-16T18:16:23Z",
-            "content": "If you don\u2019t already own an Apple Vision Pro but want to see what apps are available for the headset before buying, Apple just made your life easier. On Friday, March 16, the company quietly launched\u2026 [+1279 chars]"
+            "author": null,
+            "title": "Netanyahu okays military operation in Rafah as aid ships reaches Gaza",
+            "description": "Benjamin Netanyahu has approved a military operation in Rafah as aid ships reach Gaza. More than a million people are displaced in the area.",
+            "url": "https://www.euronews.com/2024/03/16/netanyahu-okays-military-operation-in-rafah-as-aid-ships-reaches-gaza",
+            "urlToImage": "https://static.euronews.com/articles/stories/08/31/11/74/1200x675_cmsv2_98328395-c879-5a99-82d7-e1edf20ee09c-8311174.jpg",
+            "publishedAt": "2024-03-16T11:31:52Z",
+            "content": "Benjamin Netanyahu has approved a military operation in Rafah as aid ships reach Gaza. More than a million people are displaced in the area.\r\n Stalled talks aimed at securing a cease-fire in the war \u2026 [+3868 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Wccftech"
+                "name": "The Indian Express"
             },
-            "author": "Omar Sohail",
-            "title": "Apple\u2019s First AR Glasses Might Launch In 2027, Alongside Rumored Foldable iPad, According To New Product Roadmap",
-            "description": "As Apple explores the possibility of launching an affordable version of the Apple Vision Pro, a product roadmap shared by one tipster states that the technology giant is also looking to jump into another category; AR glasses, which will be a more practical ap\u2026",
-            "url": "https://wccftech.com/apple-ar-glasses-launch-in-2027-according-to-product-roadmap/",
-            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/03/Apple-AR-glasses.jpg",
-            "publishedAt": "2024-03-16T18:54:19Z",
-            "content": "As Apple explores the possibility of launching an affordable version of the Apple Vision Pro, a product roadmap shared by one tipster states that the technology giant is also looking to jump into ano\u2026 [+2699 chars]"
+            "author": "AP",
+            "title": "A suspected attack by Yemen\u2019s Houthi rebels has targeted a ship in the Gulf of Aden",
+            "description": "The British military's United Kingdom Maritime Trade Operations centre offered few details in an announcement about the attack, saying only it happened off the coast of Aden, the port city in southern Yemen home to the country's exiled government.",
+            "url": "https://indianexpress.com/article/world/suspected-attack-yemen-houthi-rebels-ship-gulf-of-aden-9218627/",
+            "urlToImage": "https://images.indianexpress.com/2024/03/houthi-attacks.jpg",
+            "publishedAt": "2024-03-17T02:51:59Z",
+            "content": "A suspected attack by Yemen\u2019s Houthi rebels targeted a ship early Sunday in the Gulf of Aden, potentially marking their latest assault on shipping through the crucial waterway leading to the Red Sea.\u2026 [+2310 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Iphonejd.com"
+                "name": "Daily Beast"
             },
-            "author": "Jeff Richardson",
-            "title": "Podcast episode 138: Eclipsing Technology, Maximizing Soccer, and Swimming with a Vision",
-            "description": "Here comes the sun ... except for when it disappears for a few minutes. Brett and I start this week's episode of the In the News podcast by discussing the upcoming solar eclipse. Brett's house in Ohio is in the...",
-            "url": "https://www.iphonejd.com/iphone_jd/2024/03/podcast-138.html",
-            "urlToImage": "https://www.iphonejd.com/.a/6a010535fde333970c0278807a900d200d-600wi",
-            "publishedAt": "2024-03-16T16:10:12Z",
-            "content": "Here comes the sun ... except for when it disappears for a few minutes. Brett and I start this week's episode of the In the News podcast by discussing the upcoming solar eclipse. Brett's house in Ohi\u2026 [+1205 chars]"
+            "author": "Amanda Yen",
+            "title": "\u2018Zone of Interest\u2019 Producer Disagrees With Director\u2019s Oscars Gaza Speech",
+            "description": "Carlos Barria/Reuters\r\nJonathan Glazer shocked audiences when he used his Oscars acceptance speech to call for a ceasefire in Gaza, comparing today\u2019s Israel to Nazi Germany. But not all of his colleagues from the award-winning film The Zone of Interest agree \u2026",
+            "url": "https://www.thedailybeast.com/zone-of-interest-producer-disagrees-with-directors-oscars-gaza-speech",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1695,w_3013,x_0,y_30/dpr_2.0/c_limit,w_740/f_auto,q_auto/v1710714396/2024-03-11T000000Z_872033085_HP1EK3B01ZCA2_RTRMADP_3_AWARDS-OSCARS_s5jeoc",
+            "publishedAt": "2024-03-17T22:32:07Z",
+            "content": "Jonathan Glazer shocked audiences when he used his Oscars acceptance speech to call for a ceasefire in Gaza, comparing todays Israel to Nazi Germany. But not all of his colleagues from the award-winn\u2026 [+2042 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gizchina.com"
+                "name": "Daily Beast"
             },
-            "author": "Efe Udin",
-            "title": "Apple launched a web-based App Store column page for Vision Pro headset",
-            "description": "Apple has recently unveiled its groundbreaking product, the Apple Vision Pro, marking a significant leap in spatial computing technology. This innovative headset integrates cutting-edge features ...\nThe post Apple launched a web-based App Store column page fo\u2026",
-            "url": "https://www.gizchina.com/2024/03/16/apple-vision-pro-app-store/",
-            "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2024/02/Apple-Vision-Pro-Sam-Altmans-comment-1200x675.jpg",
-            "publishedAt": "2024-03-16T19:23:29Z",
-            "content": "Apple has recently unveiled its groundbreaking product, the Apple Vision Pro, marking a significant leap in spatial computing technology. This innovative headset integrates cutting-edge features into\u2026 [+4255 chars]"
+            "author": "Corbin Bolies",
+            "title": "Benjamin Netanyahu Slams Chuck Schumer\u2019s Senate Speech as \u2018Totally Inappropriate\u2019",
+            "description": "CNN\r\nIsraeli Prime Minister Benjamin Netanyahu forcefully pushed back against Senate Majority Leader Chuck Schumer\u2019s Senate-floor condemnation of his government, saying the U.S. shouldn\u2018t try to dictate how or when another government conducts its elections.\u201cI\u2026",
+            "url": "https://www.thedailybeast.com/benjamin-netanyahu-slams-chuck-schumers-senate-speech-as-totally-inappropriate",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1603,w_2852,x_12,y_0/dpr_2.0/c_limit,w_740/f_auto,q_auto/v1710690126/Screenshot_2024-03-17_at_11.41.55_AM_fr3ojg",
+            "publishedAt": "2024-03-17T16:45:08Z",
+            "content": "Israeli Prime Minister Benjamin Netanyahu forcefully pushed back against Senate Majority Leader Chuck Schumers Senate-floor condemnation of his government, saying the U.S. shouldnt try to dictate how\u2026 [+2389 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Joel B. Pollak, Joel B. Pollak",
+            "title": "Trump: Israel Should 'Finish' the War 'Quickly' by Defeating Hamas",
+            "description": "Former President Donald Trump said that Israel should \"finish\" the war in Gaza against Hamas \"quickly\" so that the world could return to \"peace.\"",
+            "url": "https://www.breitbart.com/middle-east/2024/03/18/trump-israel-should-finish-the-war-quickly-by-defeating-hamas/",
+            "urlToImage": "https://media.breitbart.com/media/2023/10/file2017-donald-trump-us-flag-israel-flag-gettyimages-640x335.jpg",
+            "publishedAt": "2024-03-18T22:24:19Z",
+            "content": "Former President Donald Trump said that Israel should \u201cfinish\u201d the war in Gaza against Hamas \u201cquickly\u201d so that the world could return to \u201cpeace.\u201d\r\nTrump\u2019s remarks came in an interview with Howard Kur\u2026 [+2280 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Chris Livesay, Tucker Reals",
+            "title": "Israel pushes back at mounting U.S., European criticism over Gaza war",
+            "description": "Israel vows to push ahead with Rafah offensive in Gaza, and pushes back at mounting criticism from the U.S. and Europe.",
+            "url": "https://www.cbsnews.com/news/israel-hamas-war-cease-fire-hope-tempered-by-us-netanyahu-rift/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/18/e83c4538-0fbc-4f9f-b730-9da8c31b72ff/thumbnail/1200x630/99b38119e05735d5d01059fc68fde813/israel-protest-netanyahu-2089767543.jpg?v=d1d78866939020fc1f2607ef7298e4ec",
+            "publishedAt": "2024-03-18T13:02:00Z",
+            "content": "There was growing optimism Monday around talks of a possible new cease-fire in the Gaza Strip, with both Israel and Hamas returning to the table to discuss a truce that would see more Israeli hostage\u2026 [+5246 chars]"
+        },
+        {
+            "source": {
+                "id": "new-york-magazine",
+                "name": "New York Magazine"
+            },
+            "author": "Jonathan Chait",
+            "title": "Why Chuck Schumer\u2019s Israel Speech Marks a Turning Point in the War in Gaza",
+            "description": "Chuck Schumer, in his big speech on Israel, made an attempt to escape the cycle of violence and hate between the one-staters of the left and right, writes Jonathan Chait.",
+            "url": "http://nymag.com/intelligencer/article/why-chuck-schumers-israel-speech-marks-a-turning-point.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/5f6/55e/8be5db8ecbdacec768331425fea165fb5b-natoinal-interest-chuck-schumer.1x.rsocial.w1200.jpg",
+            "publishedAt": "2024-03-16T10:00:44Z",
+            "content": "This post was originally published in Jonathan Chaits &amp;c newsletter sign up here.\r\nThis week, Senate Majority Leader Charles Schumer, the highest-ranking Jewish official in American history, urge\u2026 [+5139 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Biztoc.com"
+                "name": "[Removed]"
             },
-            "author": "reason.com",
-            "title": "Don't let E.U. bureaucrats design Americans' tech",
-            "description": "For years, iPhone users have been saddled with an unusual feature: The popular Apple smartphone used a proprietary cable, called the Lightning cable, for charging. By the 2020s, most manufacturers of comparable devices had switched to a universal standard, US\u2026",
-            "url": "https://biztoc.com/x/a17c51aa1045eae0",
-            "urlToImage": "https://c.biztoc.com/p/a17c51aa1045eae0/s.webp",
-            "publishedAt": "2024-03-16T10:14:15Z",
-            "content": "For years, iPhone users have been saddled with an unusual feature: The popular Apple smartphone used a proprietary cable, called the Lightning cable, for charging. By the 2020s, most manufacturers of\u2026 [+283 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "finance.yahoo.com",
-            "title": "This Warren Buffett \"Magnificent Seven\" Stock Is Riskier Than You Think",
-            "description": "Many of you are aware of Warren Buffett's legendary investment in Apple (NASDAQ: AAPL). He and his lieutenants started buying shares in 2016 and 2017 for Berkshire Hathaway, making it the largest position in the conglomerate's stock portfolio. Today, the stak\u2026",
-            "url": "https://biztoc.com/x/fce44d632b280ed9",
-            "urlToImage": "https://c.biztoc.com/p/fce44d632b280ed9/s.webp",
-            "publishedAt": "2024-03-16T20:22:08Z",
-            "content": "Many of you are aware of Warren Buffett's legendary investment in Apple (NASDAQ: AAPL). He and his lieutenants started buying shares in 2016 and 2017 for Berkshire Hathaway, making it the largest pos\u2026 [+296 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pausaparafeminices.com"
-            },
-            "author": "Bruna Tavares",
-            "title": "M\u00e1quinas Tragamonedas el torero rtp On the internet Gratis",
-            "description": "Posts How to pick A knowledgeable Totally free Harbors To play Can you Win A real income Playing Online slots? Play\u2019n Go Current Totally free Casino games See their preferred and you will experience the varied world of 100 percent free slot servers video game\u2026",
-            "url": "https://www.pausaparafeminices.com/ppf/maquinas-tragamonedas-el-torero-rtp-on-the-internet-gratis/",
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
             "urlToImage": null,
-            "publishedAt": "2024-03-16T22:44:35Z",
-            "content": "See their preferred and you will experience the varied world of 100 percent free slot servers video game. That is good for people who need to play online slots purely enjoyment, no money involved. Yo\u2026 [+7018 chars]"
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Pausaparafeminices.com"
+                "name": "RealClearPolitics"
             },
-            "author": "Bruna Tavares",
-            "title": "yggdrasil casino review",
-            "description": "\u200e\u200edoubledown Casino Las vegas Harbors To your App\u00a0Store/h1> Posts Try Totally free Slots Just like Real cash Online slots games? Totally free Ports On the web Lock It Hook up Nightlife Slots A web connection is you should have to own to play online harbors vi\u2026",
-            "url": "https://www.pausaparafeminices.com/ppf/yggdrasil-casino-review/",
+            "author": "Peter Berkowitz, RealClearPolitics",
+            "title": "The Public Interest Fellowship in Israel",
+            "description": "TEL AVIV\u0097Israel has always presented amazing contrasts. On its just-concluded 10-day trip to the Jewish state \u0096 amid Israel\u0092s war against Iran-backed...",
+            "url": "https://www.realclearpolitics.com/articles/2024/03/17/the_public_interest_fellowship_in_israel_150657.html",
+            "urlToImage": "https://assets.realclear.com/images/64/644670_5_.jpeg",
+            "publishedAt": "2024-03-17T11:28:36Z",
+            "content": "TEL AVIV\u2014Israel has always presented amazing contrasts. On its just-concluded 10-day trip to the Jewish state \u2013 amid Israel\u2019s war against Iran-backed Hamas in Gaza and the nation\u2019s low-intensity figh\u2026 [+9904 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
             "urlToImage": null,
-            "publishedAt": "2024-03-16T23:40:04Z",
-            "content": "doubledown Casino Las vegas Harbors To your App\u00a0Store/h1&gt; \u201ctoctitle\u201d style=\u201dfont-weight: 700;text-align: center;\u201d&gt;Posts\r\nA web connection is you should have to own to play online harbors video \u2026 [+6260 chars]"
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Afterdawn.com"
+                "name": "Deadline"
             },
-            "author": "Petteri Pyyny",
-            "title": "VLC hits milestone: over 5 billion downloads",
-            "description": "Let's rewind to the early days of the millennium -- a time when the video landscape was untamed. Back then, YouTube, Netflix, and TikTok were mere figments of the digital imagination. Streaming videos directly from websites were still taking their tentative f\u2026",
-            "url": "https://www.afterdawn.com/news/article.cfm/2024/03/16/vlc-milestone-over-5-billion-downloads",
-            "urlToImage": "https://cdn.afterdawn.fi/v3/news/original/Videolan-VLC-logo.png",
-            "publishedAt": "2024-03-16T08:31:57Z",
-            "content": "Instead, videos were predominantly consumed as downloaded files. Users would fetch the entire video over their internet connection and then play it using a separate video player application.\r\nTo make\u2026 [+1885 chars]"
+            "author": "Erik Pedersen",
+            "title": "Jonathan Glazer\u2019s \u2018Zone Of Interest\u2019 Oscar Speech Draws Condemnation Letter Signed By Hundreds Of Jewish Entertainment Industry Pros",
+            "description": "Reaction continues to The Zone of Interest director Jonathan Glazer\u2019s acceptance speech after his film won the Oscar for Best International Feature Film this month. About 475 Jewish show business professionals have signed a letter denouncing the filmmaker\u2019s s\u2026",
+            "url": "http://deadline.com/2024/03/hollywood-jewish-community-jonathan-glazer-oscar-speech-letter-1235861640/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/03/RP_B8628.jpg?w=1024",
+            "publishedAt": "2024-03-18T21:19:01Z",
+            "content": "Reaction continues to The Zone of Interestdirector Jonathan Glazer\u2018s acceptance speech after his film won the Oscar for Best International Feature Film this month.\r\nAbout 475 Jewish show business pro\u2026 [+16298 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Slickdeals.net"
+                "name": "DW (English)"
             },
-            "author": "MattM1359",
-            "title": "Apple - 10.2-Inch iPad (9th Generation) with Wi-Fi - 64GB - $249 (15 replies)",
-            "description": "$249, and in stock. \nHave seen similar offers in the past, but typically from random online seller. \n \nhttps://www.bestbuy.com/site/apple-10-2-inch-ipad-9th-generation-with-wi-fi-64gb-space-gray/49018 ...",
-            "url": "https://slickdeals.net/f/17363730-apple-10-2-inch-ipad-9th-generation-with-wi-fi-64gb-249",
-            "urlToImage": "https://static.slickdealscdn.com/attachment/2/3/9/7/3/2/8/15152580.attach",
-            "publishedAt": "2024-03-16T21:29:23Z",
-            "content": "We all have our opinions what what is a good buy for ourselves. So it sounds like \"for you\", the 10t gen Ipad is the one for you.Now, when I do research on what gadget might be good \"for me\", I will \u2026 [+1100 chars]"
+            "author": "Deutsche Welle",
+            "title": "Israel-Hamas war: Blinken warns all Gazans face hunger risk",
+            "description": "The US secrteary of state said the entire population of Gaza was \"at severe levels of acute food insecurity.\" Meanwhile, deaths were reported in overnight airstrikes on the territory. Follow DW's roundup.",
+            "url": "https://www.dw.com/en/israel-hamas-war-blinken-warns-all-gazans-face-hunger-risk/live-68611264",
+            "urlToImage": "https://static.dw.com/image/68609844_6.jpg",
+            "publishedAt": "2024-03-19T09:44:00Z",
+            "content": "The US National Security Advisor Jake Sullivan says President Joe Biden has asked Israeli Prime Minister Benjamin Netanyahu to send a team of military, intelligence service humanitarian aid specialis\u2026 [+1034 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "[Removed]"
             },
-            "author": "MarketBeat News",
-            "title": "Muhlenkamp & Co. Inc. Boosts Holdings in Apple Inc. (NASDAQ:AAPL)",
-            "description": "Muhlenkamp & Co. Inc. lifted its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.8% in the 3rd quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission. The firm owned 61,484 shares of the iPhone maker\u2019s\u2026",
-            "url": "https://www.etfdailynews.com/2024/03/17/muhlenkamp-co-inc-boosts-holdings-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-03-17T09:00:42Z",
-            "content": "Muhlenkamp &amp; Co. Inc. lifted its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.8% in the 3rd quarter, according to the company in its most recent 13F filing with the Securities and Exchang\u2026 [+5906 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "International Business Times"
             },
-            "author": "MarketBeat News",
-            "title": "Financial Insights Inc. Invests $18.33 Million in Apple Inc. (NASDAQ:AAPL)",
-            "description": "Financial Insights Inc. purchased a new position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) in the 3rd quarter, according to its most recent filing with the Securities & Exchange Commission. The fund purchased 107,350 shares of the iPhone maker\u2019s sto\u2026",
-            "url": "https://www.etfdailynews.com/2024/03/17/financial-insights-inc-invests-18-33-million-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-03-17T13:52:42Z",
-            "content": "Financial Insights Inc. purchased a new position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) in the 3rd quarter, according to its most recent filing with the Securities &amp; Exchange Commiss\u2026 [+5607 chars]"
+            "author": "Marvie Basilan",
+            "title": "Middle East Conflict Live: Israel Eliminates Hamas' Internal Security Chief In Hospital Raid",
+            "description": "It's Day 164 of the Israel-Hamas war, and Israel has assassinated another Hamas senior official as the Israeli army targets high-ranking officials in the Palestinian terror group.",
+            "url": "https://www.ibtimes.com/middle-east-conflict-live-israel-eliminates-hamas-internal-security-chief-hospital-raid-3727428",
+            "urlToImage": "https://d.ibtimes.com/en/full/4515451/diplomatic-efforts-are-intensifying-agree-pause-fighting-between-israel-palestinian-militant.jpg",
+            "publishedAt": "2024-03-18T12:49:35Z",
+            "content": "The Israeli army in recent days has been focusing ground raids across Gaza on areas believed to be the hiding spots of top Hamas officials.AFP\r\nThe devastating war in Gaza has entered its 164th day t\u2026 [+1286 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "The Atlantic"
             },
-            "author": "MarketBeat News",
-            "title": "Fragasso Group Inc. Raises Holdings in Apple Inc. (NASDAQ:AAPL)",
-            "description": "Fragasso Group Inc. increased its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.7% during the third quarter, according to the company in its most recent 13F filing with the SEC. The firm owned 279,782 shares of the iPhone maker\u2019s stock after purchas\u2026",
-            "url": "https://www.etfdailynews.com/2024/03/17/fragasso-group-inc-raises-holdings-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-03-17T13:52:44Z",
-            "content": "Fragasso Group Inc. increased its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.7% during the third quarter, according to the company in its most recent 13F filing with the SEC. The firm ow\u2026 [+5785 chars]"
+            "author": "Andrew Exum",
+            "title": "Is the Destruction of Gaza Making Israel Any Safer?",
+            "description": "More than five months in, Israel has neither a military strategy for eliminating Hamas nor a political strategy for living with Gaza.",
+            "url": "https://www.theatlantic.com/international/archive/2024/03/israel-gaza-war-idf/677790/?utm_source=feed",
+            "urlToImage": null,
+            "publishedAt": "2024-03-18T15:00:00Z",
+            "content": "Israeli forces are killing thousands of innocent civilians and badly damaging their country\u2019s standing with its most important partners, including the United States. Israel has also no doubt severely\u2026 [+9059 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "DW (English)"
             },
-            "author": "MarketBeat News",
-            "title": "Apple Inc. (NASDAQ:AAPL) Stock Position Increased by WT Wealth Management",
-            "description": "WT Wealth Management boosted its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 13.7% during the 3rd quarter, according to its most recent 13F filing with the SEC. The firm owned 33,881 shares of the iPhone maker\u2019s stock after buying an addition\u2026",
-            "url": "https://www.etfdailynews.com/2024/03/17/apple-inc-nasdaqaapl-stock-position-increased-by-wt-wealth-management/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-03-17T09:34:46Z",
-            "content": "WT Wealth Management boosted its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 13.7% during the 3rd quarter, according to its most recent 13F filing with the SEC. The firm owned 33,881\u2026 [+6088 chars]"
+            "author": "Deutsche Welle",
+            "title": "Israel-Hamas war: IDF raids Gaza's al-Shifa hospital",
+            "description": "Israel said it had information indicating that the hospital had been used by \"senior Hamas terrorists.\" Meanwhile, an Israeli delegation was expected to head to Qatar for cease-fire talks. DW rounds up the latest.",
+            "url": "https://www.dw.com/en/israel-hamas-war-idf-raids-gazas-al-shifa-hospital/live-68598505",
+            "urlToImage": "https://static.dw.com/image/68598890_6.jpg",
+            "publishedAt": "2024-03-18T06:20:00Z",
+            "content": "The Israeli Defense Forces (IDF) said it launched a \"precise operation\" at al-Shifa Hospital in Gaza on Monday morning.\u00a0\r\n\"The operation is based on intelligence information indicating the use of the\u2026 [+1502 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Israel and Hamas in negotiations for 6-week truce and hostage release",
+            "description": "The U.S. is taking a tougher line with Israel as the toll rises from its war to destroy Hamas. President Biden spoke with Israel's Prime Minister Benjamin Netanyahu by phone yesterday for the first time in weeks, and the White House says Mr. Biden emphasized \u2026",
+            "url": "https://www.cbsnews.com/video/israel-and-hamas-in-negotiations-for-6-week-truce-and-hostage-release/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/19/2d57cdcf-806e-4f3c-a13d-8d11901d4e24/thumbnail/1200x630/f0e42b9247cf267939b6615654493f3c/0319-cmo-israelgaza-livesay-mid-2770175-640x360.jpg?v=b64ebf3cd0145765e4923158152de5b1",
+            "publishedAt": "2024-03-19T12:34:18Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "The Boston Globe"
             },
-            "author": "MarketBeat News",
-            "title": "USA Financial Formulas Purchases 1,950 Shares of Apple Inc. (NASDAQ:AAPL)",
-            "description": "USA Financial Formulas grew its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 12,187.5% during the third quarter, according to the company in its most recent 13F filing with the SEC. The fund owned 1,966 shares of the iPhone maker\u2019s stock after purcha\u2026",
-            "url": "https://www.etfdailynews.com/2024/03/16/usa-financial-formulas-purchases-1950-shares-of-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-03-16T12:04:43Z",
-            "content": "USA Financial Formulas grew its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 12,187.5% during the third quarter, according to the company in its most recent 13F filing with the SEC. The fund\u2026 [+5370 chars]"
+            "author": "SAMY MAGDY",
+            "title": "Cease-fire talks with Israel and Hamas expected to restart",
+            "description": "Stalled talks aimed at securing a cease-fire in the war between Israel and Hamas are expected to restart in earnest in Qatar as soon as Sunday.",
+            "url": "https://www.bostonglobe.com/2024/03/16/world/cease-fire-talks-with-israel-hamas-expected-restart/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Yfsv4-4evx6UabDX9TKrkwzzFVs=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/CTY26PIPNTO4UAE57ARA7JL2FA.jpg",
+            "publishedAt": "2024-03-16T10:55:18Z",
+            "content": "CAIRO (AP) Stalled talks aimed at securing a cease-fire in the war between Israel and Hamas are expected to restart in earnest in Qatar as soon as Sunday, according to Egyptian officials.\r\nThe talks \u2026 [+3716 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Joel B. Pollak, Joel B. Pollak",
+            "title": "Israel: Hamas Still Using Hospitals as 'Human Shields'; Terrorists Fire from Shifa; Hamas Commander Eliminated",
+            "description": "Israel accused Hamas on Monday of using hospitals as \"human shields\" again as terrorists fired on Israeli soldiers from within Shifa Hospital in Gaza City.",
+            "url": "https://www.breitbart.com/middle-east/2024/03/18/israel-hamas-still-using-hospitals-as-human-shields-terrorists-fire-from-shifa-eliminated/",
+            "urlToImage": "https://media.breitbart.com/media/2023/11/Gaza-Hospital-640x335.jpeg",
+            "publishedAt": "2024-03-18T13:47:44Z",
+            "content": "Israel accused Hamas on Monday of using hospitals as \u201chuman shields\u201d again as terrorists fired on Israeli soldiers from within Shifa Hospital in Gaza City.\r\nShifa Hospital was notorious earlier in th\u2026 [+3714 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "Euronews"
             },
-            "author": "MarketBeat News",
-            "title": "Anchor Investment Management LLC Makes New Investment in Apple Inc. (NASDAQ:AAPL)",
-            "description": "Anchor Investment Management LLC bought a new position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) during the 4th quarter, according to the company in its most recent disclosure with the SEC. The fund bought 120,071 shares of the iPhone maker\u2019s stock,\u2026",
-            "url": "https://www.etfdailynews.com/2024/03/17/anchor-investment-management-llc-makes-new-investment-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-03-17T11:50:41Z",
-            "content": "Anchor Investment Management LLC bought a new position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) during the 4th quarter, according to the company in its most recent disclosure with the SEC.\u2026 [+5559 chars]"
+            "author": null,
+            "title": "'Death knell': Famine looms in north Gaza",
+            "description": "\"Children are famine\u2019s first victims and are already dying in Gaza because of malnutrition,\" warned one NGO. \"Every minute counts.\"",
+            "url": "https://www.euronews.com/2024/03/19/death-knell-famine-looms-in-north-gaza",
+            "urlToImage": "https://static.euronews.com/articles/stories/08/31/52/46/1200x675_cmsv2_612ca0a2-79e7-5ac3-859a-b616c3025a42-8315246.jpg",
+            "publishedAt": "2024-03-19T06:33:33Z",
+            "content": "\"Children are famines first victims and are already dying in Gaza because of malnutrition,\" warned one NGO. \"Every minute counts.\"\r\n An NGO has warned that famine is \"just weeks away\" in northern Gaz\u2026 [+2997 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "Daily Signal"
             },
-            "author": "MarketBeat News",
-            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Connors Investor Services Inc.",
-            "description": "Connors Investor Services Inc. trimmed its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 11.1% in the third quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC). The firm owned 184,046 shares of the iPhone\u2026",
-            "url": "https://www.etfdailynews.com/2024/03/16/apple-inc-nasdaqaapl-shares-sold-by-connors-investor-services-inc/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-03-16T12:04:43Z",
-            "content": "Connors Investor Services Inc. trimmed its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 11.1% in the third quarter, according to its most recent disclosure with the Securities and Exchange C\u2026 [+5647 chars]"
+            "author": "Newt Gingrich",
+            "title": "Why Is President Biden Helping Hamas?",
+            "description": "President Joe Biden\u2019s recent foreign policy moves are baffling. By any rational standard, they are undermining Israel and helping Hamas. When Biden was caught on... Read More\nThe post Why Is President Biden Helping Hamas? appeared first on The Daily Signal.",
+            "url": "https://www.dailysignal.com/2024/03/18/why-is-president-biden-helping-hamas/",
+            "urlToImage": "https://first-heritage-foundation.s3.amazonaws.com/live_files/2024/03/GettyImages-2033103537.jpg",
+            "publishedAt": "2024-03-18T22:25:51Z",
+            "content": "President Joe Bidens recent foreign policy moves are baffling. By any rational standard, they are undermining Israel and helping Hamas.\r\nWhen Biden was caught on an open microphone following his Stat\u2026 [+4847 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a>",
+            "title": "Devastation in Gaza as Israel wages war on Hamas",
+            "description": "The World Health Organization chief says he is \"gravely concerned\" after Israeli Prime Minister Benjamin Netanyahu approved plans for a military offensive in Gaza's Rafah. Follow for more live news updates.",
+            "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-03-18-24/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240316171142-rafah-tent-camp-031424-super-tease.jpg",
+            "publishedAt": "2024-03-18T04:01:47Z",
+            "content": "US Senate Majority Leader Chuck Schumers warning\u00a0that Israel risks becoming a pariah for its war in Gaza, and his call for new elections in the country, sent shockwaves from Washington to Jerusalem.\r\u2026 [+2365 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/brad-lendon\">Brad Lendon</a> and <a href=\"/profiles/andrew-raine\">Andrew Raine</a>, CNN",
+            "title": "Devastation in Gaza as Israel wages war on Hamas",
+            "description": "Israeli Prime Minister Benjamin Netanyahu says he has approved plans for action in Rafah. Follow for live updates.",
+            "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-03-16-24/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240311145218-israel-tank-gaza-011924-super-tease.jpeg",
+            "publishedAt": "2024-03-16T04:23:25Z",
+            "content": "Nongovernmental organization World Central Kitchen, which organized the first aid ship to Gaza, confirmed to CNN Friday that the first pallet of aid has been offloaded successfully into the besieged \u2026 [+1833 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Chris Lau, CNN",
+            "title": "Devastation in Gaza as Israel wages war on Hamas",
+            "description": "The Biden administration will meet with Israeli officials in Washington to discuss alternatives to a planned military ground offensive in Gaza's southern city of Rafah. Follow for live updates.",
+            "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-03-19-24/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240318162918-gaza-city-031824-super-tease.jpg",
+            "publishedAt": "2024-03-19T04:00:40Z",
+            "content": "The World Food Programme released a statement Monday on their Integrated Food Security Phase Classification (IPC) report about food security\u00a0in the Gaza Strip that found 88% of the regions entire pop\u2026 [+1334 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/heather-chen\">Heather Chen</a> and <a href=\"/profiles/andrew-raine\">Andrew Raine</a>, CNN",
+            "title": "Devastation in Gaza as Israel wages war on Hamas",
+            "description": "The director of Israel's Mossad intelligence agency will join a delegation at talks in Qatar on a potential ceasefire-hostages deal, according to a diplomatic source. Follow for more live news updates.",
+            "url": "https://www.cnn.com/world/live-news/israel-hamas-war-gaza-news-03-17-24/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240316171142-rafah-tent-camp-031424-super-tease.jpg",
+            "publishedAt": "2024-03-17T04:04:48Z",
+            "content": "The Ministry of Health in Gaza said 37 people, including children and pregnant women, were killed in an Israeli airstrike on a residential block in central Gaza on Friday night.\r\nCNN is unable to ver\u2026 [+1517 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "NPR"
             },
-            "author": "MarketBeat News",
-            "title": "Okabena Investment Services Inc. Reduces Position in Apple Inc. (NASDAQ:AAPL)",
-            "description": "Okabena Investment Services Inc. cut its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 65.8% during the third quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The fund owned 174 shares of \u2026",
-            "url": "https://www.etfdailynews.com/2024/03/16/okabena-investment-services-inc-reduces-position-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-03-16T12:04:44Z",
-            "content": "Okabena Investment Services Inc. cut its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 65.8% during the third quarter, according to its most recent Form 13F filing with the Securities \u2026 [+5678 chars]"
+            "author": "Franco Ordo\u00f1ez",
+            "title": "Biden speaks with Netanyahu as tensions rise over the war in Gaza",
+            "description": "National security adviser Jake Sullivan described a \"business-like\" meeting between two leaders with different perspectives about the proposed military operation for the city of Rafah in Gaza.",
+            "url": "https://www.npr.org/2024/03/18/1239298104/biden-speaks-with-netanyahu-as-tensions-rise-over-the-war-in-gaza",
+            "urlToImage": "https://media.npr.org/assets/img/2024/03/18/israel---biden-bibi-gettyimages-1731162446_wide-3e5979dc2db3d962639b90ed41aa52afd7c80555-s1400-c100.jpg",
+            "publishedAt": "2024-03-18T21:41:08Z",
+            "content": "President Biden sits with Israeli Prime Minister Benjamin Netanyahu, at the start of the Israeli war cabinet meeting, in Tel Aviv on Oct. 18, 2023.\r\nMiriam Alster/Pool/AFP via Getty Images\r\nPresident\u2026 [+2961 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "UNICEF chief Catherine Russell says death toll of children in Gaza is \"staggering\"",
+            "description": "UNICEF chief Catherine Russell tells \"Face the Nation\" that the number of children who have died so far in Gaza in the Israel-Hamas war, which she called an \"astronomical, horrifying number.\" \"We haven't seen that rate of death among children in almost any ot\u2026",
+            "url": "https://www.cbsnews.com/video/unicef-chief-catherine-russell-says-death-toll-of-children-in-gaza-is-staggering/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/17/9702a281-b7ea-4c51-9262-6c23709b6fda/thumbnail/1200x630/b58e4cbe545a4883303373cddcb7503b/0317-ftn-russel.jpg?v=d1d78866939020fc1f2607ef7298e4ec",
+            "publishedAt": "2024-03-17T17:11:00Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "DW (English)"
             },
-            "author": "MarketBeat News",
-            "title": "Apple Inc. (NASDAQ:AAPL) Short Interest Up 14.6% in February",
-            "description": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) saw a significant increase in short interest in the month of February. As of February 29th, there was short interest totalling 111,930,000 shares, an increase of 14.6% from the February 14th total of 97,670,000 share\u2026",
-            "url": "https://www.etfdailynews.com/2024/03/16/apple-inc-nasdaqaapl-short-interest-up-14-6-in-february/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-03-16T06:42:42Z",
-            "content": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) saw a significant increase in short interest in the month of February. As of February 29th, there was short interest totalling 111,930,000 shares, an increa\u2026 [+5554 chars]"
+            "author": "Deutsche Welle",
+            "title": "Israel-Hamas war: Warnings grow over starvation in Gaza",
+            "description": "The US said the entire population of Gaza was \"at severe levels of acute food insecurity,\" while the UN's human rights office said Israeli restrictions on aid could be seen as using starvation as a \"weapon of war.\"",
+            "url": "https://www.dw.com/en/israel-hamas-war-warnings-grow-over-starvation-in-gaza/live-68611264",
+            "urlToImage": "https://static.dw.com/image/68611255_6.jpg",
+            "publishedAt": "2024-03-19T09:44:00Z",
+            "content": "The US National Security Advisor Jake Sullivan says President Joe Biden has asked Israeli Prime Minister Benjamin Netanyahu to send a team of military, intelligence service humanitarian aid specialis\u2026 [+1034 chars]"
+        },
+        {
+            "source": {
+                "id": "rt",
+                "name": "RT"
+            },
+            "author": "RT",
+            "title": "Gaza suffers from \u2018catastrophic\u2019 hunger \u2013 global watchdog",
+            "description": "More than two-thirds of Gaza\u2019s population are suffering from severe hunger, the global hunger monitor says Read Full Article at RT.com",
+            "url": "https://www.rt.com/news/594472-gaza-suffers-from-catastrophic-hunger/",
+            "urlToImage": "https://mf.b37mrtl.ru/files/2024.03/article/65f93c092030271c1c0dac08.jpg",
+            "publishedAt": "2024-03-19T07:20:36Z",
+            "content": "Northern Gaza has already exceeded famine levels, the global hunger monitor said on Monday. Around 300,000 people remain trapped in the Palestinian enclave amid Israeli bombardment.\r\nThe UN-backed re\u2026 [+1889 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "International Business Times"
             },
-            "author": "MarketBeat News",
-            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Etfidea LLC",
-            "description": "Etfidea LLC trimmed its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.6% during the third quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The firm owned 15,731 shares of the iPhone maker\u2019s stock after \u2026",
-            "url": "https://www.etfdailynews.com/2024/03/17/apple-inc-nasdaqaapl-shares-sold-by-etfidea-llc/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-03-17T14:26:43Z",
-            "content": "Etfidea LLC trimmed its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.6% during the third quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The\u2026 [+5270 chars]"
+            "author": "Marvie Basilan",
+            "title": "Middle East Conflict Live: US Confirms Israel Killed Hamas Military Wing Deputy Leader",
+            "description": "On Day 165 of the Israel-Hamas war, the White House confirmed that Israeli troops have killed a major figure in Hamas' military leadership: the military wing chief's deputy leader.",
+            "url": "https://www.ibtimes.com/middle-east-conflict-live-us-confirms-israel-killed-hamas-military-wing-deputy-leader-3727508",
+            "urlToImage": "https://d.ibtimes.com/en/full/4515459/israels-retaliatory-offensive-has-killed-30534-people-mostly-women-children-according-gazas.jpg",
+            "publishedAt": "2024-03-19T11:51:18Z",
+            "content": "Israeli troops have been targeting senior Hamas officials in recent weeks as they prepare to enter Rafah, believed to be temporarily home to over 1.5 million Palestinians.AFP\r\nIt's Day 165 of the war\u2026 [+1718 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "VOA News"
             },
-            "author": "MarketBeat News",
-            "title": "Public Sector Pension Investment Board Has $540.59 Million Stock Holdings in Apple Inc. (NASDAQ:AAPL)",
-            "description": "Public Sector Pension Investment Board cut its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.2% in the 3rd quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The fund owned 3,157\u2026",
-            "url": "https://www.etfdailynews.com/2024/03/16/public-sector-pension-investment-board-has-540-59-million-stock-holdings-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-03-16T11:04:41Z",
-            "content": "Public Sector Pension Investment Board cut its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.2% in the 3rd quarter, according to the company in its most recent disclosure with the Se\u2026 [+5809 chars]"
+            "author": "webdesk@voanews.com (VOA News)",
+            "title": "Israel Launches Operation at Gaza City Hospital",
+            "description": "Netanyahu rejects attacks on his handling of the war against Hamas",
+            "url": "https://www.voanews.com/a/israel-launches-operation-at-gaza-city-hospital/7531882.html",
+            "urlToImage": "https://gdb.voanews.com/721C8F5E-B68D-4551-B5DB-B35AA07B6A83.jpg",
+            "publishedAt": "2024-03-18T04:16:18Z",
+            "content": "Israels military said Monday it was conducting an operation at the Shifa Hospital in Gaza City, an area where it came under international criticism for a November raid.\r\nIsrael Defense Forces spokesp\u2026 [+4519 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "DW (English)"
             },
-            "author": "MarketBeat News",
-            "title": "Teachers Retirement System of The State of Kentucky Has $366.78 Million Stock Holdings in Apple Inc. (NASDAQ:AAPL)",
-            "description": "Teachers Retirement System of The State of Kentucky lessened its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.6% in the 3rd quarter, according to the company in its most recent 13F filing with the Securities & Exchange Commission. The ins\u2026",
-            "url": "https://www.etfdailynews.com/2024/03/17/teachers-retirement-system-of-the-state-of-kentucky-has-366-78-million-stock-holdings-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-03-17T13:10:42Z",
-            "content": "Teachers Retirement System of The State of Kentucky lessened its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.6% in the 3rd quarter, according to the company in its most recent 1\u2026 [+5855 chars]"
+            "author": "Deutsche Welle",
+            "title": "Israel-Hamas war: Rafah civilians won't be 'locked in'",
+            "description": "The Israeli prime minister has promised that residents will be given time to leave Rafah before any military assault begins. German Chancellor Scholz questioned the high humanitarian cost of the war in Gaza. DW has more.",
+            "url": "https://www.dw.com/en/israel-hamas-war-rafah-civilians-wont-be-locked-in/live-68593695",
+            "urlToImage": "https://static.dw.com/image/68597451_6.jpg",
+            "publishedAt": "2024-03-17T17:27:00Z",
+            "content": "German Chancellor Olaf Scholz warned against an Israeli offensive on Rafah prior to his meeting with Netanyahu Image: Kay Nietfeld/dpa/picture alliance \r\nIsraeli Prime Minister Benjamin Netanyahu has\u2026 [+1537 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "LADbible"
+                "name": "Spacewar.com"
             },
-            "author": "LADbible",
-            "title": "Passenger 'catches BA pilot in grim act during cockpit break' on long haul UK flight",
-            "description": "The British Airways passenger shared an alleged photo of the incident.",
-            "url": "https://www.ladbible.com/news/uk-news/ba-pilot-cockpit-break-uk-flight-960019-20240316",
-            "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/bltc8f96c6474a28082/65f5cc84451523040a543d79/ba-pilot.png",
-            "publishedAt": "2024-03-16T17:19:59Z",
-            "content": "A British Airways pilot was allegedly looking at some dodgy stuff during his cockpit break.\r\nNo pun intended.\r\nDuring a long haul UK flight, passenger David Jones claims to have spotted some question\u2026 [+2833 chars]"
+            "author": null,
+            "title": "Israeli army launches operation at Gaza's Al-Shifa hospital",
+            "description": "Gaza Strip, Palestinian Territories (AFP) Mar 18, 2024\n\n\n The Israeli army launched Monday an operation around Gaza's largest hospital, Al-Shifa, with witnesses reporting air strikes on the devastated neighbourhood where it is located. \n\nIsraeli soldiers \"are\u2026",
+            "url": "https://www.spacewar.com/reports/Israeli_army_launches_operation_at_Gazas_Al-Shifa_hospital_999.html",
+            "urlToImage": "https://www.spxdaily.com/images-hg/israel-soldiers-gaza-city-hamas-bunker-hg.jpg",
+            "publishedAt": "2024-03-18T07:50:55Z",
+            "content": "Israeli army launches operation at Gaza's Al-Shifa hospitalBy Adel Zaanoun with Chloe Rouveyrolles-Bazire in JerusalemGaza Strip, Palestinian Territories (AFP) Mar 18, 2024\r\nThe Israeli army launched\u2026 [+6136 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Idownloadblog.com"
+                "name": "International Business Times"
             },
-            "author": "Anthony Bouchard",
-            "title": "Jailbreak news of the week: Installing Misaka on tvOS, TrollInstallerX teased, Dopamine updates, & more\u2026",
-            "description": "This roundup post encompasses all the relevant iPhone jailbreaking news spanning the week of Monday, March 11th through Sunday, March 17th.",
-            "url": "https://www.idownloadblog.com/2024/03/17/jailbreak-news-of-the-week-03-17-2024/",
-            "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2022/10/Jailbreak-Roundup-Sileo-Wallpaper.jpg",
-            "publishedAt": "2024-03-17T13:30:35Z",
-            "content": "You know how we do things around here. Keep our readers apprised of the latest iPhone hacking and jailbreaking news throughout the week, and then come back during the weekend with an all-encompassing\u2026 [+6201 chars]"
+            "author": "AFP News",
+            "title": "UN Agency Chief Says Israel Blocked Him From Entering Gaza",
+            "description": "The head of the UN agency for Palestinian refugees said Monday Israel had blocked him from entering the war-torn and besieged Gaza Strip where the United Nations has warned of impending famine.",
+            "url": "https://www.ibtimes.com/un-agency-chief-says-israel-blocked-him-entering-gaza-3727452",
+            "urlToImage": "https://d.ibtimes.com/en/full/4517590/unrwa-commissioner-general-philippe-lazzarini-said-there-man-made-starvation-gaza.jpg",
+            "publishedAt": "2024-03-18T19:00:28Z",
+            "content": "The head of the UN agency for Palestinian refugees said Monday Israel had blocked him from entering the war-torn and besieged Gaza Strip where the United Nations has warned of impending famine.\r\nIsra\u2026 [+3796 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Monica Alba and Courtney Kube and Jonathan Allen and Carol E. Lee and Andrea Mitchell and Kelly O'Donnell and Sahil Kapur and Abigail Williams",
+            "title": "White House weighs how to respond if Israel defies Biden with Rafah invasion",
+            "description": "The Biden administration wants to see an Israeli plan for protecting Palestinian civilians in the southernmost city in the Gaza Strip.",
+            "url": "https://www.nbcnews.com/politics/white-house/white-house-weighs-respond-israel-defies-biden-rafah-invasion-rcna143676",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240315-joe-biden-ac-827p-bc302f.jpg",
+            "publishedAt": "2024-03-16T11:00:00Z",
+            "content": "The White House effectively embraced remarks from Senate Majority Leader Chuck Schumer on Thursday that called for new elections in Israel to replace Netanyahu, described by the New York Democrat as \u2026 [+3546 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Wccftech"
+                "name": "Sputnikglobe.com"
             },
-            "author": "Ali Salman",
-            "title": "Reasons Why You Should Wait For The OLED iPad Pro and Not Buy The M2 iPad Pro Right Now",
-            "description": "Apple is expected to announce the revamped iPad Pro models soon, with major changes implemented throughout the device. If you are on the verge of making a decision to purchase the M2 iPad Pro right now, we would recommend you wait for the OLED iPad Pro's laun\u2026",
-            "url": "https://wccftech.com/reasons-why-you-should-wait-for-the-oled-ipad-pro/",
-            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/03/OLED-iPad-Pro-title-1.jpg",
-            "publishedAt": "2024-03-17T07:41:53Z",
-            "content": "Apple is expected to announce the revamped iPad Pro models soon, with major changes implemented throughout the device. If you are on the verge of making a decision to purchase the M2 iPad Pro right n\u2026 [+6959 chars]"
+            "author": "John Miles",
+            "title": "Feeling Strain of War, Israel Considers Conscripting Ultra-Orthodox Population",
+            "description": "Ultra-Orthodox Jews in Israel have long been exempted from military service. That policy may change as Israeli society is increasingly strained by a months-long operation in Gaza.",
+            "url": "https://sputnikglobe.com/20240317/feeling-strain-of-war-israel-considers-conscripting-ultra-orthodox-population-1117376659.html",
+            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1117376659.jpg?11173768591710649419",
+            "publishedAt": "2024-03-17T04:23:38Z",
+            "content": "Get the latest news from around the world, live coverage, off-beat stories, features and analysis.\r\nhttps://sputnikglobe.com/20240317/feeling-strain-of-war-israel-considers-conscripting-ultra-orthodo\u2026 [+9165 chars]"
         },
         {
             "source": {
-                "id": "techradar",
-                "name": "TechRadar"
+                "id": "rt",
+                "name": "RT"
             },
-            "author": "David Nield",
-            "title": "Leaked Apple roadmap hints at iPhone SE 4, foldable iPhone, and AR glasses launch dates",
-            "description": "If you're planning to save up for any of these gadgets, here's when they might see the light of day.",
-            "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/leaked-apple-roadmap-hints-at-iphone-se-4-foldable-iphone-and-ar-glasses-launch-dates",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eHRHU8QuaELrw9Bt3rUVwd-1200-80.jpg",
-            "publishedAt": "2024-03-17T13:30:36Z",
-            "content": "We've heard plenty of rumors about the iPhone SE 4, the foldable iPhone, and the Apple AR glasses, and now a leaked roadmap has given us a better idea of when we might actually see these devices get \u2026 [+2161 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Idownloadblog.com"
-            },
-            "author": "Anthony Bouchard",
-            "title": "Developer shows off perma-signed apps on Apple Watch using same CoreTrust bug as TrollStore",
-            "description": "Developer teases video of apps being perma-signed on Apple Watch by way of the same CoreTrust bug that TrollStore uses.",
-            "url": "https://www.idownloadblog.com/2024/03/16/apple-watch-trollstore-coretrust/",
-            "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2024/03/CoreTrust-Apps-on-Apple-Watch.png",
-            "publishedAt": "2024-03-17T01:22:26Z",
-            "content": "By now weve all heard about the wonders of Lars Fr\u00f6ders TrollStore utility, the perma-signing app that takes full advantage of a CoreTrust bug in iOS &amp; iPadOS 14.0 beta 2 through 16.6.1, 16.7 RC \u2026 [+2627 chars]"
+            "author": "RT",
+            "title": "Biden knew Israel was bombing indiscriminately \u2013 WaPo",
+            "description": "The US president was told in October that Israeli airstrikes were often carried out without \u201csolid intelligence,\u201d Washington Post claims Read Full Article at RT.com",
+            "url": "https://www.rt.com/news/594456-biden-israel-indiscriminate-bombing/",
+            "urlToImage": "https://mf.b37mrtl.ru/files/2024.03/article/65f8aa1485f54013eb6e5f19.jpg",
+            "publishedAt": "2024-03-18T21:09:05Z",
+            "content": "The White House knew since late October that Israel was regularly bombing civilian targets in Gaza, but President Joe Biden continued to publicly defend the Israeli military\u2019s conduct, the Washington\u2026 [+2949 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "HuffPost"
+                "name": "Juancole.com"
             },
-            "author": "Emily Ruane",
-            "title": "Walmart Has A MacBook Air For Less Than $700 Right Now",
-            "description": "Walmart Has A MacBook Air For Less Than $700 Right Nowhuffpost.com",
-            "url": "https://www.huffpost.com/entry/walmart-apple-macbook-sale-ano_l_65f58d0ae4b0b4d0b899827e",
-            "urlToImage": "https://img.huffingtonpost.com/asset/65f464ae2500001a00944caf.png?cache=PxpjZu5Wk7&ops=1200_630",
-            "publishedAt": "2024-03-16T13:21:25Z",
-            "content": "Walmart has a 13.3-inch MacBook Air for $699 right now.\r\nHuffPost receives compensation from one or more retailers on this page, and HuffPost and its publishing partners may also receive a commission\u2026 [+1743 chars]"
+            "author": "H. Scott Prosterman",
+            "title": "Schumer, breaking with Netanyahu, Signals that even Corporate Dems\u2019 Support for Israel is no Longer Unconditional",
+            "description": "Oakland, Ca. (Special to Informed Comment; Feature) - Whether driven by moral compass, or political survival; America\u2019s Democratic leaders are finally recognizing the obvious: The continued leadership of Israeli PM Benjamin Netanyahu (Bibi), is hurting Israel\u2026",
+            "url": "https://www.juancole.com/2024/03/netanyahu-corporate-unconditional.html",
+            "urlToImage": "https://media.juancole.com/images/2024/03/schumer-breaking-with-netanyahu.jpg",
+            "publishedAt": "2024-03-16T04:25:11Z",
+            "content": "Oakland, Ca. (Special to Informed Comment; Feature) \u2013 Whether driven by moral compass, or political survival; America\u2019s Democratic leaders are finally recognizing the obvious: The continued leadershi\u2026 [+5987 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "[Removed]"
             },
-            "author": "Matt Elliott",
-            "title": "HP Spectre x360 16 Review: Beautiful 2-in-1 Laptop Needs a Performance Boost",
-            "description": "It's oversized for tablet use and we wish the GPU upgrade provided more muscle, but we love the huge OLED display and massive haptic touchpad.",
-            "url": "https://www.cnet.com/tech/computing/hp-spectre-x360-16-review-beautiful-2-in-1-laptop-needs-a-performance-boost/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/04cd834aa70c22c60a88aeec5cb26fff4873bd73/hub/2024/03/15/048b6f73-de60-4af1-8368-f4b95f481409/hp-spectre-x360-16-overview.jpg?auto=webp&fit=crop&height=675&precrop=2749,2067,x540,y145&width=1200",
-            "publishedAt": "2024-03-17T12:07:48Z",
-            "content": "On the heels of the 14-inch HP Spectre x360 16 I reviewed earlier this year is its larger linemate, the Spectre x360 16. The two-in-one is just as premium in design and features as the 14-inch but ha\u2026 [+14373 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Netanyahu vows to press ahead with Rafah assault plan",
+            "description": "Israeli Prime Minister Benjamin Netanyahu has vowed to push ahead with an offensive on the city of Rafah, railing against growing global criticism.",
+            "url": "https://www.abc.net.au/news/2024-03-18/netanyahu-pushes-back-on-us-schumer-rafah-criticism/103599282",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/118e92f69f5923bf1b14c7fbdff1451c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-03-17T22:39:45Z",
+            "content": "<ul><li>In short: Israeli Prime Minister\u00a0Benjamin Netanyahu has vowed to push into the Gaza city of Rafah, despite pressure from close\u00a0allies.</li><li>The leader pushed back against strong criticism \u2026 [+6983 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "International Business Times"
+            },
+            "author": "Adel ZAANOUN",
+            "title": "Gaza Hunger Warnings Grow As Hopes Build For Ceasefire",
+            "description": "Efforts to hammer out a temporary truce in Gaza intensified Tuesday after months of war that have left parts of the devastated territory facing imminent famine.",
+            "url": "https://www.ibtimes.com/gaza-hunger-warnings-grow-hopes-build-ceasefire-3727502",
+            "urlToImage": "https://d.ibtimes.com/en/full/4517688/woman-child-stand-rafah-southern-gaza-strip.jpg",
+            "publishedAt": "2024-03-19T10:06:25Z",
+            "content": "Efforts to hammer out a temporary truce in Gaza intensified Tuesday after months of war that have left parts of the devastated territory facing imminent famine.\r\nA UN-backed assessment described the \u2026 [+4969 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Deutsche Welle",
+            "title": "Israel-Hamas war: Israel to send team to US for Rafah talks",
+            "description": "White House official Jake Sullivan said Washington considers that a major Israeli ground operation in Rafah \"would be a mistake.\" He said the US would present an alternative plan to Israel. DW rounds up the latest.",
+            "url": "https://www.dw.com/en/israel-hamas-war-israel-to-send-team-to-us-for-rafah-talks/live-68598505",
+            "urlToImage": "https://static.dw.com/image/68609860_6.jpg",
+            "publishedAt": "2024-03-18T20:12:00Z",
+            "content": "The Israeli Defense Forces (IDF) said it launched a \"precise operation\" at al-Shifa Hospital in Gaza on Monday morning.\u00a0\r\n\"The operation is based on intelligence information indicating the use of the\u2026 [+1521 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sputnikglobe.com"
+            },
+            "author": "Sputnik International",
+            "title": "Israel's Netanyahu Slams Call for New Elections During Gaza Fighting",
+            "description": "MOSCOW (Sputnik) - Israeli Prime Minister Benjamin Netanyahu has pushed back against calls for new elections in the country, warning they would halt the war in Gaza and \"paralyze\" Israel for at least six months, after the top US senator criticized his leaders\u2026",
+            "url": "https://sputnikglobe.com/20240318/israels-netanyahu-slams-call-for-new-elections-during-gaza-fighting-1117406409.html",
+            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1117406409.jpg?11160345571710761515",
+            "publishedAt": "2024-03-18T11:31:54Z",
+            "content": "On October 7, 2023, Palestinian movement Hamas launched a large-scale rocket attack against Israel from Gaza and breached the border, killing 1,200 people and abducting around 240 others. Israel laun\u2026 [+287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VOA News"
+            },
+            "author": "webdesk@voanews.com (VOA News)",
+            "title": "Netanyahu: Israel to Push Ahead With Rafah Attack",
+            "description": "Israeli leader rejects attacks on his handling of the war against Hamas",
+            "url": "https://www.voanews.com/a/netanyahu-israel-to-push-ahead-with-rafah-attack-/7531251.html",
+            "urlToImage": "https://gdb.voanews.com/C8BD4B06-9F1A-4F4E-B6D3-F0C98510EFEE.jpg",
+            "publishedAt": "2024-03-17T15:43:11Z",
+            "content": "Israeli Prime Minister Benjamin Netanyahu on Sunday rebuffed international pressure, vowing that Israel would push ahead with an attack on Hamas militants in Rafah near the Gaza-Egyptian border, even\u2026 [+4121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Boston Globe"
+            },
+            "author": "TIA GOLDENBERG and RAVI NESSMAN",
+            "title": "Netanyahu rails against US criticism and says Israel won\u2019t stop until \u2018total victory\u2019 is achieved",
+            "description": "In recent days, top officials from the U.S., Israel\u2019s staunchest ally which has provided key military and diplomatic support during the war, have publicly voiced their frustration with Netanyahu and his government.",
+            "url": "https://www.bostonglobe.com/2024/03/17/world/netanyahu-rails-against-us-criticism-says-israel-wont-stop-until-total-victory-is-achieved/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/yTY3_tzvCAmbPjeNrdoUX1h2yKk=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/PASC5ITTZ5NAA4B4BFPOGBDCGI.jpg",
+            "publishedAt": "2024-03-17T13:27:13Z",
+            "content": "TEL AVIV, Israel (AP) Israeli Prime Minister Benjamin Netanyahu railed Sunday against growing criticism from the United States against his leadership amid the devasting war with Hamas, saying the pre\u2026 [+3559 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "International Business Times"
+            },
+            "author": "Adel Zaanoun with Robbie Corey-Boulet in Jerusalem",
+            "title": "Deadly Strikes Hit Gaza As Israel Mulls Truce Talks Position",
+            "description": "At least 61 Palestinians were killed in overnight Israeli bombardment, the health ministry in Hamas-run Gaza said Sunday, as Israel was preparing to send negotiators to new truce talks in Qatar.",
+            "url": "https://www.ibtimes.com/deadly-strikes-hit-gaza-israel-mulls-truce-talks-position-3727360",
+            "urlToImage": "https://d.ibtimes.com/en/full/4517410/israeli-protesters-calling-hostage-release-block-highway-tel-aviv-during-anti-government-rally.jpg",
+            "publishedAt": "2024-03-17T08:51:23Z",
+            "content": "At least 61 Palestinians were killed in overnight Israeli bombardment, the health ministry in Hamas-run Gaza said Sunday, as Israel was preparing to send negotiators to new truce talks in Qatar.\r\nIsr\u2026 [+4425 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Joel B. Pollak, Joel B. Pollak",
+            "title": "Netanyahu: Biden, Schumer Trying to 'Paralyze the Country,' Force Israel to Lose",
+            "description": "Israeli Prime Minister Benjamin Netanyahu told his government on Sunday that international leaders who are pushing for elections in the midst of the war are trying to \"paralyze the country,\" forcing Israel to stop fighting and lose the war.",
+            "url": "https://www.breitbart.com/middle-east/2024/03/17/netanyahu-biden-schumer-trying-to-paralyze-the-country-force-israel-to-lose/",
+            "urlToImage": "https://media.breitbart.com/media/2023/10/netanyahu-biden-nyc-9-20-23-getty-640x335.jpg",
+            "publishedAt": "2024-03-17T12:20:51Z",
+            "content": "Israeli Prime Minister Benjamin Netanyahu told his government on Sunday that international leaders who are pushing for elections in the midst of the war are trying to \u201cparalyze the country,\u201d forcing \u2026 [+4613 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whyevolutionistrue.com"
+            },
+            "author": "whyevolutionistrue",
+            "title": "The administration of postwar Gaza: a suggestion",
+            "description": "This is one of the big objections to Israel defending itself: if Hamas is taken out, who will run Gaza after the war.\u00a0 The U.S., of course, wants the Palestinian Authority to run it, which is one of the dumbest ideas advanced by Biden and Blinken. The PA is t\u2026",
+            "url": "https://whyevolutionistrue.com/2024/03/17/the-administration-of-postwar-gaza/",
+            "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2023/10/weit-cover-kindle-158s.png",
+            "publishedAt": "2024-03-17T16:45:42Z",
+            "content": "This is one of the big objections to Israel defending itself: if Hamas is taken out, who will run Gaza after the war.\u00a0 The U.S., of course, wants the Palestinian Authority to run it, which is one of \u2026 [+4251 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Watch: Displaced Gazans describe al-Shifa raid",
+            "description": "The Israeli military says it has taken control of al-Shifa hospital in Gaza City in what it called an operation to \"thwart terrorist activity\".",
+            "url": "https://www.bbc.co.uk/news/av/world-middle-east-68602337",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/100EF/production/_132957756_p0hkfw75.jpg",
+            "publishedAt": "2024-03-18T19:02:44Z",
+            "content": "The Israeli military says it has taken control of al-Shifa hospital in Gaza City in what it called an operation to \"thwart terrorist activity\".\r\nIt said troops killed 20 \"terrorists\", including a sen\u2026 [+285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Japan Today"
+            },
+            "author": null,
+            "title": "Cease-fire talks with Israel and Hamas expected to resume on Sunday in Qatar",
+            "description": "Stalled talks aimed at securing a cease-fire in the Israel-Hamas war are expected to resume in earnest in Qatar as soon as Sunday, according to Egyptian officials. The talks would mark the first time both Israeli officials and Hamas leaders join the indirect \u2026",
+            "url": "https://japantoday.com/category/world/cease-fire-talks-with-israel-and-hamas-expected-to-restart",
+            "urlToImage": null,
+            "publishedAt": "2024-03-16T21:39:05Z",
+            "content": "Stalled talks aimed at securing a cease-fire in the Israel-Hamas war are expected to resume in earnest in Qatar as soon as Sunday, according to Egyptian officials.\r\nThe talks would mark the first tim\u2026 [+5415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whyevolutionistrue.com"
+            },
+            "author": "whyevolutionistrue",
+            "title": "Discussion question: What does the U.S. want with Israel?",
+            "description": "It\u2019s one of those weeks when I don\u2019t really have a lot to say based on what\u2019s happening, nor any juicy articles to analyze or criticize. Instead, I\u2019d like to start a discussion. Here\u2019s the question, which could be phrased in several ways: \u201cDoes America want I\u2026",
+            "url": "https://whyevolutionistrue.com/2024/03/18/discussion-question-what-does-the-u-s-want-with-israel/",
+            "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2023/10/weit-cover-kindle-158s.png",
+            "publishedAt": "2024-03-18T16:38:29Z",
+            "content": "It\u2019s one of those weeks when I don\u2019t really have a lot to say based on what\u2019s happening, nor any juicy articles to analyze or criticize. Instead, I\u2019d like to start a discussion.\r\nHere\u2019s the question,\u2026 [+5172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VOA News"
+            },
+            "author": "webdesk@voanews.com (VOA News)",
+            "title": "Blinken to Discuss Cease-fire Push, Post-War Gaza Plans at Talks in Saudi Arabia and Egypt",
+            "description": "Biden expresses concern to Netanyahu about Israel\u2019s conduct of the war against Hamas.",
+            "url": "https://www.voanews.com/a/blinken-to-discuss-cease-fire-push-post-war-gaza-plans-at-talks-in-saudi-arabia-and-egypt/7533434.html",
+            "urlToImage": "https://gdb.voanews.com/9B48D81E-602A-4F87-9F61-ABB1AFA0D3A6.jpg",
+            "publishedAt": "2024-03-19T07:06:30Z",
+            "content": "U.S. Secretary of State Antony Blinken is set to visit Saudi Arabia and Egypt this week for talks that he said will focus on pushing for a cease-fire in Gaza, the release of hostages held by Palestin\u2026 [+4435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Boston Globe"
+            },
+            "author": "AAMER MADHANI, ZEKE MILLER and JULIA FRANKEL",
+            "title": "Biden and Netanyahu hold first call in more than a month as tension grows over food crisis, war",
+            "description": "President Biden and Israeli Prime Minister Benjamin Netanyahu have spoken in their first interaction in more than a month as the divide has grown between allies over the food crisis in Gaza and the conduct of war.",
+            "url": "https://www.bostonglobe.com/2024/03/18/nation/biden-netanyahu-gaza-food-crisis/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/DKrWgx3vHIkQj1PgNriih177tqw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/WTHKYF5VDKVUDAR4Y6RUR2ASG4.jpg",
+            "publishedAt": "2024-03-18T16:15:10Z",
+            "content": "WASHINGTON (AP) President Biden and Israeli Prime Minister Benjamin Netanyahu spoke on Monday, their first interaction in more than a month, as the divide has grown between allies over food crisis in\u2026 [+1082 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Boston Globe"
+            },
+            "author": "WAFAA SHURAFA, SAMY MAGDY and TIA GOLDENBERG",
+            "title": "Israel launches another raid on Gaza\u2019s main hospital, charging that Hamas has regrouped there",
+            "description": "Israeli forces launched another raid on the Gaza Strip\u2019s largest hospital early Monday, saying Hamas militants had regrouped there and had fired on them from inside the compound, where Palestinian officials say tens of thousands of people were sheltering.",
+            "url": "https://www.bostonglobe.com/2024/03/18/world/israel-launches-another-raid-gazas-main-hospital-charging-that-hamas-has-regrouped-there/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Qsx9fzahGmFSnmHjAZHIxduGx5Y=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/JU7WBR5Q6AEFKM7S7MFXXWSKQE.jpg",
+            "publishedAt": "2024-03-18T07:58:46Z",
+            "content": "RAFAH, Gaza Strip (AP) Israeli forces launched another raid on the Gaza Strips largest hospital early Monday, saying Hamas militants had regrouped there and had fired on them from inside the compound\u2026 [+3348 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "International Business Times"
+            },
+            "author": "AFP News",
+            "title": "Israel PM Says Army Will Enter Rafah Despite 'International Pressure'",
+            "description": "Prime Minister Benjamin Netanyahu said Sunday that Israeli troops would pursue a planned ground offensive in southern Gaza's Rafah that has spurred fears of mass civilian casualties.",
+            "url": "https://www.ibtimes.com/israel-pm-says-army-will-enter-rafah-despite-international-pressure-3727366",
+            "urlToImage": "https://d.ibtimes.com/en/full/4517424/israeli-prime-minister-benjamin-netanyahu-has-stood-his-controversial-plan-military-ground.jpg",
+            "publishedAt": "2024-03-17T15:30:26Z",
+            "content": "Prime Minister Benjamin Netanyahu said Sunday that Israeli troops would pursue a planned ground offensive in southern Gaza's Rafah that has spurred fears of mass civilian casualties.\r\n\"No amount of i\u2026 [+3462 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Entire Gaza population facing acute hunger - US",
+            "description": "Secretary of State Antony Blinken says it is the first time this has happened and calls for more aid.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68605401",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6D16/production/_132962972_mediaitem132962971.jpg",
+            "publishedAt": "2024-03-19T12:16:21Z",
+            "content": "US Secretary of State Antony Blinken has said all of Gaza's two million people are experiencing \"severe levels of acute food insecurity\".\r\nThis was first time an entire population had been so classif\u2026 [+3746 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Shtfplan.com"
+            },
+            "author": "Mac Slavo",
+            "title": "Netanyahu Reaffirms Decision To Launch An Offensive Against Rafah",
+            "description": "Israel's Prime Minister Benjamin Netanyahu has reaffirmed his determination to launch an offensive in Rafah, defying international criticism, some of which is coming from allies. \"If we stop the war now before achieving all of its goals, the meaning is that I\u2026",
+            "url": "https://www.shtfplan.com/headline-news/netanyahu-reaffirms-decision-to-launch-an-offensive-against-rafah",
+            "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/02/Depositphotos_471654106_DS.jpg",
+            "publishedAt": "2024-03-18T20:00:08Z",
+            "content": "Israel\u2019s Prime Minister Benjamin Netanyahu has reaffirmed his determination to launch an offensive in Rafah, defying international criticism, some of which is coming from allies. \u201cIf we stop the war \u2026 [+2093 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Gaza needs more larger-scale aid now, Germany says",
+            "description": "Olaf Scholz also criticises Israel's planned offensive in Rafah, warning of a danger of casualties.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68586065",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8894/production/_132946943_7d4fd9e14cbab7c93701e8cf6fdedcbcbed4dd930_0_7500_50001000x667.jpg",
+            "publishedAt": "2024-03-16T19:55:17Z",
+            "content": "German Chancellor Olaf Scholz has called for more aid to reach Gaza on the ground, as he criticised Israel's plans for a full-scale offensive in the southern city of Rafah.\r\nIsrael has previously def\u2026 [+3693 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spacewar.com"
+            },
+            "author": null,
+            "title": "Israeli PM Netanyahu gives green light to Rafah military ground operation",
+            "description": "Washington DC (UPI) Mar 15, 2024\n\n\n Israeli Prime Minister Benjamin Netanyahu has approved plans for the country's military to begin conducting a ground operation in the city of Rafah in southern Gaza. \n Netanyahu confirmed Friday that Israel Defense Forces c\u2026",
+            "url": "https://www.spacewar.com/reports/Israeli_PM_Netanyahu_gives_green_light_to_Rafah_military_ground_operation_999.html",
+            "urlToImage": "https://www.spxdaily.com/images-hg/netanyahu-football-us-flag-hg.jpg",
+            "publishedAt": "2024-03-18T00:39:50Z",
+            "content": "Israeli PM Netanyahu gives green light to Rafah military ground operationby Simon Druker Washington DC (UPI) Mar 15, 2024\r\nIsraeli Prime Minister Benjamin Netanyahu has approved plans for the country\u2026 [+1902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sputnikglobe.com"
+            },
+            "author": "Sputnik International",
+            "title": "Netanyahu Says Operation in Rafah in Southern Gaza Will Be Conducted in Several Weeks",
+            "description": "MOSCOW (Sputnik) - The operation in Rafah in the southern Gaza Strip, which includes the evacuation of civilians from the city, will be carried out in a few weeks, Israeli Prime Minister Benjamin Netanyahu said on Sunday.",
+            "url": "https://sputnikglobe.com/20240317/netanyahu-says-operation-in-rafah-in-southern-gaza-will-be-conducted-in-several-weeks-1117390023.html",
+            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1117390023.jpg?11141426921710694136",
+            "publishedAt": "2024-03-17T16:48:56Z",
+            "content": "Get the latest news from around the world, live coverage, off-beat stories, features and analysis.\r\nhttps://sputnikglobe.com/20240317/netanyahu-says-operation-in-rafah-in-southern-gaza-will-be-conduc\u2026 [+3938 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "International Business Times"
+            },
+            "author": "AFP News",
+            "title": "Israel Reports Gun Battles At Key Gaza Hospital",
+            "description": "Israel's military reported gun battles Monday between troops and fighters on the grounds of Gaza's Al-Shifa hospital, where troops launched a raid they said targeted senior Hamas militants.",
+            "url": "https://www.ibtimes.com/israel-reports-gun-battles-key-gaza-hospital-3727441",
+            "urlToImage": "https://d.ibtimes.com/en/full/4517577/displaced-palestinians-arrive-nuseirat-refugee-camp-central-gaza-after-fleeing-area-gaza.jpg",
+            "publishedAt": "2024-03-18T15:30:26Z",
+            "content": "Israel's military reported gun battles Monday between troops and fighters on the grounds of Gaza's Al-Shifa hospital, where troops launched a raid they said targeted senior Hamas militants.\r\nHours in\u2026 [+2894 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Joel B. Pollak, Joel B. Pollak",
+            "title": "Biden Summons Israel for Talks; Says Netanyahu's Position on Hamas Is 'Nonsense'",
+            "description": "Sullivan said Biden had spoken with Netanyahu to oppose plans to attack Hamas's last stronghold in Rafah, and summoned a team of Israeli officials for talks.",
+            "url": "https://www.breitbart.com/middle-east/2024/03/18/biden-summons-israel-for-talks-says-netanyahus-position-on-hamas-is-nonsense/",
+            "urlToImage": "https://media.breitbart.com/media/2022/01/Biden_Z-640x335.jpg",
+            "publishedAt": "2024-03-18T20:47:00Z",
+            "content": "National Security Advisor Jake Sullivan told reporters at the White House on Monday that President Joe Biden had spoken with Israeli Prime Minister Benjamin Netanyahu to oppose Israeli plans to attac\u2026 [+4535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "International Business Times"
+            },
+            "author": "Adel Zaanoun with Chloe Rouveyrolles-Bazire in Jerusalem",
+            "title": "Israeli Army Launches Operation At Gaza's Al-Shifa Hospital",
+            "description": "The Israeli army launched Monday an operation around Gaza's largest hospital, Al-Shifa, with witnesses reporting air strikes on the devastated neighbourhood where it is located.",
+            "url": "https://www.ibtimes.com/israeli-army-launches-operation-gazas-al-shifa-hospital-3727404",
+            "urlToImage": "https://d.ibtimes.com/en/full/4517502/donkey-pulled-cart-passes-rubble-al-faruq-mosque-destroyed-during-israeli-bombardment-rafah.jpg",
+            "publishedAt": "2024-03-18T05:15:28Z",
+            "content": "The Israeli army launched Monday an operation around Gaza's largest hospital, Al-Shifa, with witnesses reporting air strikes on the devastated neighbourhood where it is located.\r\nIsraeli soldiers \"ar\u2026 [+5871 chars]"
+        },
+        {
+            "source": {
+                "id": "rt",
+                "name": "RT"
+            },
+            "author": "RT",
+            "title": "US criticism of Israel \u2018inadequate\u2019 \u2013 Egypt",
+            "description": "Egypt says Washington\u2019s mere expression of opposition to Israel\u2019s planned operation in Rafah is not enough Read Full Article at RT.com",
+            "url": "https://www.rt.com/africa/594485-us-israel-ground-rafah-assault-criticism-inadequate-egypt/",
+            "urlToImage": "https://mf.b37mrtl.ru/files/2024.03/article/65f977302030271d5e579dde.jpg",
+            "publishedAt": "2024-03-19T11:39:45Z",
+            "content": "Washington must explain to Israel what the consequences would be of a ground incursion into Rafah, the southern Gaza city currently hosting more than a million displaced Palestinians, Egypt\u2019s foreign\u2026 [+2217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Boston Globe"
+            },
+            "author": "Adam Rasgon, Vivian Yee",
+            "title": "\u2018We\u2019re not a banana republic,\u2019 Netanyahu says, rejecting US criticism",
+            "description": "The rift between Israel and the United States, it\u2019s closest ally, over the war in the Gaza Strip appears to be broadening.",
+            "url": "https://www.bostonglobe.com/2024/03/17/world/were-not-banana-republic-netanyahu-says-rejecting-us-criticism/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/h8nnZmnrS5iJi--I2PEfpJIzo2U=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/2GNG5PONCHXVKK72NQPG6HZG54.jpg",
+            "publishedAt": "2024-03-17T23:16:32Z",
+            "content": "Thats something that Israel, the Israeli public, does on its own, he said. Were not a banana republic.\r\nOn Thursday, Schumer, who is the highest-ranking Jewish elected official in the United States, \u2026 [+4356 chars]"
         }
     ]
 }
