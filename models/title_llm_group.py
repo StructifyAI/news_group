@@ -76,12 +76,12 @@ class NewsComparison:
             components[root].append(i)
 
         for indices in components.values():
-            print("Component:")
+            print("Component:"
             print(f"{[self.headings[index] for index in indices]}\n")
 
 
 with open('keys/openai.txt', 'r') as file:
-    API_KEY = file.read().strip()
+    OPEN_API_KEY = file.read().strip()
 
 with open('../tests/titles.json', 'r') as file:
     data = json.load(file)
@@ -89,7 +89,7 @@ with open('../tests/titles.json', 'r') as file:
 
 if __name__ == "__main__":
     start = time.time()
-    program = NewsComparison(API_KEY, headings)
+    program = NewsComparison(OPEN_API_KEY, headings)
     asyncio.run(program.run())
     end = time.time()
     print("Time: ", (end-start))

@@ -7,10 +7,10 @@ with open('keys/newsapi.txt', 'r') as file:
     NEWS_API_KEY = file.read().strip()
 
 with open('keys/openai.txt', 'r') as file:
-    API_KEY = file.read().strip()
+    OPEN_API_KEY = file.read().strip()
 
 
-class AsyncOpenAiClientWrapper:
+class AsyncOpenAiWrapper:
     def __init__(self, api_key):
         self.client = AsyncOpenAI(api_key=api_key)
 
@@ -59,7 +59,7 @@ class UnionFind:
 
 class NewsSummarizeAndCompare:
     def __init__(self, api_key, data):
-        self.api_client = AsyncOpenAiClientWrapper(api_key)
+        self.api_client = AsyncOpenAiWrapper(api_key)
         self.union_find = UnionFind(len(data))
         self.data = data
         self.text = []
@@ -97,9 +97,9 @@ class NewsSummarizeAndCompare:
 
 
 def retrieve_news_articles():
-    query = NewsQuery(keyword="Gaza", context="Israel hamas war", from_date="2024-03-16")
-    newsApiWrapper = NewsApiWrapper(NEWS_API_KEY)
-    response = newsApiWrapper.execute_query(query)
+    query = NewsQuery(keyword="Ford Motor", context="Business", from_date="2024-03-16")
+    news_api_wrapper = NewsApiWrapper(NEWS_API_KEY)
+    response = news_api_wrapper.execute_query(query)
 
     with open("news_results.json", "w") as outfile:
         outfile.write(json.dumps(response, indent=4))
@@ -110,5 +110,5 @@ if __name__ == "__main__":
     with open('news_results.json', 'r') as file:
         data = json.load(file)
 
-    program = NewsSummarizeAndCompare(API_KEY, data["articles"][0:10])
+    program = NewsSummarizeAndCompare(OPEN_API_KEY, data["articles"][0:10])
     # asyncio.run(program.run())
