@@ -76,7 +76,7 @@ class NewsComparison:
             components[root].append(i)
 
         for indices in components.values():
-            print("Component:"
+            print("Component:")
             print(f"{[self.headings[index] for index in indices]}\n")
 
 
