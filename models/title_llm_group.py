@@ -3,12 +3,14 @@ import asyncio
 from openai import AsyncOpenAI
 import time
 
+
 class AsyncOpenAIClient:
     def __init__(self, api_key):
         self.client = AsyncOpenAI(api_key=api_key)
 
     async def compare_headings(self, heading1, heading2):
-        prompt = f"Are these two news headings reporting the same event? Look at the message behind the heading. Answer only yes or no\n1. {heading1}\n2. {heading2}"
+        prompt = (f"Are these two news headings reporting the same event? Look at the message behind the heading. "
+                  f"Answer only yes or no\n1. {heading1}\n2. {heading2}")
         completion = await self.client.chat.completions.create(
             model="gpt-3.5-turbo", 
             messages=[
@@ -17,6 +19,7 @@ class AsyncOpenAIClient:
         )
         response = completion.choices[0].message.content.strip().lower()
         return response == "yes"
+
 
 class UnionFind:
     def __init__(self, size):
@@ -41,6 +44,7 @@ class UnionFind:
 
     def connected(self, item1, item2):
         return self.find(item1) == self.find(item2)
+
 
 class NewsComparison:
     def __init__(self, api_key, headings):
@@ -75,11 +79,10 @@ class NewsComparison:
             print("Component:")
             print(f"{[self.headings[index] for index in indices]}\n")
 
-API_KEY = None
+
 with open('keys/openai.txt', 'r') as file:
     API_KEY = file.read().strip()
 
-headings = []
 with open('../tests/titles.json', 'r') as file:
     data = json.load(file)
     headings = data['article_titles']

@@ -7,7 +7,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 
-class DistilBertEmbedding():
+
+class DistilBertEmbedding:
     def __init__(self, model_name):
         self.tokenizer = DistilBertTokenizer.from_pretrained(model_name)
         self.model = DistilBertModel.from_pretrained(model_name)
@@ -19,8 +20,9 @@ class DistilBertEmbedding():
             hidden_states = outputs.last_hidden_state
         embedding = hidden_states.mean(dim=1)
         return embedding[0]
-          
-class FilterNews():
+
+
+class FilterNews:
     def __init__(self, query, model, results=""):
         self.query = query
         self.results = results
@@ -55,9 +57,10 @@ class FilterNews():
         plt.title('t-SNE visualization of embeddings')
         plt.show()
 
+
 model = DistilBertEmbedding("distilbert-base-uncased")
 filter_news = FilterNews("Apples stocks and shares", model)
-filtered_text = filter_news.filter()
+filter_news.filter()
 
 
 
