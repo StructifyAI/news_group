@@ -14,13 +14,14 @@ class AsyncOpenAiWrapper:
     def __init__(self, api_key):
         self.client = AsyncOpenAI(api_key=api_key)
 
-    async def summarize_article(self, article_text):
-        prompt = f"Please extract key news events from this article. Respond in strictly less than 60 words {article_text}"
-        completion = await self.client.chat.completions.create(
-            model="gpt-4-turbo-preview",
-            messages=[{"role": "user", "content": prompt}],
-        )
-        return completion.choices[0].message.content.strip().lower()
+    async def summarize_article(self, article_text, index):
+        if len(article_text) > 100:
+            prompt = f"Please extract key news events from this article. Respond in strictly less than 60 words {article_text}"
+            completion = await self.client.chat.completions.create(
+                model="gpt-4-turbo-preview",
+                messages=[{"role": "user", "content": prompt}],
+            )
+            article_text[index] = completion.choices[0].message.content.strip().lower()
 
     async def compare_summaries(self, summary1, summary2):
         prompt = f"Are these two articles summarizing the same event? Answer only yes or no\n1. {summary1}\n2. {summary2}"
@@ -85,19 +86,23 @@ class NewsSummarizeAndCompare:
             root = self.union_find.find(i)
             components.setdefault(root, []).append(i)
 
+        file_name = 'news_groupings.json'
+        with open(file_name, 'w') as outfile:
+            json.dump(components, outfile, indent=4)
+
         for i, indices in enumerate(components.values()):
             print(f"Component {i}:")
             print(f"{[self.data[index]['title'] for index in indices]}\n")
 
     async def run(self):
-        summaries = await asyncio.gather(*(self.api_client.summarize_article(heading) for heading in self.text))
-        for i in range(len(summaries)):
-            await self.process_item(i, summaries)
+        await asyncio.gather(*(self.api_client.summarize_article(self.text, i) for i, _ in enumerate(self.text)))
+        for i in range(len(self.text)):
+            await self.process_item(i, self.text)
         await self.print_components_and_titles()
 
 
 def retrieve_news_articles():
-    query = NewsQuery(keyword="Ford Motor", context="Business", from_date="2024-03-16")
+    query = NewsQuery(keyword="IPL", context="Cricket", from_date="2024-03-26")
     news_api_wrapper = NewsApiWrapper(NEWS_API_KEY)
     response = news_api_wrapper.execute_query(query)
 
@@ -110,5 +115,5 @@ if __name__ == "__main__":
     with open('news_results.json', 'r') as file:
         data = json.load(file)
 
-    program = NewsSummarizeAndCompare(OPEN_API_KEY, data["articles"][0:10])
-    # asyncio.run(program.run())
+    program = NewsSummarizeAndCompare(OPEN_API_KEY, data["articles"][0:25])
+    asyncio.run(program.run())
