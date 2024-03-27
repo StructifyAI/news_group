@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-class NewsSource:
+class NewsRank:
     def __init__(self):
         self.sources_df = {}
         self.rank_map = {}
@@ -16,6 +16,6 @@ class NewsSource:
         print(self.rank_map)
 
 
-path_to_file = 'major_outlets.xlsx'
-news_sources = NewsSource()
+path_to_file = 'news_api/major_outlets.xlsx'
+news_sources = NewsRank()
 news_sources.load_sources_to_dict(path_to_file)
