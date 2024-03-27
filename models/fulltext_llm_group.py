@@ -101,8 +101,8 @@ class NewsSummarizeAndCompare:
         await self.print_components_and_titles()
 
 
-def retrieve_news_articles():
-    query = NewsQuery(keyword="IPL", context="Cricket", from_date="2024-03-26")
+def retrieve_news_articles(keyword, context="", from_date="", to_date="", language='en'):
+    query = NewsQuery(keyword=keyword, context=context, from_date=from_date, to_date=to_date, language=language)
     news_api_wrapper = NewsApiWrapper(NEWS_API_KEY)
     response = news_api_wrapper.execute_query(query)
 
@@ -111,7 +111,7 @@ def retrieve_news_articles():
 
 
 if __name__ == "__main__":
-    retrieve_news_articles()
+    retrieve_news_articles(keyword="IPL", context="Cricket", from_date="2024-03-26")
     with open('news_results.json', 'r') as file:
         data = json.load(file)
 
