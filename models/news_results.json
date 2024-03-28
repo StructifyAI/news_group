@@ -1,1306 +1,188 @@
 {
     "status": "ok",
-    "totalResults": 753,
+    "totalResults": 14,
     "articles": [
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Gaza faces famine during Ramadan, the holy month of fasting",
-            "description": "More than a million people in Gaza are already starving, says the global body responsible for declaring famine.",
-            "url": "https://www.bbc.co.uk/news/world-middle-east-68577026",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13727/production/_132955697_d25a2269.jpg",
-            "publishedAt": "2024-03-18T17:13:50Z",
-            "content": "When dawn broke last Monday morning, signalling the beginning of Ramadan, it brought a cruel irony for the people of Gaza.\r\nThe holy month when Muslims fast during daylight had arrived amid a looming\u2026 [+8491 chars]"
-        },
-        {
-            "source": {
-                "id": "time",
-                "name": "Time"
-            },
-            "author": "Wafaa Shurafa, Samy Magdy, and Tia Goldenberg / AP",
-            "title": "Israel Launches Another Raid on Al-Shifa, Gaza\u2019s Largest Hospital",
-            "description": "The raid took place early Monday as tens of thousands of people have been sheltering there, according to Palestinian officials.",
-            "url": "https://time.com/6957903/israel-raid-gaza-shifa-hospital/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/AP24078140288990.jpg?quality=85",
-            "publishedAt": "2024-03-18T11:09:02Z",
-            "content": "RAFAH, Gaza Strip Israeli forces launched another raid on the Gaza Strip's largest hospital early Monday, saying Hamas militants had regrouped there and had fired on them from inside the compound, wh\u2026 [+6121 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The New Yorker"
-            },
-            "author": "Hannah Goldfield",
-            "title": "Kafta as a Tool for Palestinian Diplomacy",
-            "description": "Reem Kassis, the author of cookbooks including \u201cThe Arabesque Table,\u201d hosts a dinner party for Palestinian college students and considers whether food can be a tool of diplomacy amid the Israel-Hamas war in Gaza. Hannah Goldfield writes.",
-            "url": "https://www.newyorker.com/magazine/2024/03/25/kafta-as-a-tool-for-palestinian-diplomacy",
-            "urlToImage": "https://media.newyorker.com/photos/65f35ab39e0ed0e930017b50/16:9/w_1280,c_limit/r43963illuweb-site.png",
-            "publishedAt": "2024-03-18T10:00:00Z",
-            "content": "Do people drink juice? the writer Reem Kassis asked no one in particular one recent afternoon, as she bustled around her spacious kitchen in a suburb of Philadelphia. Theyre not kids, she said, reaso\u2026 [+4342 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Was this the week Israel and Hezbollah drew closer to war?",
-            "description": "Israel may be fighting in Gaza, but fear remains a war with Hezbollah could turn the conflict into something even deadlier.",
-            "url": "https://www.bbc.co.uk/news/world-middle-east-68575413",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/172B7/production/_132930949_briefings_promo_lowen-nc.png",
-            "publishedAt": "2024-03-16T08:03:40Z",
-            "content": "Since the start of the Israel-Gaza war, following the Hamas attack of 7 October, the overriding fear has been that the conflict could spill over into something even deadlier.\r\nThe day after the Hamas\u2026 [+7094 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Netanyahu vows to defy allies on Rafah invasion",
-            "description": "The Israeli prime minister says no international pressure will stop Israel from achieving all its war aims.",
-            "url": "https://www.bbc.co.uk/news/world-middle-east-68591487",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6C4A/production/_132922772_mediaitem132922660.jpg",
-            "publishedAt": "2024-03-17T13:48:32Z",
-            "content": "Israel's Prime Minister Benjamin Netanyahu has reaffirmed his determination to launch an offensive in Rafah, defying international criticism.\r\nThe city is crammed with some 1.5 million Palestinians f\u2026 [+2829 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Mary Kekatos",
-            "title": "Famine 'imminent' in northern Gaza, many facing severe food insecurity: Report",
-            "description": "A report from the IPC initiative released Monday found that famine may be \"imminent\" in northern Gaza, where it has been difficult to deliver food and other aid.",
-            "url": "https://abcnews.go.com/International/famine-imminent-northern-gaza-catastrophic-levels-hunger-ipc-report/story?id=108239497",
-            "urlToImage": "https://i.abcnewsfe.com/a/cd7d78bd-c83e-40c8-986b-d32d54d76f13/Gaza-hunger-crisis-1-rt-jm-240318_1710766924119_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-03-18T21:06:10Z",
-            "content": "Famine is \"imminent\" in northern Gaza, as the entire population of the strip experiences high levels of food insecurity amid the ongoing Israel-Hamas war, according to a report released Monday.\r\nThe \u2026 [+5976 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "US reports death of senior Hamas military leader",
-            "description": "Details are also released of President Biden's high-stakes call to Israeli leader Benjamin Netanyahu.",
-            "url": "https://www.bbc.co.uk/news/world-middle-east-68578735",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/645C/production/_132929652_qassamafp.jpg",
-            "publishedAt": "2024-03-18T23:39:19Z",
-            "content": "Hamas leader Marwan Issa died in an Israeli air strike, White House official Jake Sullivan has said. \r\nAs deputy military commander, Mr Issa would be Hamas's most senior leader to die since the war b\u2026 [+4484 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Suzanne Nuyen",
-            "title": "Famine in Gaza is 'imminent;' how Louisana's abortion ban changed maternal care",
-            "description": "People in Gaza are suffering from \"catastrophic levels of hunger,\" according to a group of global experts. Doctors say Louisiana's abortion ban has led to big deviations in maternal care.",
-            "url": "https://www.npr.org/2024/03/19/1239398523/up-first-newsletter-famine-gaza-icp-louisiana-abortion-maternal-care",
-            "urlToImage": "https://media.npr.org/assets/img/2024/03/19/ap24052664435571_wide-946c6f7bc7478609a62c3607d133ce40ca25e050-s1400-c100.jpg",
-            "publishedAt": "2024-03-19T12:02:41Z",
-            "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st\u2026 [+5577 chars]"
-        },
-        {
-            "source": {
-                "id": "time",
-                "name": "Time"
-            },
-            "author": "Jill Colvin / AP",
-            "title": "Trump Says Jews Who Vote for Democrats \u2018Hate Israel\u2019 and Their Religion",
-            "description": "The former U.S. President also said Jewish Democrats also hate \u201ctheir religion,\" igniting a firestorm of criticism.",
-            "url": "https://time.com/6958299/trump-israel-democrats/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/GettyImages-1762144741.jpg?quality=85",
-            "publishedAt": "2024-03-19T10:39:33Z",
-            "content": "NEW YORK Former President Donald Trump on Monday charged that Jews who vote for Democrats hate Israel\" and hate their religion, igniting a firestorm of criticism from the White House and Jewish leade\u2026 [+4472 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Born on 7 October: Gaza mum's fight to feed her baby",
-            "description": "Amal Alabadla has been in a daily battle to keep Mohamed and his two-year-old brother alive.",
-            "url": "https://www.bbc.co.uk/news/world-middle-east-68542331",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4695/production/_132896081_baby2-sidebars.jpg",
-            "publishedAt": "2024-03-16T00:05:29Z",
-            "content": "On the morning of 7 October, Amal Alabadla was heavily pregnant and snuggled up in bed with 18-month-old Noah when they were woken by a wall of sound.\r\nHamas had launched its attack on Israel, firing\u2026 [+7783 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera Staff",
-            "title": "Biden warns Netanyahu against \u2018mistake\u2019 of invading Rafah: White House",
-            "description": "The US president reportedly told Israeli prime minister that a 'coherent strategy' is needed to defeat Hamas in Gaza.",
-            "url": "https://www.aljazeera.com/news/2024/3/18/biden-warns-netanyahu-against-mistake-of-invading-rafah-white-house",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2023-10-18T151804Z_1330339924_RC21V3AW2LR6_RTRMADP_3_ISRAEL-PALESTINIANS-BIDEN-1710791647.jpg?resize=1920%2C1440",
-            "publishedAt": "2024-03-18T23:11:19Z",
-            "content": "Washington, DC The United States has issued its strongest public warning yet to Israel against invading the crowded city of Rafah in the Gaza Strip, saying that such a ground operation would deepen t\u2026 [+4507 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Israeli forces storm Gaza\u2019s al-Shifa Hospital",
-            "description": "Gaza officials report mounting casualties; Israeli military claims Hamas using medical complex to plan attacks.",
-            "url": "https://www.aljazeera.com/news/2024/3/18/israeli-army-opens-fire-inside-gazas-al-shifa-hospital-officials-say",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2023-11-25T182513Z_1494539871_RC2DK4A0WXW3_RTRMADP_3_ISRAEL-PALESTINIANS-1710730174.jpg?resize=1920%2C1440",
-            "publishedAt": "2024-03-18T07:51:14Z",
-            "content": "Israels military forces have stormed al-Shifa Hospital in Gaza City with tanks and heavy gunfire, resulting in deaths and injuries, Palestinian officials have said.\r\nThe Israeli military said in a st\u2026 [+3364 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Forbes International, Contributor, \n Forbes International, Contributor\n https://www.forbes.com/sites/forbesinternational/",
-            "title": "Israel-Hamas War: Week Twenty Four.",
-            "description": "Weekly dispatches from Israel provided by Forbes Israel.",
-            "url": "https://www.forbes.com/sites/forbesinternational/2024/03/18/israel-hamas-war-week-twenty-four/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65ee293b2bbdb12942701acf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-03-18T22:28:48Z",
-            "content": "SOUTHERN ISRAEL, ISRAEL - MARCH 10: An Israeli Armoured personnel carrier moves near the border ... [+] with the Gaza Strip as seen from a position on the Israeli side of the border on March 10, 2024\u2026 [+11991 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Israeli limits on Gaza aid may be \u2018war crime\u2019, UN warns",
-            "description": "Restricting aid could be seen as using starvation as a 'weapon of war', the UN's human rights chief says.",
-            "url": "https://www.aljazeera.com/news/2024/3/19/israels-restrictions-to-gaza-aid-may-be-war-crime-un-rights-office-says",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-18T170805Z_503200294_RC2BO6A7X3X0_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-AID-1710849746.jpg?resize=1920%2C1440",
-            "publishedAt": "2024-03-19T12:49:47Z",
-            "content": "Israels restrictions on humanitarian aid for the Gaza Strip may amount to a war crime, the United Nations human rights chief says.\r\nThe appraisal on Tuesday followed the release of a UN-backed report\u2026 [+2916 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Netanyahu repeats Rafah assault threat, says civilians won\u2019t be \u2018locked in\u2019",
-            "description": "Israeli PM says troops will go ahead with ground offensive in southern Gaza, spurring fears of mass civilian casualties.",
-            "url": "https://www.aljazeera.com/news/2024/3/17/netanyahu-repeats-rafah-assault-threat-says-civilians-wont-be-locked-in",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AFP__20240316__34LN6YU__v1__HighRes__PalestinianIsraelConflictRamadan-1710678592.jpg?resize=1920%2C1440",
-            "publishedAt": "2024-03-17T17:21:48Z",
-            "content": "Israeli Prime Minister Benjamin Netanyahu says Israel will not leave civilians trapped in Rafah when its forces begin a long-feared assault on the southern Gaza city where more than a million Palesti\u2026 [+4349 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Israel asks ICJ not to order new measures over looming famine in Gaza",
-            "description": "Israel asks the UN court to reject South Africa's request for more emergency orders in the Gaza genocide case.",
-            "url": "https://www.aljazeera.com/news/2024/3/18/israel-asks-icj-not-to-order-new-measures-over-looming-famine-in-gaza",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/12096828-1710763782.jpg?resize=1920%2C1440",
-            "publishedAt": "2024-03-18T18:23:20Z",
-            "content": "Israel has asked the International Court of Justice (ICJ) not to issue emergency orders for it to step up humanitarian aid to Gaza to address a looming famine, dismissing South Africas request to do \u2026 [+2878 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Over 13,000 children killed in Gaza, others severely malnourished: UNICEF",
-            "description": "The UN agency says surviving children do not 'even have the energy to cry' as famine looms in the besieged enclave.",
-            "url": "https://www.aljazeera.com/news/2024/3/17/over-13000-children-killed-in-gaza-others-severely-malnourished-unicef",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AFP__20240311__34L88W9__v1__Preview__PalestinianIsraelConflictReligionIslamRamadan-1710228923.jpg?resize=1200%2C630",
-            "publishedAt": "2024-03-17T20:22:26Z",
-            "content": "Israel has killed more than 13,000 children in Gaza since October 7 while others are suffering from severe malnutrition and do not even have the energy to cry, says the United Nations Childrens Fund \u2026 [+2266 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Israel approves plan to attack Gaza\u2019s Rafah but keeps truce talks alive",
-            "description": "Nod for long-threatened invasion of Rafah, home to 1.4 million displaced people, comes as Israel to send team to Qatar.",
-            "url": "https://www.aljazeera.com/news/2024/3/16/israel-approves-plan-to-attack-gazas-rafah-but-keeps-truce-talks-alive",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-15T142938Z_253441403_RC2AM6AS76RJ_RTRMADP_3_ISRAEL-PALESTINIANS-1710583145.jpg?resize=1920%2C1440",
-            "publishedAt": "2024-03-16T11:22:45Z",
-            "content": "Israels Prime Minister Benjamin Netanyahu has approved plans for an attack on Rafah, where 1.4 million displaced Palestinians have sought shelter, while planning to send a team to further truce talks\u2026 [+3546 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Euronews"
-            },
-            "author": null,
-            "title": "Israel Hamas war: Shifa Hospital raid, Gaza aid struggles, Scholz says situation 'desperate'",
-            "description": "All the latest developments from the Israel Hamas war.",
-            "url": "https://www.euronews.com/2024/03/18/israel-hamas-war-shifa-hospital-raid-gaza-aid-struggles-scholz-says-situation-desperate",
-            "urlToImage": "https://static.euronews.com/articles/stories/08/31/37/50/1200x675_cmsv2_590a4ef2-e5db-521e-a5e6-35d69be5e510-8313750.jpg",
-            "publishedAt": "2024-03-18T09:40:27Z",
-            "content": "All the latest developments from the Israel Hamas war.\r\n Israel's military raids Shifa hospital in Gaza\r\nIsraeli forces have launched another raid on the Shifa Hospital in Gaza City.\u00a0\r\nIt claimed Ham\u2026 [+2582 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Simon Speakman Cordall",
-            "title": "The West is giving Israel weapons while discussing delivering aid to Gaza",
-            "description": "Does the West risk charges of complicity by supplying weapons to Israel in light of its plausible genocide in Gaza?",
-            "url": "https://www.aljazeera.com/news/2024/3/18/the-west-is-giving-israel-weapons-while-discussing-delivering-aid-to-gaza",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/11841134-1700139204.jpg?resize=1920%2C1440",
-            "publishedAt": "2024-03-18T08:27:32Z",
-            "content": "As lawmakers across much of the West debate the extent to which Israel may be hampering the passage of lifesaving aid into Gaza, the weapons exports that underpin much of Israels war on the besieged \u2026 [+8549 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Brian Bushard, Forbes Staff, \n Brian Bushard, Forbes Staff\n https://www.forbes.com/sites/brianbushard/",
-            "title": "Hamas\u2019s No. 2 Leader Dead, White House Says, As Biden Presses Netanyahu For \u2018End Game\u2019",
-            "description": "President Joe Biden  pleaded with Israeli Prime Minister Benjamin Netanyahu for a \u201ccoherent and sustainable strategy\u201d to end the war in Gaza and criticized plans to invade Rafah.",
-            "url": "https://www.forbes.com/sites/brianbushard/2024/03/18/hamass-no-2-leader-dead-white-house-says-as-biden-presses-netanyahu-for-end-game/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/654a674712c8407b9ecc9419/0x0.jpg?format=jpg&crop=1790,1007,x0,y125,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-03-18T18:59:22Z",
-            "content": "White House National Security Advisor Jake Sullivan confirmed Monday that Hamas no. 2 military leader Marwan Issa died in an Israeli air strike, addressing reporters after a high-stakes call between \u2026 [+1142 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Indian Express"
-            },
-            "author": "Reuters",
-            "title": "Israel prepares return to ceasefire talks; UN says Gaza hunger crisis worsens",
-            "description": "The Hamas offer, reviewed by Reuters, foresees dozens of Israeli hostages freed in return for hundreds of Palestinians in Israeli jails during a weeks-long ceasefire that would let more aid into Gaza.",
-            "url": "https://indianexpress.com/article/world/israel-return-ceasefire-talks-un-gaza-hunger-crisis-worsens-9218580/",
-            "urlToImage": "https://images.indianexpress.com/2024/03/2024-03-15T131033Z_1744582088_RC2CM6AON1QC_RTRMADP_2_ISRAEL-PALESTINIANS.jpeg",
-            "publishedAt": "2024-03-17T01:52:18Z",
-            "content": "The main UN aid agency operating in Gaza said on Saturday that acute malnutrition was accelerating in the north of the Palestinian enclave as Israel prepared to send a delegation to Qatar for new cea\u2026 [+4332 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "James Farrell, Forbes Staff, \n James Farrell, Forbes Staff\n https://www.forbes.com/sites/jamesfarrell/",
-            "title": "Israel-Hamas Cease-Fire Talks Will Resume As Netanyahu Approves Rafah Invasion",
-            "description": "Cease-fire talks are set to resume, but Israel has publicly suggested it finds Hamas\u2019 latest proposal \u201cridiculous.\u201d",
-            "url": "https://www.forbes.com/sites/jamesfarrell/2024/03/16/israel-hamas-cease-fire-talks-will-resume-as-netanyahu-approves-rafah-invasion/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65f5c8a833daf0c476f4924c/0x0.jpg?format=jpg&crop=1125,633,x0,y57,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-03-16T16:29:31Z",
-            "content": "Israel and Hamas are set to resume cease-fire negotiations in Qatar, reportedly as soon as Sunday, after efforts to establish a cease-fire before the Muslim holy month of Ramadan fell short last week\u2026 [+3618 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Oxfam accuses Israel of \u2018deliberately\u2019 blocking aid to famine-stalked Gaza",
-            "description": "Aid trucks are waiting an average of 20 days to access the enclave, the NGO says, as warnings of impending famine rise.",
-            "url": "https://www.aljazeera.com/news/2024/3/18/israel-deliberately-blocking-medical-aid-from-gaza-oxfam-report-warns",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AFP__20240317__34LP6QZ__v2__HighRes__TopshotPalestinianIsraelConflict-1710719128.jpg?resize=1920%2C1440",
-            "publishedAt": "2024-03-18T12:22:08Z",
-            "content": "Israel is using bureaucracy to deliberately hinder aid supplies headed into Gaza, Oxfam has claimed.\r\nThe NGOs assertion was made in a report titled: Inflicting Unprecedented Suffering and Destructio\u2026 [+4743 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Adnan Mahmutovi\u0107",
-            "title": "Schr\u00f6dinger\u2019s genocide",
-            "description": "In Gaza, as in Bosnia, a genocide is denied only to be glorified.",
-            "url": "https://www.aljazeera.com/opinions/2024/3/17/schrodingers-genocide",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/AFP__20240307__34KZ3UV__v6__HighRes__TopshotPalestinianIsraelGazaConflict-1709940872_4fdb83-1710694435.jpg?resize=1200%2C630&quality=80",
-            "publishedAt": "2024-03-17T16:52:49Z",
-            "content": "Bosnians have experience with genocide. Not just the signs of it coming. Not just the fact of it happening. But also this strange phenomenon we call Schr\u00f6dingers genocide: the simultaneous glorificat\u2026 [+8393 chars]"
-        },
-        {
-            "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
-            },
-            "author": null,
-            "title": "Netanyahu snaps back against growing U.S. criticism as pressure for ceasefire in Gaza mounts",
-            "description": "As international pressure for a ceasefire in Gaza rises, Israeli Prime Minister Benjamin Netanyahu has railed against top ally the United States for its \"wholly inappropriate\" critique of his leadership.",
-            "url": "https://www.cbc.ca/news/world/netanyahu-united-states-ceasefire-gaza-pressure-1.7146638",
-            "urlToImage": "https://i.cbc.ca/1.6998448.1697538223!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/biden-israel.jpg",
-            "publishedAt": "2024-03-17T20:05:17Z",
-            "content": "As international pressure for a ceasefire in Gaza rises, Israeli Prime Minister Benjamin Netanyahu has railed against top ally the United States for the recent critique of his leadership, describing \u2026 [+5381 chars]"
-        },
-        {
-            "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
-            },
-            "author": null,
-            "title": "Famine in Gaza 'imminent,' UN-backed report says",
-            "description": "Famine is expected between now and May in the north of the Gaza Strip, a UN-backed report said on Monday, after more than five months of war that have shattered the Palestinian territory, killed thousands and cut off supplies.",
-            "url": "https://www.cbc.ca/news/world/ipc-gaza-famine-report-1.7146974",
-            "urlToImage": "https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/default-headline-image-news.jpg",
-            "publishedAt": "2024-03-18T12:47:24Z",
-            "content": "Famine is expected between now and May in the north of the Gaza Strip, a UN-backed report said on Monday, after more than five months of war that have shattered the Palestinian territory, killed thou\u2026 [+4499 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Daniel Markind, Contributor, \n Daniel Markind, Contributor\n https://www.forbes.com/sites/danielmarkind/",
-            "title": "Can Natural Gas Help Prevent An Israel-Lebanon War?",
-            "description": "Disputes over natural gas rights generally lead to political or military conflict. In the Middle East, it is possible natural gas might help prevent open warfare.",
-            "url": "https://www.forbes.com/sites/danielmarkind/2024/03/18/can-natural-gas-help-prevent-an-israel-lebanon-war/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65f4aaea15272965df24e069/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-03-18T13:02:40Z",
-            "content": "NORTHERN BORDER, ISRAEL - JANUARY 11: An Israeli artillery unit fires across the border towards ... [+] Lebanon on January 11, 2024 in Northern Israel, Israel. The war between Israel and Hamas that i\u2026 [+6536 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera Staff",
-            "title": "Al Jazeera journalist beaten, arrested by Israeli forces from Gaza hospital",
-            "description": "Media watchdogs decry Ismail al-Ghoul's arrest, demand his immediate release after he is taken from al-Shifa Hospital.",
-            "url": "https://www.aljazeera.com/news/2024/3/18/al-jazeera-journalist-beaten-arrested-by-israeli-forces-from-gaza-hospital",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/GI8pa5NXEAAK6j0-1710767888.jpeg?resize=1200%2C630",
-            "publishedAt": "2024-03-18T15:09:52Z",
-            "content": "Israeli forces have arrested and severely beaten Al Jazeera Arabic correspondent Ismail al-Ghoul in Gaza Citys al-Shifa Hospital.\r\nAl-Ghoul was there early on Monday with his crew and other reporters\u2026 [+4184 chars]"
-        },
         {
             "source": {
                 "id": null,
                 "name": "CNA"
             },
             "author": null,
-            "title": "Vivian Balakrishnan meets Jordan counterpart amid Singapore's humanitarian aid mission for Gaza",
-            "description": "Foreign Affairs Minister Vivian Balakrishnan expressed appreciation for Jordan's facilitation of Singapore's humanitarian assistance to Gaza.",
-            "url": "https://www.channelnewsasia.com/singapore/gaza-humanitarian-aid-singapore-jordan-vivian-balakrishnan-israel-hamas-war-4200791",
-            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--v5QP6S5n--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/03/17/copy_of_dsc03405_3.jpg?itok=RXnWcG6n",
-            "publishedAt": "2024-03-16T23:41:01Z",
-            "content": "The war began on Oct 7 when Hamas sent fighters into Israel, killing 1,200 people, mostly civilians, and seizing 253 hostages, according to Israeli tallies.\r\nIsrael's ground and air campaign has kill\u2026 [+1074 chars]"
+            "title": "Kohli serves timely reminder of T20 prowess with fiery IPL knock",
+            "description": "Virat Kohli showed he is more than just a promotional tool for T20 cricket with a blistering knock in the Indian Premier League as the former Indian captain sent out a warning to bowlers ahead of the World Cup in the U.S. and West Indies this year.Despite pla\u2026",
+            "url": "https://www.channelnewsasia.com/sport/kohli-serves-timely-reminder-t20-prowess-fiery-ipl-knock-4222296",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--RwFhfUOU--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-03-26t071158z_1_lynxnpek2p07n_rtroptp_3_cricket-worldcup-ind-aus.jpg?itok=58scfU02",
+            "publishedAt": "2024-03-26T07:11:58Z",
+            "content": "Virat Kohli showed he is more than just a promotional tool for T20 cricket with a blistering knock in the Indian Premier League as the former Indian captain sent out a warning to bowlers ahead of the\u2026 [+1615 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The New Republic"
-            },
-            "author": "Walter Shapiro",
-            "title": "Why Gaza Won\u2019t Cost Biden the Presidency",
-            "description": "Slowly, but inexorably, Israel is losing the leaders of the Democratic Party over its brutal war in Gaza.\u00a0\r\nKamala Harris, getting ahead of her boss much like Vice President Joe Biden did with gay rights in 2011, called for a temporary cease-fire early this m\u2026",
-            "url": "https://newrepublic.com/article/179872/gaza-wont-cost-biden-presidency",
-            "urlToImage": "https://images.newrepublic.com/897ec16a1d009c3edca0764815e566e1deefa4a4.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-            "publishedAt": "2024-03-17T10:00:00Z",
-            "content": "What is rare amid this pileup of polls is a survey that zeroes in on voters who say they would abandon their party because of their passions over a particular issue. That is why a Wall Street Journal\u2026 [+1937 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nakedcapitalism.com"
-            },
-            "author": "Yves Smith",
-            "title": "Links 3/19/2024",
-            "description": "Our foxtrotting daily links: Yummy python, Girl Scout economics, US Covid high baseline, asbestos ban, China multiplying drones? Gaza starvation, Russia election cope, strikes on Damascus, F-35 fiasco, Israel lobby v. TikTok, Hertz failed EV push",
-            "url": "https://www.nakedcapitalism.com/2024/03/links-3-19-2024.html",
-            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-19-at-1.57.24-PM.png",
-            "publishedAt": "2024-03-19T10:55:47Z",
-            "content": "You Should Seriously Think About Eating More Python, Scientists Say ScienceAlert (Chuck L). Well, eel is delish\u2026.\r\nGirl Scout economics: Thin mints, thick margins alts.co (Micael T)\r\nIceland volcano \u2026 [+7315 chars]"
-        },
-        {
-            "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
+                "name": "NDTV News"
             },
             "author": null,
-            "title": "Canada can't change foreign policy based on NDP motion on Palestinian statehood, foreign affairs minister says",
-            "description": "Foreign Affairs Minister M\u00e9lanie Joly said Monday the federal government won't base its foreign policy on a New Democrat\u00a0motion that would officially recognize Palestinian statehood.",
-            "url": "https://www.cbc.ca/news/politics/melany-joly-ndp-motion-palestinian-state-recognition-1.7147521",
-            "urlToImage": "https://i.cbc.ca/1.7147525.1710786545!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/obit-mulroney-reaction-20240301.jpg",
-            "publishedAt": "2024-03-18T19:00:19Z",
-            "content": "Foreign Affairs Minister M\u00e9lanie Joly said Monday the federal government won't base its foreign policy on a New Democrat\u00a0motion that would officially recognize Palestinian statehood.\r\nThe minister's \u2026 [+1834 chars]"
+            "title": "Woman Dies By Suicide After Husband Racks Up Betting Debt Of Rs 1 Crore",
+            "description": "Darshan Babu is an engineer who is fond of betting on cricket matches and has been placing major bets on Indian Premier League (IPL) games since 2021.",
+            "url": "https://www.ndtv.com/india-news/ipl-betting-online-betting-karnataka-woman-dies-by-suicide-after-husband-rakes-up-betting-debt-of-rs-1-crore-5312681",
+            "urlToImage": "https://c.ndtvimg.com/2024-03/s681ncvo_karnataka-betting-suicide_625x300_26_March_24.jpg",
+            "publishedAt": "2024-03-26T08:22:56Z",
+            "content": "Bengaluru: Darshan Babu is an engineer who is fonrad of betting on cricket matches and has been placing major bets on Indian Premier League (IPL) games since 2021. He often borrows money after losing\u2026 [+1500 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Sabu Cherian",
+            "title": "Stop blaming Hardik Pandya for everything: Kieron Pollard",
+            "description": "Kieron Pollard backs Mumbai Indians' decision on Hardik Pandya's batting position in IPL opener. The team collectively makes decisions, strategizes for batters' entry, and faces challenges in real cricket against professional opponents, with a focus on new ba\u2026",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/stop-blaming-hardik-pandya-for-everything-kieron-pollard/articleshow/108778152.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108778090,width-1070,height-580,imgsize-69860,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-26T05:01:35Z",
+            "content": "Russell, Harshit help KKR edge SRH in IPL thriller"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Shrivathsan S",
+            "title": "IPL 2024: Gujarat Titans' TN factor can make it tough for Chennai Super Kings",
+            "description": "The beauty of franchise cricket is such that the visiting Titans side will consist of five 'locals', while Super Kings, the only IPL team from the state, have none from the region. The Titans playing pack comprises five TN members, who know the Chepauk pitche\u2026",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2024-gujarat-titans-tn-factor-can-make-it-tough-for-chennai-super-kings/articleshow/108774346.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108774337,width-1070,height-580,imgsize-62910,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-26T02:32:59Z",
+            "content": "Russell, Harshit help KKR edge SRH in IPL thriller"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "IPL: Gujarat Titans onboards 30 sponsors for IPL 2024 as run continues for profitability",
+            "description": "Gujarat Titans, owned by CVC Capital Partners, has attracted 30 sponsors for the IPL 2024 season, aiming to enhance profitability and brand value. With 17 existing partners and 13 new ones, they anticipate a 24% increase in sponsorship revenue, targeting Rs 9\u2026",
+            "url": "https://economictimes.indiatimes.com/news/sports/ipl-gujarat-titans-onboards-30-sponsors-for-ipl-2024-as-run-continues-for-profitability/articleshow/108790962.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-108791070,width-1200,height-630,imgsize-147922,overlay-economictimes/photo.jpg",
+            "publishedAt": "2024-03-26T11:17:46Z",
+            "content": "Gujarat Titans, a CVC Capital Partners-owned Indian Premier League franchisee, has added a total of 30 sponsors for the IPL 2024 season while it continues to march towards turning profitable and ramp\u2026 [+2116 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Euronews"
+                "name": "NDTV News"
             },
             "author": null,
-            "title": "Netanyahu okays military operation in Rafah as aid ships reaches Gaza",
-            "description": "Benjamin Netanyahu has approved a military operation in Rafah as aid ships reach Gaza. More than a million people are displaced in the area.",
-            "url": "https://www.euronews.com/2024/03/16/netanyahu-okays-military-operation-in-rafah-as-aid-ships-reaches-gaza",
-            "urlToImage": "https://static.euronews.com/articles/stories/08/31/11/74/1200x675_cmsv2_98328395-c879-5a99-82d7-e1edf20ee09c-8311174.jpg",
-            "publishedAt": "2024-03-16T11:31:52Z",
-            "content": "Benjamin Netanyahu has approved a military operation in Rafah as aid ships reach Gaza. More than a million people are displaced in the area.\r\n Stalled talks aimed at securing a cease-fire in the war \u2026 [+3868 chars]"
+            "title": "How A Karnataka Man Was Lured Into IPL Betting And Ended With 1 Crore Debt",
+            "description": "Ranjitha, a 23-year-old housewife, was found hanging at her home in Karnataka's Chitradurga. As cops investigated the death, they unearthed a grim saga involving cricket betting and a debt of over Rs 1 crore involving her husband Darshan Babu.",
+            "url": "https://www.ndtv.com/india-news/ipl-betting-cricket-betting-how-a-karnataka-man-was-lured-into-ipl-betting-and-ended-with-1-crore-debt-5313172",
+            "urlToImage": "https://c.ndtvimg.com/2024-03/e35vdu3k_karnataka-engineer-ipl-betting_625x300_26_March_24.jpg",
+            "publishedAt": "2024-03-26T09:47:58Z",
+            "content": "Bengaluru: Ranjitha, a 23-year-old housewife, was found hanging at her home in Karnataka's Chitradurga. As cops investigated the death, they unearthed a grim saga involving cricket betting and a debt\u2026 [+1925 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Sports Desk",
+            "title": "IPL 2024: Virat Kohli is fresh and motivated to do well, says RCB skipper Faf du Plessis",
+            "description": "RCB scored 176/6, led by skipper Dhawan's 45 off 37 balls and useful contributions by Jitesh (27 in 20 balls) and Curran (23 in 17 balls); but none could kick on to play a big knock. In their run-chase, RCB continued to lose wickets at regular intervals, but \u2026",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2024-virat-kohli-is-fresh-and-motivated-to-do-well-says-rcb-skipper-faf-du-plessis/articleshow/108778080.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108779048,width-1070,height-580,imgsize-65458,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-26T05:37:42Z",
+            "content": "The TOI Sports Desk excels in a myriad of roles that capture the essence of live sporting events and deliver compelling content to readers worldwide. From running live blogs for India and non-India c\u2026 [+908 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Sports Desk",
+            "title": "Dropping Virat Kohli's catch cost us, says Punjab Kings's skipper Shikhar Dhawan",
+            "description": "Virat Kohli went on to score 77, which proved to be the key to Royal Challengers Bengaluru's four-wicket win over Punjab Kings in an IPL 2024 match on Monday. Kohli was dropped on the second ball of the first over during RCB's chase of Punjab's 176/6. This wa\u2026",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/dropping-virat-kohlis-catch-cost-us-says-punjab-kingss-skipper-shikhar-dhawan/articleshow/108783388.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-108783435,width-1070,height-580,imgsize-32210,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-03-26T07:21:06Z",
+            "content": "The TOI Sports Desk excels in a myriad of roles that capture the essence of live sporting events and deliver compelling content to readers worldwide. From running live blogs for India and non-India c\u2026 [+908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Trendhunter.com"
+            },
+            "author": null,
+            "title": "Enhanced 4K Sports Channels - Tata Play Launches a New 4K Resolution Option for its Cricket Channels (TrendHunter.com)",
+            "description": "(TrendHunter.com) Tata Play recently unveiled its latest offering, the Tata Play 4K, as part of its value-added services lineup. This new service is designed to meet the growing demand for high-resolution content...",
+            "url": "https://www.trendhunter.com/trends/tata-play",
+            "urlToImage": "https://cdn.trendhunterstatic.com/thumbs/529/tata-play.jpeg?auto=webp",
+            "publishedAt": "2024-03-26T09:21:03Z",
+            "content": "Tata Play recently unveiled its latest offering, the Tata Play 4K, as part of its value-added services lineup. This new service is designed to meet the growing demand for high-resolution content cons\u2026 [+744 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Herman Mostert",
+            "title": "Sport | Maiden national contracts for Burger, De Zorzi as Proteas confirm squads for 2024/25 season",
+            "description": "Cricket South Africa on Tuesday announced the Proteas men and women's contracted squads for the 2024/25 season.",
+            "url": "https://www.news24.com/sport/cricket/proteas/maiden-national-contracts-for-burger-de-zorzi-as-proteas-confirm-squads-for-202425-season-20240326",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10790/a43a786f1cb74f1795892b1f94b04e69.jpg",
+            "publishedAt": "2024-03-26T12:26:36Z",
+            "content": "Cricket South Africa (CSA) on Tuesday announced the Proteas men and women's contracted squads for the 2024/25 season.\r\nREAD |Proteas quickie Gerald Coetzee one of 6 IPL big-money buys\r\nWestern Provin\u2026 [+254 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Indian Express"
             },
-            "author": "AP",
-            "title": "A suspected attack by Yemen\u2019s Houthi rebels has targeted a ship in the Gulf of Aden",
-            "description": "The British military's United Kingdom Maritime Trade Operations centre offered few details in an announcement about the attack, saying only it happened off the coast of Aden, the port city in southern Yemen home to the country's exiled government.",
-            "url": "https://indianexpress.com/article/world/suspected-attack-yemen-houthi-rebels-ship-gulf-of-aden-9218627/",
-            "urlToImage": "https://images.indianexpress.com/2024/03/houthi-attacks.jpg",
-            "publishedAt": "2024-03-17T02:51:59Z",
-            "content": "A suspected attack by Yemen\u2019s Houthi rebels targeted a ship early Sunday in the Gulf of Aden, potentially marking their latest assault on shipping through the crucial waterway leading to the Red Sea.\u2026 [+2310 chars]"
+            "author": "Sports Desk",
+            "title": "Sreesanth details how Hardik Pandya leaving Gujarat Titans could work to their advantage",
+            "description": "Sreesanth says with no Hardik Pandya around, the Gujarat Titans bowlers will have more freedom to execute their plans.",
+            "url": "https://indianexpress.com/article/sports/cricket/sreesanth-hardik-pandya-leaving-gujarat-titans-could-work-to-their-advantage-9234311/",
+            "urlToImage": "https://images.indianexpress.com/2024/03/HARDIK-PANDYA-ROHIT-SHARMA-CROP-NIRMAL-HARINDRAN.jpg",
+            "publishedAt": "2024-03-26T10:00:31Z",
+            "content": "Former India seamer S Sreesanth says Hardik Pandya\u2019s departure from the Gujarat Titans will give their bowlers more freedom in the ongoing Indian Premier League (IPL). Sreesanth was referring to last\u2026 [+1765 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Beast"
+                "name": "The Indian Express"
             },
-            "author": "Amanda Yen",
-            "title": "\u2018Zone of Interest\u2019 Producer Disagrees With Director\u2019s Oscars Gaza Speech",
-            "description": "Carlos Barria/Reuters\r\nJonathan Glazer shocked audiences when he used his Oscars acceptance speech to call for a ceasefire in Gaza, comparing today\u2019s Israel to Nazi Germany. But not all of his colleagues from the award-winning film The Zone of Interest agree \u2026",
-            "url": "https://www.thedailybeast.com/zone-of-interest-producer-disagrees-with-directors-oscars-gaza-speech",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1695,w_3013,x_0,y_30/dpr_2.0/c_limit,w_740/f_auto,q_auto/v1710714396/2024-03-11T000000Z_872033085_HP1EK3B01ZCA2_RTRMADP_3_AWARDS-OSCARS_s5jeoc",
-            "publishedAt": "2024-03-17T22:32:07Z",
-            "content": "Jonathan Glazer shocked audiences when he used his Oscars acceptance speech to call for a ceasefire in Gaza, comparing todays Israel to Nazi Germany. But not all of his colleagues from the award-winn\u2026 [+2042 chars]"
+            "author": "Sports Desk",
+            "title": "Watch: Virat Kohli\u2019s gets a call from family after his heroics against Punjab Kings",
+            "description": "Former India and RCB captain opens about the two months he was away from the game to be with his family and what does it meant for him to be just another person on the road.",
+            "url": "https://indianexpress.com/article/sports/cricket/virat-kohlis-gets-call-from-family-after-his-heroics-against-punjab-kings-9233680/",
+            "urlToImage": "https://images.indianexpress.com/2024/03/Kohli-and-home.jpg",
+            "publishedAt": "2024-03-26T04:36:50Z",
+            "content": "Virat Kohli on Monday after at the post-match presentation looked visibly emotional. His answers were as crisp as his cover drives that he played during his match-winning 49-ball 77, which helped Roy\u2026 [+2492 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Beast"
+                "name": "Insidesport.in"
             },
-            "author": "Corbin Bolies",
-            "title": "Benjamin Netanyahu Slams Chuck Schumer\u2019s Senate Speech as \u2018Totally Inappropriate\u2019",
-            "description": "CNN\r\nIsraeli Prime Minister Benjamin Netanyahu forcefully pushed back against Senate Majority Leader Chuck Schumer\u2019s Senate-floor condemnation of his government, saying the U.S. shouldn\u2018t try to dictate how or when another government conducts its elections.\u201cI\u2026",
-            "url": "https://www.thedailybeast.com/benjamin-netanyahu-slams-chuck-schumers-senate-speech-as-totally-inappropriate",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1603,w_2852,x_12,y_0/dpr_2.0/c_limit,w_740/f_auto,q_auto/v1710690126/Screenshot_2024-03-17_at_11.41.55_AM_fr3ojg",
-            "publishedAt": "2024-03-17T16:45:08Z",
-            "content": "Israeli Prime Minister Benjamin Netanyahu forcefully pushed back against Senate Majority Leader Chuck Schumers Senate-floor condemnation of his government, saying the U.S. shouldnt try to dictate how\u2026 [+2389 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "Joel B. Pollak, Joel B. Pollak",
-            "title": "Trump: Israel Should 'Finish' the War 'Quickly' by Defeating Hamas",
-            "description": "Former President Donald Trump said that Israel should \"finish\" the war in Gaza against Hamas \"quickly\" so that the world could return to \"peace.\"",
-            "url": "https://www.breitbart.com/middle-east/2024/03/18/trump-israel-should-finish-the-war-quickly-by-defeating-hamas/",
-            "urlToImage": "https://media.breitbart.com/media/2023/10/file2017-donald-trump-us-flag-israel-flag-gettyimages-640x335.jpg",
-            "publishedAt": "2024-03-18T22:24:19Z",
-            "content": "Former President Donald Trump said that Israel should \u201cfinish\u201d the war in Gaza against Hamas \u201cquickly\u201d so that the world could return to \u201cpeace.\u201d\r\nTrump\u2019s remarks came in an interview with Howard Kur\u2026 [+2280 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Chris Livesay, Tucker Reals",
-            "title": "Israel pushes back at mounting U.S., European criticism over Gaza war",
-            "description": "Israel vows to push ahead with Rafah offensive in Gaza, and pushes back at mounting criticism from the U.S. and Europe.",
-            "url": "https://www.cbsnews.com/news/israel-hamas-war-cease-fire-hope-tempered-by-us-netanyahu-rift/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/18/e83c4538-0fbc-4f9f-b730-9da8c31b72ff/thumbnail/1200x630/99b38119e05735d5d01059fc68fde813/israel-protest-netanyahu-2089767543.jpg?v=d1d78866939020fc1f2607ef7298e4ec",
-            "publishedAt": "2024-03-18T13:02:00Z",
-            "content": "There was growing optimism Monday around talks of a possible new cease-fire in the Gaza Strip, with both Israel and Hamas returning to the table to discuss a truce that would see more Israeli hostage\u2026 [+5246 chars]"
-        },
-        {
-            "source": {
-                "id": "new-york-magazine",
-                "name": "New York Magazine"
-            },
-            "author": "Jonathan Chait",
-            "title": "Why Chuck Schumer\u2019s Israel Speech Marks a Turning Point in the War in Gaza",
-            "description": "Chuck Schumer, in his big speech on Israel, made an attempt to escape the cycle of violence and hate between the one-staters of the left and right, writes Jonathan Chait.",
-            "url": "http://nymag.com/intelligencer/article/why-chuck-schumers-israel-speech-marks-a-turning-point.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/5f6/55e/8be5db8ecbdacec768331425fea165fb5b-natoinal-interest-chuck-schumer.1x.rsocial.w1200.jpg",
-            "publishedAt": "2024-03-16T10:00:44Z",
-            "content": "This post was originally published in Jonathan Chaits &amp;c newsletter sign up here.\r\nThis week, Senate Majority Leader Charles Schumer, the highest-ranking Jewish official in American history, urge\u2026 [+5139 chars]"
+            "author": "Koushik Narayanan",
+            "title": "MS Dhoni's childhood coach sheds light on CSK captaincy change, star's IPL future and fitness",
+            "description": "MS Dhoni's childhood coach feels that the star could play for 2 more years but warns about MSD's subtle decision making that can spring a surprise",
+            "url": "https://www.insidesport.in/cricket/ms-dhonis-childhood-coach-sheds-light-on-csk-captaincy-change-stars-ipl-future-and-fitness/",
+            "urlToImage": "https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/03/MS-Dhoni-images-download.png",
+            "publishedAt": "2024-03-26T08:25:03Z",
+            "content": "MS Dhoni\u2019s childhood coach Keshav Banerjee opines that the CSK star passed on the baton to Ruturaj Gaikwad as he thought it was the right time. Dhoni pulled off a surprise move just one day before IP\u2026 [+1702 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Khabarhub.com"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "RealClearPolitics"
-            },
-            "author": "Peter Berkowitz, RealClearPolitics",
-            "title": "The Public Interest Fellowship in Israel",
-            "description": "TEL AVIV\u0097Israel has always presented amazing contrasts. On its just-concluded 10-day trip to the Jewish state \u0096 amid Israel\u0092s war against Iran-backed...",
-            "url": "https://www.realclearpolitics.com/articles/2024/03/17/the_public_interest_fellowship_in_israel_150657.html",
-            "urlToImage": "https://assets.realclear.com/images/64/644670_5_.jpeg",
-            "publishedAt": "2024-03-17T11:28:36Z",
-            "content": "TEL AVIV\u2014Israel has always presented amazing contrasts. On its just-concluded 10-day trip to the Jewish state \u2013 amid Israel\u2019s war against Iran-backed Hamas in Gaza and the nation\u2019s low-intensity figh\u2026 [+9904 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Erik Pedersen",
-            "title": "Jonathan Glazer\u2019s \u2018Zone Of Interest\u2019 Oscar Speech Draws Condemnation Letter Signed By Hundreds Of Jewish Entertainment Industry Pros",
-            "description": "Reaction continues to The Zone of Interest director Jonathan Glazer\u2019s acceptance speech after his film won the Oscar for Best International Feature Film this month. About 475 Jewish show business professionals have signed a letter denouncing the filmmaker\u2019s s\u2026",
-            "url": "http://deadline.com/2024/03/hollywood-jewish-community-jonathan-glazer-oscar-speech-letter-1235861640/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/03/RP_B8628.jpg?w=1024",
-            "publishedAt": "2024-03-18T21:19:01Z",
-            "content": "Reaction continues to The Zone of Interestdirector Jonathan Glazer\u2018s acceptance speech after his film won the Oscar for Best International Feature Film this month.\r\nAbout 475 Jewish show business pro\u2026 [+16298 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DW (English)"
-            },
-            "author": "Deutsche Welle",
-            "title": "Israel-Hamas war: Blinken warns all Gazans face hunger risk",
-            "description": "The US secrteary of state said the entire population of Gaza was \"at severe levels of acute food insecurity.\" Meanwhile, deaths were reported in overnight airstrikes on the territory. Follow DW's roundup.",
-            "url": "https://www.dw.com/en/israel-hamas-war-blinken-warns-all-gazans-face-hunger-risk/live-68611264",
-            "urlToImage": "https://static.dw.com/image/68609844_6.jpg",
-            "publishedAt": "2024-03-19T09:44:00Z",
-            "content": "The US National Security Advisor Jake Sullivan says President Joe Biden has asked Israeli Prime Minister Benjamin Netanyahu to send a team of military, intelligence service humanitarian aid specialis\u2026 [+1034 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "International Business Times"
-            },
-            "author": "Marvie Basilan",
-            "title": "Middle East Conflict Live: Israel Eliminates Hamas' Internal Security Chief In Hospital Raid",
-            "description": "It's Day 164 of the Israel-Hamas war, and Israel has assassinated another Hamas senior official as the Israeli army targets high-ranking officials in the Palestinian terror group.",
-            "url": "https://www.ibtimes.com/middle-east-conflict-live-israel-eliminates-hamas-internal-security-chief-hospital-raid-3727428",
-            "urlToImage": "https://d.ibtimes.com/en/full/4515451/diplomatic-efforts-are-intensifying-agree-pause-fighting-between-israel-palestinian-militant.jpg",
-            "publishedAt": "2024-03-18T12:49:35Z",
-            "content": "The Israeli army in recent days has been focusing ground raids across Gaza on areas believed to be the hiding spots of top Hamas officials.AFP\r\nThe devastating war in Gaza has entered its 164th day t\u2026 [+1286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Atlantic"
-            },
-            "author": "Andrew Exum",
-            "title": "Is the Destruction of Gaza Making Israel Any Safer?",
-            "description": "More than five months in, Israel has neither a military strategy for eliminating Hamas nor a political strategy for living with Gaza.",
-            "url": "https://www.theatlantic.com/international/archive/2024/03/israel-gaza-war-idf/677790/?utm_source=feed",
-            "urlToImage": null,
-            "publishedAt": "2024-03-18T15:00:00Z",
-            "content": "Israeli forces are killing thousands of innocent civilians and badly damaging their country\u2019s standing with its most important partners, including the United States. Israel has also no doubt severely\u2026 [+9059 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DW (English)"
-            },
-            "author": "Deutsche Welle",
-            "title": "Israel-Hamas war: IDF raids Gaza's al-Shifa hospital",
-            "description": "Israel said it had information indicating that the hospital had been used by \"senior Hamas terrorists.\" Meanwhile, an Israeli delegation was expected to head to Qatar for cease-fire talks. DW rounds up the latest.",
-            "url": "https://www.dw.com/en/israel-hamas-war-idf-raids-gazas-al-shifa-hospital/live-68598505",
-            "urlToImage": "https://static.dw.com/image/68598890_6.jpg",
-            "publishedAt": "2024-03-18T06:20:00Z",
-            "content": "The Israeli Defense Forces (IDF) said it launched a \"precise operation\" at al-Shifa Hospital in Gaza on Monday morning.\u00a0\r\n\"The operation is based on intelligence information indicating the use of the\u2026 [+1502 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "CBS News",
-            "title": "Israel and Hamas in negotiations for 6-week truce and hostage release",
-            "description": "The U.S. is taking a tougher line with Israel as the toll rises from its war to destroy Hamas. President Biden spoke with Israel's Prime Minister Benjamin Netanyahu by phone yesterday for the first time in weeks, and the White House says Mr. Biden emphasized \u2026",
-            "url": "https://www.cbsnews.com/video/israel-and-hamas-in-negotiations-for-6-week-truce-and-hostage-release/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/19/2d57cdcf-806e-4f3c-a13d-8d11901d4e24/thumbnail/1200x630/f0e42b9247cf267939b6615654493f3c/0319-cmo-israelgaza-livesay-mid-2770175-640x360.jpg?v=b64ebf3cd0145765e4923158152de5b1",
-            "publishedAt": "2024-03-19T12:34:18Z",
-            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Boston Globe"
-            },
-            "author": "SAMY MAGDY",
-            "title": "Cease-fire talks with Israel and Hamas expected to restart",
-            "description": "Stalled talks aimed at securing a cease-fire in the war between Israel and Hamas are expected to restart in earnest in Qatar as soon as Sunday.",
-            "url": "https://www.bostonglobe.com/2024/03/16/world/cease-fire-talks-with-israel-hamas-expected-restart/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Yfsv4-4evx6UabDX9TKrkwzzFVs=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/CTY26PIPNTO4UAE57ARA7JL2FA.jpg",
-            "publishedAt": "2024-03-16T10:55:18Z",
-            "content": "CAIRO (AP) Stalled talks aimed at securing a cease-fire in the war between Israel and Hamas are expected to restart in earnest in Qatar as soon as Sunday, according to Egyptian officials.\r\nThe talks \u2026 [+3716 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "Joel B. Pollak, Joel B. Pollak",
-            "title": "Israel: Hamas Still Using Hospitals as 'Human Shields'; Terrorists Fire from Shifa; Hamas Commander Eliminated",
-            "description": "Israel accused Hamas on Monday of using hospitals as \"human shields\" again as terrorists fired on Israeli soldiers from within Shifa Hospital in Gaza City.",
-            "url": "https://www.breitbart.com/middle-east/2024/03/18/israel-hamas-still-using-hospitals-as-human-shields-terrorists-fire-from-shifa-eliminated/",
-            "urlToImage": "https://media.breitbart.com/media/2023/11/Gaza-Hospital-640x335.jpeg",
-            "publishedAt": "2024-03-18T13:47:44Z",
-            "content": "Israel accused Hamas on Monday of using hospitals as \u201chuman shields\u201d again as terrorists fired on Israeli soldiers from within Shifa Hospital in Gaza City.\r\nShifa Hospital was notorious earlier in th\u2026 [+3714 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Euronews"
-            },
-            "author": null,
-            "title": "'Death knell': Famine looms in north Gaza",
-            "description": "\"Children are famine\u2019s first victims and are already dying in Gaza because of malnutrition,\" warned one NGO. \"Every minute counts.\"",
-            "url": "https://www.euronews.com/2024/03/19/death-knell-famine-looms-in-north-gaza",
-            "urlToImage": "https://static.euronews.com/articles/stories/08/31/52/46/1200x675_cmsv2_612ca0a2-79e7-5ac3-859a-b616c3025a42-8315246.jpg",
-            "publishedAt": "2024-03-19T06:33:33Z",
-            "content": "\"Children are famines first victims and are already dying in Gaza because of malnutrition,\" warned one NGO. \"Every minute counts.\"\r\n An NGO has warned that famine is \"just weeks away\" in northern Gaz\u2026 [+2997 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Signal"
-            },
-            "author": "Newt Gingrich",
-            "title": "Why Is President Biden Helping Hamas?",
-            "description": "President Joe Biden\u2019s recent foreign policy moves are baffling. By any rational standard, they are undermining Israel and helping Hamas. When Biden was caught on... Read More\nThe post Why Is President Biden Helping Hamas? appeared first on The Daily Signal.",
-            "url": "https://www.dailysignal.com/2024/03/18/why-is-president-biden-helping-hamas/",
-            "urlToImage": "https://first-heritage-foundation.s3.amazonaws.com/live_files/2024/03/GettyImages-2033103537.jpg",
-            "publishedAt": "2024-03-18T22:25:51Z",
-            "content": "President Joe Bidens recent foreign policy moves are baffling. By any rational standard, they are undermining Israel and helping Hamas.\r\nWhen Biden was caught on an open microphone following his Stat\u2026 [+4847 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "By <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a>",
-            "title": "Devastation in Gaza as Israel wages war on Hamas",
-            "description": "The World Health Organization chief says he is \"gravely concerned\" after Israeli Prime Minister Benjamin Netanyahu approved plans for a military offensive in Gaza's Rafah. Follow for more live news updates.",
-            "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-03-18-24/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240316171142-rafah-tent-camp-031424-super-tease.jpg",
-            "publishedAt": "2024-03-18T04:01:47Z",
-            "content": "US Senate Majority Leader Chuck Schumers warning\u00a0that Israel risks becoming a pariah for its war in Gaza, and his call for new elections in the country, sent shockwaves from Washington to Jerusalem.\r\u2026 [+2365 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "By <a href=\"/profiles/brad-lendon\">Brad Lendon</a> and <a href=\"/profiles/andrew-raine\">Andrew Raine</a>, CNN",
-            "title": "Devastation in Gaza as Israel wages war on Hamas",
-            "description": "Israeli Prime Minister Benjamin Netanyahu says he has approved plans for action in Rafah. Follow for live updates.",
-            "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-03-16-24/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240311145218-israel-tank-gaza-011924-super-tease.jpeg",
-            "publishedAt": "2024-03-16T04:23:25Z",
-            "content": "Nongovernmental organization World Central Kitchen, which organized the first aid ship to Gaza, confirmed to CNN Friday that the first pallet of aid has been offloaded successfully into the besieged \u2026 [+1833 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "By Chris Lau, CNN",
-            "title": "Devastation in Gaza as Israel wages war on Hamas",
-            "description": "The Biden administration will meet with Israeli officials in Washington to discuss alternatives to a planned military ground offensive in Gaza's southern city of Rafah. Follow for live updates.",
-            "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-03-19-24/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240318162918-gaza-city-031824-super-tease.jpg",
-            "publishedAt": "2024-03-19T04:00:40Z",
-            "content": "The World Food Programme released a statement Monday on their Integrated Food Security Phase Classification (IPC) report about food security\u00a0in the Gaza Strip that found 88% of the regions entire pop\u2026 [+1334 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "By <a href=\"/profiles/heather-chen\">Heather Chen</a> and <a href=\"/profiles/andrew-raine\">Andrew Raine</a>, CNN",
-            "title": "Devastation in Gaza as Israel wages war on Hamas",
-            "description": "The director of Israel's Mossad intelligence agency will join a delegation at talks in Qatar on a potential ceasefire-hostages deal, according to a diplomatic source. Follow for more live news updates.",
-            "url": "https://www.cnn.com/world/live-news/israel-hamas-war-gaza-news-03-17-24/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240316171142-rafah-tent-camp-031424-super-tease.jpg",
-            "publishedAt": "2024-03-17T04:04:48Z",
-            "content": "The Ministry of Health in Gaza said 37 people, including children and pregnant women, were killed in an Israeli airstrike on a residential block in central Gaza on Friday night.\r\nCNN is unable to ver\u2026 [+1517 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Franco Ordo\u00f1ez",
-            "title": "Biden speaks with Netanyahu as tensions rise over the war in Gaza",
-            "description": "National security adviser Jake Sullivan described a \"business-like\" meeting between two leaders with different perspectives about the proposed military operation for the city of Rafah in Gaza.",
-            "url": "https://www.npr.org/2024/03/18/1239298104/biden-speaks-with-netanyahu-as-tensions-rise-over-the-war-in-gaza",
-            "urlToImage": "https://media.npr.org/assets/img/2024/03/18/israel---biden-bibi-gettyimages-1731162446_wide-3e5979dc2db3d962639b90ed41aa52afd7c80555-s1400-c100.jpg",
-            "publishedAt": "2024-03-18T21:41:08Z",
-            "content": "President Biden sits with Israeli Prime Minister Benjamin Netanyahu, at the start of the Israeli war cabinet meeting, in Tel Aviv on Oct. 18, 2023.\r\nMiriam Alster/Pool/AFP via Getty Images\r\nPresident\u2026 [+2961 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "CBS News",
-            "title": "UNICEF chief Catherine Russell says death toll of children in Gaza is \"staggering\"",
-            "description": "UNICEF chief Catherine Russell tells \"Face the Nation\" that the number of children who have died so far in Gaza in the Israel-Hamas war, which she called an \"astronomical, horrifying number.\" \"We haven't seen that rate of death among children in almost any ot\u2026",
-            "url": "https://www.cbsnews.com/video/unicef-chief-catherine-russell-says-death-toll-of-children-in-gaza-is-staggering/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/17/9702a281-b7ea-4c51-9262-6c23709b6fda/thumbnail/1200x630/b58e4cbe545a4883303373cddcb7503b/0317-ftn-russel.jpg?v=d1d78866939020fc1f2607ef7298e4ec",
-            "publishedAt": "2024-03-17T17:11:00Z",
-            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DW (English)"
-            },
-            "author": "Deutsche Welle",
-            "title": "Israel-Hamas war: Warnings grow over starvation in Gaza",
-            "description": "The US said the entire population of Gaza was \"at severe levels of acute food insecurity,\" while the UN's human rights office said Israeli restrictions on aid could be seen as using starvation as a \"weapon of war.\"",
-            "url": "https://www.dw.com/en/israel-hamas-war-warnings-grow-over-starvation-in-gaza/live-68611264",
-            "urlToImage": "https://static.dw.com/image/68611255_6.jpg",
-            "publishedAt": "2024-03-19T09:44:00Z",
-            "content": "The US National Security Advisor Jake Sullivan says President Joe Biden has asked Israeli Prime Minister Benjamin Netanyahu to send a team of military, intelligence service humanitarian aid specialis\u2026 [+1034 chars]"
-        },
-        {
-            "source": {
-                "id": "rt",
-                "name": "RT"
-            },
-            "author": "RT",
-            "title": "Gaza suffers from \u2018catastrophic\u2019 hunger \u2013 global watchdog",
-            "description": "More than two-thirds of Gaza\u2019s population are suffering from severe hunger, the global hunger monitor says Read Full Article at RT.com",
-            "url": "https://www.rt.com/news/594472-gaza-suffers-from-catastrophic-hunger/",
-            "urlToImage": "https://mf.b37mrtl.ru/files/2024.03/article/65f93c092030271c1c0dac08.jpg",
-            "publishedAt": "2024-03-19T07:20:36Z",
-            "content": "Northern Gaza has already exceeded famine levels, the global hunger monitor said on Monday. Around 300,000 people remain trapped in the Palestinian enclave amid Israeli bombardment.\r\nThe UN-backed re\u2026 [+1889 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "International Business Times"
-            },
-            "author": "Marvie Basilan",
-            "title": "Middle East Conflict Live: US Confirms Israel Killed Hamas Military Wing Deputy Leader",
-            "description": "On Day 165 of the Israel-Hamas war, the White House confirmed that Israeli troops have killed a major figure in Hamas' military leadership: the military wing chief's deputy leader.",
-            "url": "https://www.ibtimes.com/middle-east-conflict-live-us-confirms-israel-killed-hamas-military-wing-deputy-leader-3727508",
-            "urlToImage": "https://d.ibtimes.com/en/full/4515459/israels-retaliatory-offensive-has-killed-30534-people-mostly-women-children-according-gazas.jpg",
-            "publishedAt": "2024-03-19T11:51:18Z",
-            "content": "Israeli troops have been targeting senior Hamas officials in recent weeks as they prepare to enter Rafah, believed to be temporarily home to over 1.5 million Palestinians.AFP\r\nIt's Day 165 of the war\u2026 [+1718 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "VOA News"
-            },
-            "author": "webdesk@voanews.com (VOA News)",
-            "title": "Israel Launches Operation at Gaza City Hospital",
-            "description": "Netanyahu rejects attacks on his handling of the war against Hamas",
-            "url": "https://www.voanews.com/a/israel-launches-operation-at-gaza-city-hospital/7531882.html",
-            "urlToImage": "https://gdb.voanews.com/721C8F5E-B68D-4551-B5DB-B35AA07B6A83.jpg",
-            "publishedAt": "2024-03-18T04:16:18Z",
-            "content": "Israels military said Monday it was conducting an operation at the Shifa Hospital in Gaza City, an area where it came under international criticism for a November raid.\r\nIsrael Defense Forces spokesp\u2026 [+4519 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DW (English)"
-            },
-            "author": "Deutsche Welle",
-            "title": "Israel-Hamas war: Rafah civilians won't be 'locked in'",
-            "description": "The Israeli prime minister has promised that residents will be given time to leave Rafah before any military assault begins. German Chancellor Scholz questioned the high humanitarian cost of the war in Gaza. DW has more.",
-            "url": "https://www.dw.com/en/israel-hamas-war-rafah-civilians-wont-be-locked-in/live-68593695",
-            "urlToImage": "https://static.dw.com/image/68597451_6.jpg",
-            "publishedAt": "2024-03-17T17:27:00Z",
-            "content": "German Chancellor Olaf Scholz warned against an Israeli offensive on Rafah prior to his meeting with Netanyahu Image: Kay Nietfeld/dpa/picture alliance \r\nIsraeli Prime Minister Benjamin Netanyahu has\u2026 [+1537 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Spacewar.com"
-            },
-            "author": null,
-            "title": "Israeli army launches operation at Gaza's Al-Shifa hospital",
-            "description": "Gaza Strip, Palestinian Territories (AFP) Mar 18, 2024\n\n\n The Israeli army launched Monday an operation around Gaza's largest hospital, Al-Shifa, with witnesses reporting air strikes on the devastated neighbourhood where it is located. \n\nIsraeli soldiers \"are\u2026",
-            "url": "https://www.spacewar.com/reports/Israeli_army_launches_operation_at_Gazas_Al-Shifa_hospital_999.html",
-            "urlToImage": "https://www.spxdaily.com/images-hg/israel-soldiers-gaza-city-hamas-bunker-hg.jpg",
-            "publishedAt": "2024-03-18T07:50:55Z",
-            "content": "Israeli army launches operation at Gaza's Al-Shifa hospitalBy Adel Zaanoun with Chloe Rouveyrolles-Bazire in JerusalemGaza Strip, Palestinian Territories (AFP) Mar 18, 2024\r\nThe Israeli army launched\u2026 [+6136 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "International Business Times"
-            },
-            "author": "AFP News",
-            "title": "UN Agency Chief Says Israel Blocked Him From Entering Gaza",
-            "description": "The head of the UN agency for Palestinian refugees said Monday Israel had blocked him from entering the war-torn and besieged Gaza Strip where the United Nations has warned of impending famine.",
-            "url": "https://www.ibtimes.com/un-agency-chief-says-israel-blocked-him-entering-gaza-3727452",
-            "urlToImage": "https://d.ibtimes.com/en/full/4517590/unrwa-commissioner-general-philippe-lazzarini-said-there-man-made-starvation-gaza.jpg",
-            "publishedAt": "2024-03-18T19:00:28Z",
-            "content": "The head of the UN agency for Palestinian refugees said Monday Israel had blocked him from entering the war-torn and besieged Gaza Strip where the United Nations has warned of impending famine.\r\nIsra\u2026 [+3796 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Monica Alba and Courtney Kube and Jonathan Allen and Carol E. Lee and Andrea Mitchell and Kelly O'Donnell and Sahil Kapur and Abigail Williams",
-            "title": "White House weighs how to respond if Israel defies Biden with Rafah invasion",
-            "description": "The Biden administration wants to see an Israeli plan for protecting Palestinian civilians in the southernmost city in the Gaza Strip.",
-            "url": "https://www.nbcnews.com/politics/white-house/white-house-weighs-respond-israel-defies-biden-rafah-invasion-rcna143676",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240315-joe-biden-ac-827p-bc302f.jpg",
-            "publishedAt": "2024-03-16T11:00:00Z",
-            "content": "The White House effectively embraced remarks from Senate Majority Leader Chuck Schumer on Thursday that called for new elections in Israel to replace Netanyahu, described by the New York Democrat as \u2026 [+3546 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sputnikglobe.com"
-            },
-            "author": "John Miles",
-            "title": "Feeling Strain of War, Israel Considers Conscripting Ultra-Orthodox Population",
-            "description": "Ultra-Orthodox Jews in Israel have long been exempted from military service. That policy may change as Israeli society is increasingly strained by a months-long operation in Gaza.",
-            "url": "https://sputnikglobe.com/20240317/feeling-strain-of-war-israel-considers-conscripting-ultra-orthodox-population-1117376659.html",
-            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1117376659.jpg?11173768591710649419",
-            "publishedAt": "2024-03-17T04:23:38Z",
-            "content": "Get the latest news from around the world, live coverage, off-beat stories, features and analysis.\r\nhttps://sputnikglobe.com/20240317/feeling-strain-of-war-israel-considers-conscripting-ultra-orthodo\u2026 [+9165 chars]"
-        },
-        {
-            "source": {
-                "id": "rt",
-                "name": "RT"
-            },
-            "author": "RT",
-            "title": "Biden knew Israel was bombing indiscriminately \u2013 WaPo",
-            "description": "The US president was told in October that Israeli airstrikes were often carried out without \u201csolid intelligence,\u201d Washington Post claims Read Full Article at RT.com",
-            "url": "https://www.rt.com/news/594456-biden-israel-indiscriminate-bombing/",
-            "urlToImage": "https://mf.b37mrtl.ru/files/2024.03/article/65f8aa1485f54013eb6e5f19.jpg",
-            "publishedAt": "2024-03-18T21:09:05Z",
-            "content": "The White House knew since late October that Israel was regularly bombing civilian targets in Gaza, but President Joe Biden continued to publicly defend the Israeli military\u2019s conduct, the Washington\u2026 [+2949 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Juancole.com"
-            },
-            "author": "H. Scott Prosterman",
-            "title": "Schumer, breaking with Netanyahu, Signals that even Corporate Dems\u2019 Support for Israel is no Longer Unconditional",
-            "description": "Oakland, Ca. (Special to Informed Comment; Feature) - Whether driven by moral compass, or political survival; America\u2019s Democratic leaders are finally recognizing the obvious: The continued leadership of Israeli PM Benjamin Netanyahu (Bibi), is hurting Israel\u2026",
-            "url": "https://www.juancole.com/2024/03/netanyahu-corporate-unconditional.html",
-            "urlToImage": "https://media.juancole.com/images/2024/03/schumer-breaking-with-netanyahu.jpg",
-            "publishedAt": "2024-03-16T04:25:11Z",
-            "content": "Oakland, Ca. (Special to Informed Comment; Feature) \u2013 Whether driven by moral compass, or political survival; America\u2019s Democratic leaders are finally recognizing the obvious: The continued leadershi\u2026 [+5987 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "abc-news-au",
-                "name": "ABC News (AU)"
-            },
-            "author": "ABC News",
-            "title": "Netanyahu vows to press ahead with Rafah assault plan",
-            "description": "Israeli Prime Minister Benjamin Netanyahu has vowed to push ahead with an offensive on the city of Rafah, railing against growing global criticism.",
-            "url": "https://www.abc.net.au/news/2024-03-18/netanyahu-pushes-back-on-us-schumer-rafah-criticism/103599282",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/118e92f69f5923bf1b14c7fbdff1451c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-            "publishedAt": "2024-03-17T22:39:45Z",
-            "content": "<ul><li>In short: Israeli Prime Minister\u00a0Benjamin Netanyahu has vowed to push into the Gaza city of Rafah, despite pressure from close\u00a0allies.</li><li>The leader pushed back against strong criticism \u2026 [+6983 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "International Business Times"
-            },
-            "author": "Adel ZAANOUN",
-            "title": "Gaza Hunger Warnings Grow As Hopes Build For Ceasefire",
-            "description": "Efforts to hammer out a temporary truce in Gaza intensified Tuesday after months of war that have left parts of the devastated territory facing imminent famine.",
-            "url": "https://www.ibtimes.com/gaza-hunger-warnings-grow-hopes-build-ceasefire-3727502",
-            "urlToImage": "https://d.ibtimes.com/en/full/4517688/woman-child-stand-rafah-southern-gaza-strip.jpg",
-            "publishedAt": "2024-03-19T10:06:25Z",
-            "content": "Efforts to hammer out a temporary truce in Gaza intensified Tuesday after months of war that have left parts of the devastated territory facing imminent famine.\r\nA UN-backed assessment described the \u2026 [+4969 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DW (English)"
-            },
-            "author": "Deutsche Welle",
-            "title": "Israel-Hamas war: Israel to send team to US for Rafah talks",
-            "description": "White House official Jake Sullivan said Washington considers that a major Israeli ground operation in Rafah \"would be a mistake.\" He said the US would present an alternative plan to Israel. DW rounds up the latest.",
-            "url": "https://www.dw.com/en/israel-hamas-war-israel-to-send-team-to-us-for-rafah-talks/live-68598505",
-            "urlToImage": "https://static.dw.com/image/68609860_6.jpg",
-            "publishedAt": "2024-03-18T20:12:00Z",
-            "content": "The Israeli Defense Forces (IDF) said it launched a \"precise operation\" at al-Shifa Hospital in Gaza on Monday morning.\u00a0\r\n\"The operation is based on intelligence information indicating the use of the\u2026 [+1521 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sputnikglobe.com"
-            },
-            "author": "Sputnik International",
-            "title": "Israel's Netanyahu Slams Call for New Elections During Gaza Fighting",
-            "description": "MOSCOW (Sputnik) - Israeli Prime Minister Benjamin Netanyahu has pushed back against calls for new elections in the country, warning they would halt the war in Gaza and \"paralyze\" Israel for at least six months, after the top US senator criticized his leaders\u2026",
-            "url": "https://sputnikglobe.com/20240318/israels-netanyahu-slams-call-for-new-elections-during-gaza-fighting-1117406409.html",
-            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1117406409.jpg?11160345571710761515",
-            "publishedAt": "2024-03-18T11:31:54Z",
-            "content": "On October 7, 2023, Palestinian movement Hamas launched a large-scale rocket attack against Israel from Gaza and breached the border, killing 1,200 people and abducting around 240 others. Israel laun\u2026 [+287 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "VOA News"
-            },
-            "author": "webdesk@voanews.com (VOA News)",
-            "title": "Netanyahu: Israel to Push Ahead With Rafah Attack",
-            "description": "Israeli leader rejects attacks on his handling of the war against Hamas",
-            "url": "https://www.voanews.com/a/netanyahu-israel-to-push-ahead-with-rafah-attack-/7531251.html",
-            "urlToImage": "https://gdb.voanews.com/C8BD4B06-9F1A-4F4E-B6D3-F0C98510EFEE.jpg",
-            "publishedAt": "2024-03-17T15:43:11Z",
-            "content": "Israeli Prime Minister Benjamin Netanyahu on Sunday rebuffed international pressure, vowing that Israel would push ahead with an attack on Hamas militants in Rafah near the Gaza-Egyptian border, even\u2026 [+4121 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Boston Globe"
-            },
-            "author": "TIA GOLDENBERG and RAVI NESSMAN",
-            "title": "Netanyahu rails against US criticism and says Israel won\u2019t stop until \u2018total victory\u2019 is achieved",
-            "description": "In recent days, top officials from the U.S., Israel\u2019s staunchest ally which has provided key military and diplomatic support during the war, have publicly voiced their frustration with Netanyahu and his government.",
-            "url": "https://www.bostonglobe.com/2024/03/17/world/netanyahu-rails-against-us-criticism-says-israel-wont-stop-until-total-victory-is-achieved/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/yTY3_tzvCAmbPjeNrdoUX1h2yKk=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/PASC5ITTZ5NAA4B4BFPOGBDCGI.jpg",
-            "publishedAt": "2024-03-17T13:27:13Z",
-            "content": "TEL AVIV, Israel (AP) Israeli Prime Minister Benjamin Netanyahu railed Sunday against growing criticism from the United States against his leadership amid the devasting war with Hamas, saying the pre\u2026 [+3559 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "International Business Times"
-            },
-            "author": "Adel Zaanoun with Robbie Corey-Boulet in Jerusalem",
-            "title": "Deadly Strikes Hit Gaza As Israel Mulls Truce Talks Position",
-            "description": "At least 61 Palestinians were killed in overnight Israeli bombardment, the health ministry in Hamas-run Gaza said Sunday, as Israel was preparing to send negotiators to new truce talks in Qatar.",
-            "url": "https://www.ibtimes.com/deadly-strikes-hit-gaza-israel-mulls-truce-talks-position-3727360",
-            "urlToImage": "https://d.ibtimes.com/en/full/4517410/israeli-protesters-calling-hostage-release-block-highway-tel-aviv-during-anti-government-rally.jpg",
-            "publishedAt": "2024-03-17T08:51:23Z",
-            "content": "At least 61 Palestinians were killed in overnight Israeli bombardment, the health ministry in Hamas-run Gaza said Sunday, as Israel was preparing to send negotiators to new truce talks in Qatar.\r\nIsr\u2026 [+4425 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "Joel B. Pollak, Joel B. Pollak",
-            "title": "Netanyahu: Biden, Schumer Trying to 'Paralyze the Country,' Force Israel to Lose",
-            "description": "Israeli Prime Minister Benjamin Netanyahu told his government on Sunday that international leaders who are pushing for elections in the midst of the war are trying to \"paralyze the country,\" forcing Israel to stop fighting and lose the war.",
-            "url": "https://www.breitbart.com/middle-east/2024/03/17/netanyahu-biden-schumer-trying-to-paralyze-the-country-force-israel-to-lose/",
-            "urlToImage": "https://media.breitbart.com/media/2023/10/netanyahu-biden-nyc-9-20-23-getty-640x335.jpg",
-            "publishedAt": "2024-03-17T12:20:51Z",
-            "content": "Israeli Prime Minister Benjamin Netanyahu told his government on Sunday that international leaders who are pushing for elections in the midst of the war are trying to \u201cparalyze the country,\u201d forcing \u2026 [+4613 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Whyevolutionistrue.com"
-            },
-            "author": "whyevolutionistrue",
-            "title": "The administration of postwar Gaza: a suggestion",
-            "description": "This is one of the big objections to Israel defending itself: if Hamas is taken out, who will run Gaza after the war.\u00a0 The U.S., of course, wants the Palestinian Authority to run it, which is one of the dumbest ideas advanced by Biden and Blinken. The PA is t\u2026",
-            "url": "https://whyevolutionistrue.com/2024/03/17/the-administration-of-postwar-gaza/",
-            "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2023/10/weit-cover-kindle-158s.png",
-            "publishedAt": "2024-03-17T16:45:42Z",
-            "content": "This is one of the big objections to Israel defending itself: if Hamas is taken out, who will run Gaza after the war.\u00a0 The U.S., of course, wants the Palestinian Authority to run it, which is one of \u2026 [+4251 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Watch: Displaced Gazans describe al-Shifa raid",
-            "description": "The Israeli military says it has taken control of al-Shifa hospital in Gaza City in what it called an operation to \"thwart terrorist activity\".",
-            "url": "https://www.bbc.co.uk/news/av/world-middle-east-68602337",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/100EF/production/_132957756_p0hkfw75.jpg",
-            "publishedAt": "2024-03-18T19:02:44Z",
-            "content": "The Israeli military says it has taken control of al-Shifa hospital in Gaza City in what it called an operation to \"thwart terrorist activity\".\r\nIt said troops killed 20 \"terrorists\", including a sen\u2026 [+285 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Japan Today"
-            },
-            "author": null,
-            "title": "Cease-fire talks with Israel and Hamas expected to resume on Sunday in Qatar",
-            "description": "Stalled talks aimed at securing a cease-fire in the Israel-Hamas war are expected to resume in earnest in Qatar as soon as Sunday, according to Egyptian officials. The talks would mark the first time both Israeli officials and Hamas leaders join the indirect \u2026",
-            "url": "https://japantoday.com/category/world/cease-fire-talks-with-israel-and-hamas-expected-to-restart",
-            "urlToImage": null,
-            "publishedAt": "2024-03-16T21:39:05Z",
-            "content": "Stalled talks aimed at securing a cease-fire in the Israel-Hamas war are expected to resume in earnest in Qatar as soon as Sunday, according to Egyptian officials.\r\nThe talks would mark the first tim\u2026 [+5415 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Whyevolutionistrue.com"
-            },
-            "author": "whyevolutionistrue",
-            "title": "Discussion question: What does the U.S. want with Israel?",
-            "description": "It\u2019s one of those weeks when I don\u2019t really have a lot to say based on what\u2019s happening, nor any juicy articles to analyze or criticize. Instead, I\u2019d like to start a discussion. Here\u2019s the question, which could be phrased in several ways: \u201cDoes America want I\u2026",
-            "url": "https://whyevolutionistrue.com/2024/03/18/discussion-question-what-does-the-u-s-want-with-israel/",
-            "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2023/10/weit-cover-kindle-158s.png",
-            "publishedAt": "2024-03-18T16:38:29Z",
-            "content": "It\u2019s one of those weeks when I don\u2019t really have a lot to say based on what\u2019s happening, nor any juicy articles to analyze or criticize. Instead, I\u2019d like to start a discussion.\r\nHere\u2019s the question,\u2026 [+5172 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "VOA News"
-            },
-            "author": "webdesk@voanews.com (VOA News)",
-            "title": "Blinken to Discuss Cease-fire Push, Post-War Gaza Plans at Talks in Saudi Arabia and Egypt",
-            "description": "Biden expresses concern to Netanyahu about Israel\u2019s conduct of the war against Hamas.",
-            "url": "https://www.voanews.com/a/blinken-to-discuss-cease-fire-push-post-war-gaza-plans-at-talks-in-saudi-arabia-and-egypt/7533434.html",
-            "urlToImage": "https://gdb.voanews.com/9B48D81E-602A-4F87-9F61-ABB1AFA0D3A6.jpg",
-            "publishedAt": "2024-03-19T07:06:30Z",
-            "content": "U.S. Secretary of State Antony Blinken is set to visit Saudi Arabia and Egypt this week for talks that he said will focus on pushing for a cease-fire in Gaza, the release of hostages held by Palestin\u2026 [+4435 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Boston Globe"
-            },
-            "author": "AAMER MADHANI, ZEKE MILLER and JULIA FRANKEL",
-            "title": "Biden and Netanyahu hold first call in more than a month as tension grows over food crisis, war",
-            "description": "President Biden and Israeli Prime Minister Benjamin Netanyahu have spoken in their first interaction in more than a month as the divide has grown between allies over the food crisis in Gaza and the conduct of war.",
-            "url": "https://www.bostonglobe.com/2024/03/18/nation/biden-netanyahu-gaza-food-crisis/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/DKrWgx3vHIkQj1PgNriih177tqw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/WTHKYF5VDKVUDAR4Y6RUR2ASG4.jpg",
-            "publishedAt": "2024-03-18T16:15:10Z",
-            "content": "WASHINGTON (AP) President Biden and Israeli Prime Minister Benjamin Netanyahu spoke on Monday, their first interaction in more than a month, as the divide has grown between allies over food crisis in\u2026 [+1082 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Boston Globe"
-            },
-            "author": "WAFAA SHURAFA, SAMY MAGDY and TIA GOLDENBERG",
-            "title": "Israel launches another raid on Gaza\u2019s main hospital, charging that Hamas has regrouped there",
-            "description": "Israeli forces launched another raid on the Gaza Strip\u2019s largest hospital early Monday, saying Hamas militants had regrouped there and had fired on them from inside the compound, where Palestinian officials say tens of thousands of people were sheltering.",
-            "url": "https://www.bostonglobe.com/2024/03/18/world/israel-launches-another-raid-gazas-main-hospital-charging-that-hamas-has-regrouped-there/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Qsx9fzahGmFSnmHjAZHIxduGx5Y=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/JU7WBR5Q6AEFKM7S7MFXXWSKQE.jpg",
-            "publishedAt": "2024-03-18T07:58:46Z",
-            "content": "RAFAH, Gaza Strip (AP) Israeli forces launched another raid on the Gaza Strips largest hospital early Monday, saying Hamas militants had regrouped there and had fired on them from inside the compound\u2026 [+3348 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "International Business Times"
-            },
-            "author": "AFP News",
-            "title": "Israel PM Says Army Will Enter Rafah Despite 'International Pressure'",
-            "description": "Prime Minister Benjamin Netanyahu said Sunday that Israeli troops would pursue a planned ground offensive in southern Gaza's Rafah that has spurred fears of mass civilian casualties.",
-            "url": "https://www.ibtimes.com/israel-pm-says-army-will-enter-rafah-despite-international-pressure-3727366",
-            "urlToImage": "https://d.ibtimes.com/en/full/4517424/israeli-prime-minister-benjamin-netanyahu-has-stood-his-controversial-plan-military-ground.jpg",
-            "publishedAt": "2024-03-17T15:30:26Z",
-            "content": "Prime Minister Benjamin Netanyahu said Sunday that Israeli troops would pursue a planned ground offensive in southern Gaza's Rafah that has spurred fears of mass civilian casualties.\r\n\"No amount of i\u2026 [+3462 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Entire Gaza population facing acute hunger - US",
-            "description": "Secretary of State Antony Blinken says it is the first time this has happened and calls for more aid.",
-            "url": "https://www.bbc.co.uk/news/world-middle-east-68605401",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6D16/production/_132962972_mediaitem132962971.jpg",
-            "publishedAt": "2024-03-19T12:16:21Z",
-            "content": "US Secretary of State Antony Blinken has said all of Gaza's two million people are experiencing \"severe levels of acute food insecurity\".\r\nThis was first time an entire population had been so classif\u2026 [+3746 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Shtfplan.com"
-            },
-            "author": "Mac Slavo",
-            "title": "Netanyahu Reaffirms Decision To Launch An Offensive Against Rafah",
-            "description": "Israel's Prime Minister Benjamin Netanyahu has reaffirmed his determination to launch an offensive in Rafah, defying international criticism, some of which is coming from allies. \"If we stop the war now before achieving all of its goals, the meaning is that I\u2026",
-            "url": "https://www.shtfplan.com/headline-news/netanyahu-reaffirms-decision-to-launch-an-offensive-against-rafah",
-            "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/02/Depositphotos_471654106_DS.jpg",
-            "publishedAt": "2024-03-18T20:00:08Z",
-            "content": "Israel\u2019s Prime Minister Benjamin Netanyahu has reaffirmed his determination to launch an offensive in Rafah, defying international criticism, some of which is coming from allies. \u201cIf we stop the war \u2026 [+2093 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Gaza needs more larger-scale aid now, Germany says",
-            "description": "Olaf Scholz also criticises Israel's planned offensive in Rafah, warning of a danger of casualties.",
-            "url": "https://www.bbc.co.uk/news/world-middle-east-68586065",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8894/production/_132946943_7d4fd9e14cbab7c93701e8cf6fdedcbcbed4dd930_0_7500_50001000x667.jpg",
-            "publishedAt": "2024-03-16T19:55:17Z",
-            "content": "German Chancellor Olaf Scholz has called for more aid to reach Gaza on the ground, as he criticised Israel's plans for a full-scale offensive in the southern city of Rafah.\r\nIsrael has previously def\u2026 [+3693 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Spacewar.com"
-            },
-            "author": null,
-            "title": "Israeli PM Netanyahu gives green light to Rafah military ground operation",
-            "description": "Washington DC (UPI) Mar 15, 2024\n\n\n Israeli Prime Minister Benjamin Netanyahu has approved plans for the country's military to begin conducting a ground operation in the city of Rafah in southern Gaza. \n Netanyahu confirmed Friday that Israel Defense Forces c\u2026",
-            "url": "https://www.spacewar.com/reports/Israeli_PM_Netanyahu_gives_green_light_to_Rafah_military_ground_operation_999.html",
-            "urlToImage": "https://www.spxdaily.com/images-hg/netanyahu-football-us-flag-hg.jpg",
-            "publishedAt": "2024-03-18T00:39:50Z",
-            "content": "Israeli PM Netanyahu gives green light to Rafah military ground operationby Simon Druker Washington DC (UPI) Mar 15, 2024\r\nIsraeli Prime Minister Benjamin Netanyahu has approved plans for the country\u2026 [+1902 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sputnikglobe.com"
-            },
-            "author": "Sputnik International",
-            "title": "Netanyahu Says Operation in Rafah in Southern Gaza Will Be Conducted in Several Weeks",
-            "description": "MOSCOW (Sputnik) - The operation in Rafah in the southern Gaza Strip, which includes the evacuation of civilians from the city, will be carried out in a few weeks, Israeli Prime Minister Benjamin Netanyahu said on Sunday.",
-            "url": "https://sputnikglobe.com/20240317/netanyahu-says-operation-in-rafah-in-southern-gaza-will-be-conducted-in-several-weeks-1117390023.html",
-            "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1117390023.jpg?11141426921710694136",
-            "publishedAt": "2024-03-17T16:48:56Z",
-            "content": "Get the latest news from around the world, live coverage, off-beat stories, features and analysis.\r\nhttps://sputnikglobe.com/20240317/netanyahu-says-operation-in-rafah-in-southern-gaza-will-be-conduc\u2026 [+3938 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "International Business Times"
-            },
-            "author": "AFP News",
-            "title": "Israel Reports Gun Battles At Key Gaza Hospital",
-            "description": "Israel's military reported gun battles Monday between troops and fighters on the grounds of Gaza's Al-Shifa hospital, where troops launched a raid they said targeted senior Hamas militants.",
-            "url": "https://www.ibtimes.com/israel-reports-gun-battles-key-gaza-hospital-3727441",
-            "urlToImage": "https://d.ibtimes.com/en/full/4517577/displaced-palestinians-arrive-nuseirat-refugee-camp-central-gaza-after-fleeing-area-gaza.jpg",
-            "publishedAt": "2024-03-18T15:30:26Z",
-            "content": "Israel's military reported gun battles Monday between troops and fighters on the grounds of Gaza's Al-Shifa hospital, where troops launched a raid they said targeted senior Hamas militants.\r\nHours in\u2026 [+2894 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "Joel B. Pollak, Joel B. Pollak",
-            "title": "Biden Summons Israel for Talks; Says Netanyahu's Position on Hamas Is 'Nonsense'",
-            "description": "Sullivan said Biden had spoken with Netanyahu to oppose plans to attack Hamas's last stronghold in Rafah, and summoned a team of Israeli officials for talks.",
-            "url": "https://www.breitbart.com/middle-east/2024/03/18/biden-summons-israel-for-talks-says-netanyahus-position-on-hamas-is-nonsense/",
-            "urlToImage": "https://media.breitbart.com/media/2022/01/Biden_Z-640x335.jpg",
-            "publishedAt": "2024-03-18T20:47:00Z",
-            "content": "National Security Advisor Jake Sullivan told reporters at the White House on Monday that President Joe Biden had spoken with Israeli Prime Minister Benjamin Netanyahu to oppose Israeli plans to attac\u2026 [+4535 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "International Business Times"
-            },
-            "author": "Adel Zaanoun with Chloe Rouveyrolles-Bazire in Jerusalem",
-            "title": "Israeli Army Launches Operation At Gaza's Al-Shifa Hospital",
-            "description": "The Israeli army launched Monday an operation around Gaza's largest hospital, Al-Shifa, with witnesses reporting air strikes on the devastated neighbourhood where it is located.",
-            "url": "https://www.ibtimes.com/israeli-army-launches-operation-gazas-al-shifa-hospital-3727404",
-            "urlToImage": "https://d.ibtimes.com/en/full/4517502/donkey-pulled-cart-passes-rubble-al-faruq-mosque-destroyed-during-israeli-bombardment-rafah.jpg",
-            "publishedAt": "2024-03-18T05:15:28Z",
-            "content": "The Israeli army launched Monday an operation around Gaza's largest hospital, Al-Shifa, with witnesses reporting air strikes on the devastated neighbourhood where it is located.\r\nIsraeli soldiers \"ar\u2026 [+5871 chars]"
-        },
-        {
-            "source": {
-                "id": "rt",
-                "name": "RT"
-            },
-            "author": "RT",
-            "title": "US criticism of Israel \u2018inadequate\u2019 \u2013 Egypt",
-            "description": "Egypt says Washington\u2019s mere expression of opposition to Israel\u2019s planned operation in Rafah is not enough Read Full Article at RT.com",
-            "url": "https://www.rt.com/africa/594485-us-israel-ground-rafah-assault-criticism-inadequate-egypt/",
-            "urlToImage": "https://mf.b37mrtl.ru/files/2024.03/article/65f977302030271d5e579dde.jpg",
-            "publishedAt": "2024-03-19T11:39:45Z",
-            "content": "Washington must explain to Israel what the consequences would be of a ground incursion into Rafah, the southern Gaza city currently hosting more than a million displaced Palestinians, Egypt\u2019s foreign\u2026 [+2217 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Boston Globe"
-            },
-            "author": "Adam Rasgon, Vivian Yee",
-            "title": "\u2018We\u2019re not a banana republic,\u2019 Netanyahu says, rejecting US criticism",
-            "description": "The rift between Israel and the United States, it\u2019s closest ally, over the war in the Gaza Strip appears to be broadening.",
-            "url": "https://www.bostonglobe.com/2024/03/17/world/were-not-banana-republic-netanyahu-says-rejecting-us-criticism/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/h8nnZmnrS5iJi--I2PEfpJIzo2U=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/2GNG5PONCHXVKK72NQPG6HZG54.jpg",
-            "publishedAt": "2024-03-17T23:16:32Z",
-            "content": "Thats something that Israel, the Israeli public, does on its own, he said. Were not a banana republic.\r\nOn Thursday, Schumer, who is the highest-ranking Jewish elected official in the United States, \u2026 [+4356 chars]"
+            "author": "Khabarhub",
+            "title": "BCCI announces the full schedule of TATA IPL 2024",
+            "description": "KATHMANDU: The Board of Control for Cricket in India (BCCI) released the full schedule of the ongoing TATA Indian Premier League 2024 (IPL) on Monday. On February 22, 2024, the BCCI had announced the schedule for the first two weeks (21 matches), and the rema\u2026",
+            "url": "https://english.khabarhub.com/2024/26/347960/",
+            "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/03/1711352986__AI_6587.webp",
+            "publishedAt": "2024-03-26T03:15:02Z",
+            "content": "KATHMANDU: The Board of Control for Cricket in India (BCCI) released the full schedule of the ongoing TATA Indian Premier League 2024 (IPL) on Monday.\r\nOn February 22, 2024, the BCCI had announced th\u2026 [+1712 chars]"
         }
     ]
 }
